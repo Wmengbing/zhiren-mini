@@ -1,0 +1,6 @@
+<view class="container">
+  <view class="page-heading"><view class="heading-top"><text class="heading-code">NEWS &amp; INSIGHTS / 02</text><view class="heading-mark" /></view><view class="page-title">资讯与洞察</view><view class="page-subtitle">关于制造、产品，以及志人的更多动态</view></view>
+  <view wx:for="{{items}}" wx:key="id" class="news-card card {{index === 0 ? 'news-featured' : ''}}" data-id="{{item.id}}" bindtap="open"><view class="news-visual" wx:if="{{item.cover_url}}"><image lazy-load src="{{item.thumbnail_url || item.cover_url}}" mode="aspectFill" class="news-image" /><text wx:if="{{index === 0}}" class="news-latest">LATEST STORY</text></view><view class="news-copy"><view class="news-title">{{item.title}}</view><view class="news-summary">{{item.summary}}</view><view class="news-meta"><text>{{item.published_at}}</text><text class="news-read">阅读文章 ↗</text></view></view></view>
+  <view wx:if="{{!items.length && !loading && !error}}" class="empty">企业资讯即将上线</view><view wx:if="{{loading}}" class="list-footer">正在加载资讯…</view><view wx:elif="{{!hasMore && items.length}}" class="list-footer">— 每一篇，都是制造的记录 —</view>
+<view wx:if="{{error}}" class="empty" bindtap="loadMore">{{error}} · 点击重试</view>
+</view>

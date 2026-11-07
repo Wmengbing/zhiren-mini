@@ -1,0 +1,5 @@
+<view wx:if="{{item}}" class="article-page">
+  <view class="article-header"><view class="article-kicker"><view class="article-dot" /><text>ZHIREN / INSIGHTS</text></view><view class="article-title">{{item.title}}</view><view class="article-date"><text>{{item.published_at}}</text><text>志人制造 · 企业资讯</text></view></view>
+  <image wx:if="{{item.cover_url}}" src="{{item.cover_url}}" mode="widthFix" class="article-image" />
+  <view class="article-body"><view wx:if="{{item.summary}}" class="article-lead">{{item.summary}}</view><view class="article-content">{{item.content}}</view><view wx:if="{{item.source_url}}" class="article-source" bindtap="copySource"><text>来源：公司官网 · 中文整理</text><text>复制原文链接 ↗</text></view><view class="article-end"><view /><text>ZHIREN METAL</text><view /></view></view>
+</view>

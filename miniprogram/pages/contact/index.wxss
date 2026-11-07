@@ -1,0 +1,22 @@
+.contact-page .page-title{font-size:44rpx}
+.contact-banner{padding:35rpx 32rpx;background:linear-gradient(115deg,#fff,#f1f5f9);color:#2e3c50;border:1rpx solid #e2e9f1;border-radius:13rpx;margin:10rpx 0 25rpx;border-bottom:4rpx solid #ee642d}
+.contact-banner-top{display:flex;justify-content:space-between;align-items:center;font-size:17rpx;letter-spacing:3rpx;color:#949eae}
+.contact-banner-symbol{font-size:35rpx;color:#ee642d}
+.contact-brand{font-size:34rpx;font-weight:600;margin-top:26rpx;line-height:1.6;max-width:540rpx}
+.contact-banner-line{height:1rpx;background:#dde5ef;margin:29rpx 0 23rpx}
+.contact-banner-caption{font-size:22rpx;color:#8592a3;letter-spacing:2rpx}
+.contact-card{padding:0 26rpx}
+.contact-row{padding:32rpx 0;border-bottom:1rpx solid #edf0f4;display:flex;align-items:center}
+.contact-row:last-child{border-bottom:0}
+.contact-icon{width:68rpx;height:68rpx;background:#f1f3f6;border:1rpx solid #e5e8ee;display:flex;align-items:center;justify-content:center;color:#939ca9;font-size:16rpx;font-weight:600;letter-spacing:1rpx;border-radius:9rpx;margin-right:23rpx;flex-shrink:0}
+.contact-copy{flex:1;min-width:0}
+.contact-label{font-size:18rpx;color:#a0a8b4;margin-bottom:10rpx;letter-spacing:1rpx}
+.contact-value{font-size:26rpx;color:#3a424e;line-height:1.65;word-break:break-all}
+.contact-arrow{font-size:28rpx;color:#ee642d;margin-left:12rpx}
+.contact-copy-action{font-size:21rpx;color:#c97954;margin-left:15rpx;flex-shrink:0}
+.contact-inquiry{padding:38rpx 0 0}
+.contact-inquiry-title{font-size:40rpx;font-weight:600}
+.contact-inquiry-subtitle{font-size:24rpx;color:#969eaa;margin-top:15rpx}
+.inquiry-button{margin-top:30rpx;justify-content:space-between;padding:0 30rpx}
+.inquiry-button text{font-size:32rpx}
+.qr-image{width:250rpx;display:block;margin:34rpx auto}

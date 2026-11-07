@@ -1,0 +1,26 @@
+<view class="home-page">
+  <view class="industrial-hero">
+    <image lazy-load class="hero-photo" src="{{settings.hero_image_mobile_url || settings.hero_image_url || '/assets/images/official-workshop.jpg'}}" mode="aspectFill" />
+    <view class="hero-shade" />
+    <view class="hero-content">
+      <view class="brand-row"><image lazy-load class="brand-logo" src="/assets/images/official-logo.png" mode="aspectFit" /><view class="brand-location">JIANGXI · CHINA</view></view>
+      <view class="hero-caption"><view class="orange-dot" /><text>PRECISION CASTING &amp; METALWORK</text></view>
+      <view class="hero-title"><view wx:for="{{heroLines}}" wx:key="*this">{{item}}</view></view>
+      <view class="hero-subtitle">{{settings.hero_subtitle || '铜合金、不锈钢及合金碳钢精密铸造件'}}</view>
+      <view class="hero-actions"><view class="hero-primary" bindtap="goProducts">探索产品 <text>↗</text></view><view class="hero-secondary" bindtap="goCompany">走进志人 <text>→</text></view></view>
+      <view class="hero-bottom"><text>PRECISION CASTING SINCE 1993</text><text class="hero-image-note">官网生产车间</text></view>
+    </view>
+  </view>
+  <view class="business-strip"><view class="business-item"><text class="business-number">{{settings.founded_year}}</text><text>创立年份</text></view><view class="business-item"><text class="business-number">{{settings.annual_capacity}}</text><text>年生产能力</text></view><view class="business-item"><text class="business-number">{{settings.countries_served}}</text><text>国家及地区</text></view></view>
+  <view class="container home-body">
+    <view class="section-title"><view><view class="section-kicker">OUR EXPERTISE</view><view class="title">多领域，精密制造</view></view><text class="more" bindtap="goProducts">全部产品 ↗</text></view>
+    <view class="expertise-grid"><view wx:for="{{categories}}" wx:key="id" class="expertise-card" data-id="{{item.id}}" bindtap="goProducts"><view class="expertise-top"><text class="expertise-number">0{{index + 1}}</text><text class="expertise-arrow">↗</text></view><view class="expertise-name">{{item.name}}</view><view class="expertise-line" /></view><view class="expertise-card expertise-contact" bindtap="goInquiry"><view class="expertise-top"><text class="expertise-number">LET'S TALK</text><text class="expertise-arrow">↗</text></view><view class="expertise-name">聊聊您的需求</view><view class="expertise-hint">从一张图纸开始</view></view></view>
+    <view class="section-title"><view><view class="section-kicker">SELECTED PRODUCTS</view><view class="title">精选产品</view></view><text class="more" bindtap="goProducts">查看全部 ↗</text></view>
+    <view wx:if="{{products.length}}" class="product-grid"><view wx:for="{{products}}" wx:key="id" class="product-card" data-id="{{item.id}}" bindtap="goProduct"><view class="product-visual"><text class="product-index">P / 0{{index + 1}}</text><image lazy-load wx:if="{{item.cover_url}}" class="product-image" src="{{item.thumbnail_url || item.cover_url}}" mode="aspectFit" /><view wx:else class="image-fallback">ZHIREN</view></view><view class="product-info"><view class="product-name">{{item.title}}</view><view class="product-subtitle">{{item.subtitle || '精密铸造件'}}</view><view class="product-card-foot"><text>PRECISION CASTING</text><text class="product-arrow">↗</text></view></view></view></view><view wx:else class="empty card">产品信息即将上线</view>
+    <view class="about-panel" bindtap="goCompany"><view class="about-header"><text class="eyebrow">BUILT AROUND METAL</text><text class="about-arrow">↗</text></view><view class="about-title"><view>专注金属，</view><view>连接更多可能。</view></view><view class="about-company">{{settings.company_name}}</view><view class="about-summary">{{settings.company_summary}}</view><view class="about-bottom"><text>走进志人</text><view class="about-rule" /></view></view>
+    <view wx:if="{{banners.length}}"><view class="section-title"><view><view class="section-kicker">EXPLORE ZHIREN</view><view class="title">制造与合作</view></view><text class="carousel-count">{{banners.length}} STORIES</text></view><swiper class="banner-swiper" indicator-dots indicator-color="rgba(255,255,255,.3)" indicator-active-color="#ee642d" autoplay circular interval="5000"><swiper-item wx:for="{{banners}}" wx:key="id" data-index="{{index}}" bindtap="bannerTap"><image lazy-load src="{{item.image_url}}" mode="aspectFill" class="banner-image" /><view class="official-banner-caption"><text>{{item.title}}</text><text>了解更多 ↗</text></view></swiper-item></swiper></view>
+    <view class="section-title"><view><view class="section-kicker">NEWS &amp; INSIGHTS</view><view class="title">志人资讯</view></view><text class="more" bindtap="goNews">更多资讯 ↗</text></view>
+    <view wx:if="{{articles.length}}" class="home-news-list"><view wx:for="{{articles}}" wx:key="id" class="home-news-row" data-id="{{item.id}}" bindtap="goArticle"><image lazy-load wx:if="{{item.cover_url}}" src="{{item.thumbnail_url || item.cover_url}}" class="home-news-image" mode="aspectFill" /><view class="home-news-copy"><view class="home-news-title">{{item.title}}</view><view class="home-news-meta"><text>{{item.published_at}}</text><text>↗</text></view></view></view></view><view wx:else class="empty card">企业资讯即将上线</view>
+    <view class="brand-footer"><view class="brand-footer-title">ZHIREN</view><view class="brand-footer-caption">METAL · CRAFT · PRECISION</view></view>
+  </view>
+</view>

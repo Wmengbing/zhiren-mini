@@ -1,0 +1,23 @@
+.detail-visual{position:relative;background:#e9edf1}
+.detail-visual-meta{display:flex;justify-content:space-between;padding:26rpx 32rpx 0;font-size:15rpx;letter-spacing:2rpx;color:#838d9a}
+.detail-hero-image{height:570rpx;background:transparent}
+.product-gallery{height:570rpx;width:100%}
+.gallery-note{text-align:center;color:#8d98a7;font-size:20rpx;padding:0 0 22rpx}
+.detail-fallback{height:570rpx;background:linear-gradient(130deg,#e9ecf0,#c3cad3);display:flex;align-items:center;justify-content:center;color:#767f8d;font-size:30rpx;letter-spacing:6rpx;font-weight:600}
+.detail-intro{background:#fff;padding:34rpx 34rpx 0;border-bottom:1rpx solid #e6e9ef}
+.category-tag{display:inline-block;color:#c15d32;background:#fff0e8;border:1rpx solid #f7dccd;border-radius:5rpx;padding:8rpx 15rpx;font-size:21rpx}
+.detail-title{font-size:43rpx;font-weight:600;line-height:1.45;margin:20rpx 0 15rpx}
+.detail-subtitle{font-size:26rpx;color:#9aa2ae;line-height:1.7}
+.product-name-note{font-size:22rpx;color:#8d98a7;line-height:1.8;background:#f7f9fb;border-left:3rpx solid #dce3ec;padding:17rpx 21rpx;margin-top:24rpx;border-radius:4rpx}
+.detail-intro-footer{margin-top:28rpx;border-top:1rpx solid #edf0f4;padding:23rpx 0;display:flex;justify-content:space-between;color:#a0a7b1;font-size:22rpx}
+.detail-intro-arrow{color:#ee642d;font-size:27rpx}
+.detail-content{padding:26rpx 24rpx 0}
+.detail-card{background:#fff;border:1rpx solid #e6e9ee;border-radius:13rpx;margin-bottom:23rpx}
+.detail-section-code{font-size:16rpx;letter-spacing:2rpx;color:#a2aab5;margin-bottom:22rpx}
+.specification-body{white-space:pre-wrap;font-size:26rpx;line-height:2.2;color:#4f5967;padding:23rpx 26rpx;background:#f3f5f7;border-left:4rpx solid #ee642d;border-radius:4rpx}
+.detail-spacer{height:155rpx}
+.product-bottom{display:flex;align-items:center;justify-content:space-between}
+.product-bottom-copy>view{font-size:26rpx;font-weight:600}
+.product-bottom-copy>text{display:block;font-size:20rpx;color:#a0a7b1;margin-top:8rpx}
+.product-bottom .primary-button{width:310rpx;height:89rpx;font-size:27rpx;padding:0 24rpx;justify-content:space-between}
+.product-bottom .primary-button text{font-size:30rpx}

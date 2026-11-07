@@ -1,0 +1,13 @@
+.inquiry-page .page-title{font-size:48rpx}
+.product-tip{background:#fff0e8;border:1rpx solid #f6dfd0;color:#97583e;border-radius:9rpx;padding:23rpx 26rpx;font-size:24rpx;margin:8rpx 0 25rpx;line-height:1.7}
+.product-tip-label{display:block;font-size:18rpx;letter-spacing:2rpx;color:#cc8f72;margin-bottom:8rpx}
+.inquiry-form{padding:30rpx;margin-top:10rpx}
+.form-section-title{font-size:29rpx;font-weight:600;display:flex;align-items:center}
+.form-section-title>text{font-size:19rpx;color:#ee642d;margin-right:15rpx;font-weight:500;letter-spacing:2rpx}
+.form-second{border-top:1rpx solid #edf0f3;margin-top:35rpx;padding-top:33rpx}
+.message-count{font-size:20rpx;color:#adb3bd;font-weight:400}
+.consent{display:flex;align-items:center;color:#969faa;font-size:22rpx;margin-top:25rpx;line-height:1.7}
+.consent checkbox{transform:scale(.76);flex-shrink:0;margin-left:-9rpx}
+.submit-button{margin-top:28rpx;justify-content:space-between;padding:0 29rpx}
+.submit-button>text:last-child{font-size:31rpx}
+.inquiry-footnote{text-align:center;color:#a6aeba;font-size:21rpx;margin-top:29rpx}

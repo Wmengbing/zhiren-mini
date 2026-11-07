@@ -1,0 +1,32 @@
+.company-hero{height:620rpx;position:relative;background:#fff;color:#2b394c;overflow:hidden;border-bottom:1rpx solid #e8edf3}
+.company-photo,.company-mask{position:absolute;left:0;top:0;width:100%;height:100%}
+.company-photo{opacity:.88}
+.company-mask{background:linear-gradient(90deg,rgba(255,255,255,.97),rgba(255,255,255,.14))}
+.company-hero-copy{position:relative;z-index:1;padding:56rpx 38rpx}
+.company-eyebrow{font-size:18rpx;letter-spacing:4rpx;color:#8f9bac}
+.company-headline{font-size:67rpx;line-height:1.35;letter-spacing:-2rpx;font-weight:600;margin-top:36rpx}
+.company-hero-line{width:62rpx;height:5rpx;background:#ee642d;margin-top:33rpx}
+.company-name{font-size:25rpx;color:#758295;line-height:1.8;margin-top:30rpx;max-width:540rpx}
+.company-image-note{position:absolute;right:30rpx;bottom:10rpx;color:#8e96a3;font-size:16rpx}
+.company-body{padding-top:44rpx}
+.company-intro-title{font-size:35rpx;font-weight:600;margin:16rpx 0 22rpx}
+.company-business{display:flex;justify-content:space-between;padding:32rpx 0;margin:18rpx 0 36rpx;border-bottom:1rpx solid #dde2e9}
+.company-business>view{display:flex;flex-direction:column;font-size:25rpx}
+.company-business-code{font-size:17rpx;color:#ee642d;letter-spacing:3rpx;margin-bottom:12rpx}
+.company-section{margin-bottom:24rpx}
+.company-section-code{font-size:16rpx;color:#a7adb7;letter-spacing:3rpx;margin-bottom:24rpx}
+.section-image{width:100%;height:auto;display:block;background:#f1f4f8}
+.company-reading-hint{font-size:23rpx;color:#919dac;margin:10rpx 0 24rpx}
+.company-section-header{display:flex;align-items:center;justify-content:space-between;padding:29rpx 30rpx}
+.company-section-heading{flex:1;min-width:0}
+.company-section-header .company-section-code{margin-bottom:13rpx;font-size:14rpx}
+.company-section-title{font-size:28rpx;line-height:1.6;font-weight:500}
+.company-section-toggle{font-size:35rpx;color:#ce754f;padding-left:20rpx}
+.company-section-body{border-top:1rpx solid #edf0f5}
+.production-video{width:100%;height:390rpx;background:#e8edf3;display:block}
+.video-body{padding:24rpx}
+.video-current{font-size:27rpx;font-weight:500;margin:22rpx 0;color:#4a586c}
+.video-switch{display:flex;flex-wrap:wrap;justify-content:space-between}
+.video-choice{display:flex;align-items:center;width:calc(50% - 7rpx);background:#f6f8fa;color:#8491a3;font-size:22rpx;padding:18rpx 12rpx;border:1rpx solid #e9edf3;border-radius:6rpx;margin-bottom:13rpx;line-height:1.6}
+.video-choice>text{font-size:17rpx;margin-right:10rpx;color:#adb6c2}
+.video-choice-active{background:#fff4ed;border-color:#f2d7c7;color:#bb6e49}

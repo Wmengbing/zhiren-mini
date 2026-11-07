@@ -1,0 +1,60 @@
+.industrial-hero{height:840rpx;position:relative;background:#fff;color:#263241;overflow:hidden;border-bottom:1rpx solid #e7ecf2}
+.hero-photo,.hero-shade{position:absolute;left:0;top:0;width:100%;height:100%}
+.hero-photo{opacity:.88}
+.hero-shade{background:linear-gradient(90deg,rgba(255,255,255,.97),rgba(255,255,255,.18)),linear-gradient(0deg,rgba(255,255,255,.8),transparent 55%)}
+.hero-content{position:relative;z-index:1;padding:40rpx 36rpx;height:100%;display:flex;flex-direction:column}
+.brand-row{display:flex;align-items:center}
+.brand-logo{width:292rpx;height:85rpx;display:block}
+.brand-symbol{width:66rpx;height:66rpx;background:#ee642d;color:#fff;font-size:51rpx;font-weight:800;display:flex;align-items:center;justify-content:center;margin-right:18rpx;position:relative;line-height:1}
+.brand-symbol-notch{position:absolute;bottom:0;right:0;width:12rpx;height:12rpx;background:#fff}
+.brand-name{font-size:31rpx;font-weight:600;letter-spacing:4rpx}
+.brand-english{font-size:15rpx;letter-spacing:3rpx;color:#8994a2;margin-top:5rpx}
+.brand-location{margin-left:auto;font-size:15rpx;letter-spacing:2rpx;color:#929caa}
+.hero-caption{display:flex;align-items:center;margin-top:88rpx;font-size:16rpx;letter-spacing:2rpx;color:#7e8998}
+.orange-dot{height:8rpx;width:8rpx;background:#ee642d;margin-right:13rpx}
+.hero-title{font-size:66rpx;line-height:1.27;font-weight:700;letter-spacing:-1rpx;margin-top:28rpx}
+.hero-subtitle{font-size:23rpx;color:#768393;line-height:1.8;margin-top:25rpx;max-width:470rpx}
+.hero-actions{display:flex;align-items:center;margin-top:44rpx;font-size:25rpx}
+.hero-primary{display:flex;align-items:center;justify-content:space-between;width:230rpx;padding:24rpx;background:#ee642d;color:#fff;font-weight:600;border-radius:6rpx}
+.hero-primary text{font-size:29rpx}
+.hero-secondary{display:flex;align-items:center;color:#536174;margin-left:30rpx;font-size:24rpx}
+.hero-secondary text{margin-left:22rpx;color:#8b97a6}
+.hero-bottom{margin-top:auto;padding-top:28rpx;border-top:1rpx solid #dde4ec;display:flex;justify-content:space-between;font-size:14rpx;letter-spacing:2rpx;color:#8c97a6}
+.hero-image-note{letter-spacing:0;font-size:15rpx;color:#8f96a0}
+.business-strip{background:#fff;display:flex;padding:29rpx 20rpx;color:#566373;border-bottom:1rpx solid #e9edf3}
+.business-item{width:33.333%;display:flex;flex-direction:column;align-items:center;justify-content:center;border-right:1rpx solid #e6ebf2;font-size:21rpx;color:#8c97a6}
+.business-item:last-child{border:0}
+.business-number{font-size:30rpx;color:#4d5c70;margin-bottom:10rpx;font-weight:600;letter-spacing:1rpx}
+.home-body{padding-top:0}
+.expertise-grid{display:flex;flex-wrap:wrap;justify-content:space-between}
+.expertise-card{width:calc(50% - 9rpx);padding:25rpx 26rpx 20rpx;background:#fff;border:1rpx solid #e3e7ec;margin-bottom:18rpx;border-radius:10rpx}
+.expertise-top{display:flex;justify-content:space-between;align-items:center}
+.expertise-number{font-size:17rpx;letter-spacing:2rpx;color:#a2a9b3}
+.expertise-arrow{font-size:27rpx;color:#a5acb6}
+.expertise-name{font-size:28rpx;font-weight:600;margin-top:15rpx}
+.expertise-line{height:3rpx;width:28rpx;background:#ee642d;margin-top:22rpx}
+.expertise-contact{background:#fff6ef;color:#4a5360;border-color:#f3e1d6}
+.expertise-contact .expertise-number,.expertise-contact .expertise-arrow{color:#d17b53}
+.expertise-hint{font-size:20rpx;color:#9da5b2;margin-top:16rpx}
+.about-panel{margin-top:32rpx;padding:36rpx;background:#fff;border:1rpx solid #e4eaf2;border-radius:14rpx;color:#2c394b;border-top:4rpx solid #ee642d}
+.about-header{display:flex;justify-content:space-between;align-items:center;color:#939eae}
+.about-header .eyebrow{font-size:16rpx;letter-spacing:3rpx}
+.about-arrow{font-size:32rpx;color:#ee642d}
+.about-title{font-size:46rpx;line-height:1.35;font-weight:600;margin-top:34rpx}
+.about-company{font-size:24rpx;color:#5d6a7b;margin-top:33rpx;line-height:1.7}
+.about-summary{font-size:23rpx;color:#8a96a6;line-height:1.9;margin-top:15rpx;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
+.about-bottom{display:flex;align-items:center;font-size:23rpx;color:#cb734b;margin-top:32rpx}
+.about-rule{height:1rpx;background:#e2e8f0;flex:1;margin-left:24rpx}
+.banner-swiper,.banner-image{height:343rpx;width:100%;border-radius:12rpx;overflow:hidden}
+.official-banner-caption{position:absolute;left:0;right:0;bottom:0;padding:36rpx 24rpx 34rpx;background:linear-gradient(0deg,rgba(255,255,255,.97),rgba(255,255,255,.75),transparent);display:flex;align-items:flex-end;justify-content:space-between;font-size:24rpx;font-weight:500;color:#445369}
+.official-banner-caption text:first-child{flex:1;min-width:0;line-height:1.6;padding-right:20rpx}
+.official-banner-caption text:last-child{font-size:19rpx;color:#a27056;flex-shrink:0;font-weight:400;padding-bottom:5rpx}
+.carousel-count{font-size:16rpx;color:#a2a8b2;letter-spacing:2rpx;padding-bottom:5rpx}
+.home-news-list{background:#fff;border:1rpx solid #e5e8ed;border-radius:14rpx;padding:0 25rpx}
+.home-news-row{display:flex;align-items:center;padding:28rpx 0;border-bottom:1rpx solid #edf0f3}
+.home-news-row:last-child{border-bottom:0}
+.home-news-image{width:140rpx;height:132rpx;border-radius:7rpx;background:#e7eaee;flex-shrink:0;margin-right:22rpx}
+.home-news-copy{flex:1;min-width:0}
+.home-news-title{font-size:26rpx;font-weight:500;line-height:1.6;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+.home-news-meta{display:flex;justify-content:space-between;align-items:center;font-size:19rpx;color:#a2a9b3;margin-top:18rpx}
+.home-news-meta text:last-child{font-size:27rpx;color:#ee642d}

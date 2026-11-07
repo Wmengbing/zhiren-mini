@@ -1,0 +1,1049 @@
+{
+  "description": "展示名称按官网原始资料和产品图片可见结构整理；结构描述不代表已确认的型号或用途。原官网分类保留。",
+  "products": {
+    "1460557151462821888": {
+      "title": "双法兰管路壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting1.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/efded7cd-6399-4766-954a-b01887c590fe.jpg",
+      "source_hint": "Fuse Copper Accessories",
+      "review_index": 1
+    },
+    "1460557117283438592": {
+      "title": "圆盘式三通壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting2.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/d47f179e-e9f5-4e36-8811-e528071ba75d.jpg",
+      "source_hint": "Fuse Copper Accessories",
+      "review_index": 2
+    },
+    "1460557086581133312": {
+      "title": "侧开口管路壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting3.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/a74cddbe-c15f-4f9c-ba0b-3982272ddcdb.jpg",
+      "source_hint": "Fuse Copper Accessories",
+      "review_index": 3
+    },
+    "1460557050360627200": {
+      "title": "熔断器铜配件组合",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting4.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/76311cbe-5649-4954-8d0b-be7cc15c18ed.jpg",
+      "source_hint": "Fuse Copper Accessories",
+      "review_index": 4
+    },
+    "1460557013424082944": {
+      "title": "多叶片叶轮",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting6.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/86d91dc9-bfc6-4fcd-b2ad-59145d9a3591.jpg",
+      "source_hint": "Fuse Copper Accessories",
+      "review_index": 5
+    },
+    "1478412685936525312": {
+      "title": "侧接口圆形壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting22.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/709dfa1c-861c-4229-ad27-304f63747ddf.jpg",
+      "source_hint": "",
+      "review_index": 6
+    },
+    "1478412611961585664": {
+      "title": "法兰螺纹三通接头",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting21.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/92b2ee54-8c0d-4944-b089-b0c026fd330d.jpg",
+      "source_hint": "",
+      "review_index": 7
+    },
+    "1478412520036970496": {
+      "title": "内螺纹三通壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting20.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/b61b214a-9b21-49d4-941c-a85df31f627e.jpg",
+      "source_hint": "",
+      "review_index": 8
+    },
+    "1478412446555013120": {
+      "title": "矩形卡槽座组件",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting19.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/d7c293ad-abe4-435e-a8d6-5989d0130484.jpg",
+      "source_hint": "",
+      "review_index": 9
+    },
+    "1478412347414249472": {
+      "title": "环柄连接件组合",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting18.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/d66ed13f-fbda-4318-ab48-f312caa01682.jpg",
+      "source_hint": "",
+      "review_index": 10
+    },
+    "1478412262179549184": {
+      "title": "方腔双口壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting16.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/9da093a9-779c-405f-9fb7-6499d338ace3.jpg",
+      "source_hint": "",
+      "review_index": 11
+    },
+    "1478412106933829632": {
+      "title": "长柄叉口连接件",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting14.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/848313ba-8ddd-477e-a3fa-9be22a95ccf2.jpg",
+      "source_hint": "",
+      "review_index": 12
+    },
+    "1478411996315201536": {
+      "title": "双耳螺纹连接座",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting12.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/e2727341-5aaa-4135-8747-a18168b3a7f2.jpg",
+      "source_hint": "",
+      "review_index": 13
+    },
+    "1478411909969313792": {
+      "title": "圆形条孔盖板",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting11.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/4108c63f-c601-4074-90e8-87b964ae3b2e.jpg",
+      "source_hint": "",
+      "review_index": 14
+    },
+    "1478411791077572608": {
+      "title": "辐射叶片轮盘",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting10.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/c1adf6f7-8358-4cc2-916b-7a38dd027e48.jpg",
+      "source_hint": "",
+      "review_index": 15
+    },
+    "1478411702380625920": {
+      "title": "直通侧口壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting9.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/d6c03082-df1c-4bd1-b783-73edcf008640.jpg",
+      "source_hint": "",
+      "review_index": 16
+    },
+    "1478410971088891904": {
+      "title": "异径管路接头",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting8.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/0df8deee-0852-4d96-befe-86af5f46877d.jpg",
+      "source_hint": "",
+      "review_index": 17
+    },
+    "1460556978288398336": {
+      "title": "多接口安装壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AluminumBronzeCasting/AluminumBronzeCasting7.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/801bcb18-5f08-4394-b651-1410fd682cc7.jpg",
+      "source_hint": "Fuse Copper Accessories",
+      "review_index": 18
+    },
+    "1460362726564499456": {
+      "title": "圆形阀板组件",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/271.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/333fc07a-7bdc-4a76-a95e-f724b98f1a83.jpg",
+      "source_hint": "Brass Valves",
+      "review_index": 19
+    },
+    "1460362693974757376": {
+      "title": "弧脊阀板组件",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/270.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/2f87b9c9-099b-41c4-b994-1a3a7878b2dd.jpg",
+      "source_hint": "Brass Valves",
+      "review_index": 20
+    },
+    "1460362657274597376": {
+      "title": "加强筋圆形阀板",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/269.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/cae55b54-3066-4927-999c-ce6bde3d994b.jpg",
+      "source_hint": "v",
+      "review_index": 21
+    },
+    "1460362627058831360": {
+      "title": "单筋圆形阀板",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/268.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/031a7b8d-af84-4da8-ad1c-4ccfc1e15403.jpg",
+      "source_hint": "Brass Valves",
+      "review_index": 22
+    },
+    "1460362589360427008": {
+      "title": "十字筋圆形阀板",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/267.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/eb895892-0e49-4ddb-9368-ea39ac69868a.jpg",
+      "source_hint": "Brass Valves",
+      "review_index": 23
+    },
+    "1460362478085541888": {
+      "title": "宽筋圆形阀板",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/266.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/f369f8fb-5bc1-42c1-aa60-8f48fdae159a.jpg",
+      "source_hint": "Brass Valves",
+      "review_index": 24
+    },
+    "1476195978484482048": {
+      "title": "盘式流道叶轮",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting18.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/40237e72-60a6-4aad-97b0-06893adb22d7.jpg",
+      "source_hint": "",
+      "review_index": 25
+    },
+    "1476195850652430336": {
+      "title": "斜三通壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting16.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/5102c151-d698-4f76-b3a8-bbd4d7cc2ec9.jpg",
+      "source_hint": "",
+      "review_index": 26
+    },
+    "1476195685092917248": {
+      "title": "弯管连接组件",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting14.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/bbf65342-1ca3-45c4-a486-6299d9b7cd81.jpg",
+      "source_hint": "",
+      "review_index": 27
+    },
+    "1476195138193424384": {
+      "title": "三通法兰管件",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting11.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/49ad490e-db29-4ceb-84e9-693fcf72cc41.jpg",
+      "source_hint": "",
+      "review_index": 28
+    },
+    "1476194880405057536": {
+      "title": "弧叶片叶轮",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting9.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/8ef97885-dd6e-4e46-b99d-0b23017fbb83.jpg",
+      "source_hint": "",
+      "review_index": 29
+    },
+    "1476194450331762688": {
+      "title": "双环夹持连接件",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting6.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/43c83112-35a7-48f4-873d-c80f22f7dce0.jpg",
+      "source_hint": "",
+      "review_index": 30
+    },
+    "1480550198375297024": {
+      "title": "螺纹圆形端盖",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting21.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/c6127f53-c1bd-4dea-9d9d-7af656b74848.jpg",
+      "source_hint": "",
+      "review_index": 31
+    },
+    "1478008724846903296": {
+      "title": "双法兰弯头",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting20.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/017cb76b-128c-43fb-8e1a-94e0a02037ab.jpg",
+      "source_hint": "",
+      "review_index": 32
+    },
+    "1477973126830305280": {
+      "title": "U形支座",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting19.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/bb6f24dc-39d4-4f4f-b209-8e1d0938e816.jpg",
+      "source_hint": "",
+      "review_index": 33
+    },
+    "1476195499922784256": {
+      "title": "多接口法兰壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting12.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/3df94d77-0f47-4a54-9276-21a3f83bd3bf.jpg",
+      "source_hint": "",
+      "review_index": 34
+    },
+    "1476194690172399616": {
+      "title": "直齿齿轮",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting7.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/9ef080cc-d6bd-4bd7-81ce-cec6ab70de77.jpg",
+      "source_hint": "",
+      "review_index": 35
+    },
+    "1476194303004585984": {
+      "title": "底座式轴孔座",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting5.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/ebf84479-be0e-42e4-b022-4e89c8b809c4.jpg",
+      "source_hint": "",
+      "review_index": 36
+    },
+    "1476194058822844416": {
+      "title": "带轮缘叶轮",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting4.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/330c8686-1fd2-4cdd-8040-8ece2dbc9a44.jpg",
+      "source_hint": "",
+      "review_index": 37
+    },
+    "1476193850684702720": {
+      "title": "六角孔叶片轮",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting3.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/bb85e945-5e96-4782-8803-6bc84603a5e9.jpg",
+      "source_hint": "",
+      "review_index": 38
+    },
+    "1476192593869897728": {
+      "title": "弧形法兰流道壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting2.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/c3a0d6a0-3ee7-4d93-be03-288d8a369d4e.jpg",
+      "source_hint": "",
+      "review_index": 39
+    },
+    "1476185705652518912": {
+      "title": "三口流道壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/TinBronzeCasting/TinBronzeCasting1.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/cb1e35c9-e589-4e4a-98ad-90df3ec8359b.jpg",
+      "source_hint": "",
+      "review_index": 40
+    },
+    "1469719356140892160": {
+      "title": "加强筋圆盘座",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/PureCopperCasting/PureCopperElectricalFitting6.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/01dab6d6-9473-4b1c-856d-99bbcc17aa5f.jpg",
+      "source_hint": "",
+      "review_index": 41
+    },
+    "1469718153122230272": {
+      "title": "四耳连接盘",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/PureCopperCasting/PureCopperElectricalFitting5.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/36638ff5-7816-4b09-aaa5-be1371d6d5db.jpg",
+      "source_hint": "",
+      "review_index": 42
+    },
+    "1469717685482500096": {
+      "title": "多筋圆形安装座",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/PureCopperCasting/PureCopperElectricalFitting4.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/7e8d69f9-5e20-48d6-85db-0ec7d8599db4.jpg",
+      "source_hint": "",
+      "review_index": 43
+    },
+    "1469717001536372736": {
+      "title": "长条折弯连接座",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/PureCopperCasting/PureCopperElectricalFitting3.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/272ce556-7496-4849-b1f6-900539087055.jpg",
+      "source_hint": "",
+      "review_index": 44
+    },
+    "1469716007440187392": {
+      "title": "L形多孔连接板",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/PureCopperCasting/PureCopperElectricalFitting2.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/ac8f34fd-d8cb-4d94-8adf-1da4fa1fb00d.jpg",
+      "source_hint": "",
+      "review_index": 45
+    },
+    "1469714028827607040": {
+      "title": "T形多孔连接件",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/PureCopperCasting/PureCopperElectricalFitting.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/ba663316-0d10-4ee0-972a-77dae70bcdb9.jpg",
+      "source_hint": "",
+      "review_index": 46
+    },
+    "1477328793353531392": {
+      "title": "四通管路接头",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting18.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/7170d39a-2370-45b7-af85-4533a9e4fc8c.jpg",
+      "source_hint": "",
+      "review_index": 47
+    },
+    "1477328733370789888": {
+      "title": "内螺纹双耳连接座",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting17.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/bc9728e0-b312-49e7-8233-6afcb99fd708.jpg",
+      "source_hint": "",
+      "review_index": 48
+    },
+    "1477328377285017600": {
+      "title": "弯管式圆形壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting13.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/a1e859c4-c019-442e-ba23-c0834d608832.jpg",
+      "source_hint": "",
+      "review_index": 49
+    },
+    "1460557749490880512": {
+      "title": "泵用环形壳体",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting1.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/c0669e94-3045-47d9-be9d-706684e89c34.jpg",
+      "source_hint": "Pump Parts",
+      "review_index": 50
+    },
+    "1460557555203833856": {
+      "title": "外螺纹管路连接壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting2.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/a03258c2-ae71-451c-8af4-0251daa62e64.jpg",
+      "source_hint": "Copper Connector",
+      "review_index": 51
+    },
+    "1460557519099265024": {
+      "title": "直叶片轮",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting3.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/bb80e1d1-9f22-428f-809d-8d214cf52429.jpg",
+      "source_hint": "Copper Connector",
+      "review_index": 52
+    },
+    "1460557487648870400": {
+      "title": "螺旋叶片轮",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting4.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/e75f853c-3832-4c19-b323-7313f1905a8a.jpg",
+      "source_hint": "Copper Connector",
+      "review_index": 53
+    },
+    "1460557455740108800": {
+      "title": "弧叶开式叶轮",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting6.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/620aedcb-5753-4e00-8c91-79159cf585d8.jpg",
+      "source_hint": "Copper Connector",
+      "review_index": 54
+    },
+    "1460557424814002176": {
+      "title": "双法兰管路组件",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting7.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/67d97d9f-6cd1-4ece-a601-05100c5b9164.jpg",
+      "source_hint": "Copper Connector",
+      "review_index": 55
+    },
+    "1477972346847199232": {
+      "title": "三螺栓压线连接板",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting41.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/e266fab8-502e-4c1c-895a-6d06b1ae2f65.jpg",
+      "source_hint": "",
+      "review_index": 56
+    },
+    "1477972271521693696": {
+      "title": "法兰支架连接体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting40.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/a5e217ed-4943-4adb-bcc7-b1de59963613.jpg",
+      "source_hint": "",
+      "review_index": 57
+    },
+    "1477971940612079616": {
+      "title": "侧接口圆形端盖",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting38.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/a6553e44-a5a2-45ae-868d-0113b985793e.jpg",
+      "source_hint": "",
+      "review_index": 58
+    },
+    "1477971494927282176": {
+      "title": "三通管接头",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting37.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/a76f03fa-9147-4867-a453-4f31fe9b9778.jpg",
+      "source_hint": "",
+      "review_index": 59
+    },
+    "1477971398267600896": {
+      "title": "多接口分流管件",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting36.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/cb5ebd38-1302-4bea-a8f0-3280a4a74239.jpg",
+      "source_hint": "",
+      "review_index": 60
+    },
+    "1477971169535426560": {
+      "title": "圆环式安装座",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting35.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/676c4ef2-b57d-428e-836f-955522f05282.jpg",
+      "source_hint": "",
+      "review_index": 61
+    },
+    "1477971002430160896": {
+      "title": "多孔折边支架",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting34.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/6d7ee80d-7076-4d39-9d3c-be65dff3219f.jpg",
+      "source_hint": "",
+      "review_index": 62
+    },
+    "1477970696581513216": {
+      "title": "阶梯圆管接头",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting33.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/0c155dc3-74f5-4545-960b-07256b58261a.jpg",
+      "source_hint": "",
+      "review_index": 63
+    },
+    "1477970603346329600": {
+      "title": "多通管路连接组件",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting32.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/0ab3d046-3bda-4e2d-ad9f-d71908ceffa1.jpg",
+      "source_hint": "",
+      "review_index": 64
+    },
+    "1477970482726535168": {
+      "title": "筒式叶轮",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting31.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/fbbe3513-7b8b-444d-897c-6c32465bf66b.jpg",
+      "source_hint": "",
+      "review_index": 65
+    },
+    "1477970329770602496": {
+      "title": "叉口连接件组合",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting30.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/5ef6f5f9-5611-4db7-971c-b2044115107b.jpg",
+      "source_hint": "",
+      "review_index": 66
+    },
+    "1477970036353871872": {
+      "title": "带挡边齿形轮",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting29.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/31f8d437-14bb-4e3e-a999-fe42f7cd25bf.jpg",
+      "source_hint": "",
+      "review_index": 67
+    },
+    "1477969828159258624": {
+      "title": "内螺纹法兰接头",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting28.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/011cb042-f126-46b3-b0ed-b6a4a2b352b4.jpg",
+      "source_hint": "",
+      "review_index": 68
+    },
+    "1477969758877745152": {
+      "title": "金属拨柄组件",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting27.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/2e2be836-2144-474a-87e2-7c9baabaa9ea.jpg",
+      "source_hint": "",
+      "review_index": 69
+    },
+    "1477969682264588288": {
+      "title": "直角内螺纹连接体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting26.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/46761ace-70e5-451f-85d8-109729417491.jpg",
+      "source_hint": "",
+      "review_index": 70
+    },
+    "1477969513420632064": {
+      "title": "环柄与卡口连接件组合",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting23.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/73915398-7947-47bd-8dd7-9a7b7fc81122.jpg",
+      "source_hint": "",
+      "review_index": 71
+    },
+    "1477969265635983360": {
+      "title": "叉耳安装支架",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting22.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/c780d79e-496a-4073-8bc5-5c5c247b9df8.jpg",
+      "source_hint": "",
+      "review_index": 72
+    },
+    "1477969024903905280": {
+      "title": "外螺纹软管接头",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting21.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/4b31cfca-9b47-436a-aba5-c39468733e6c.jpg",
+      "source_hint": "",
+      "review_index": 73
+    },
+    "1477329597575823360": {
+      "title": "环筋锥形套筒",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting19.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/73e07965-8a5c-47e7-9090-10ffff7db7f7.jpg",
+      "source_hint": "",
+      "review_index": 74
+    },
+    "1477328662671601664": {
+      "title": "三叶形轮盘",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting16.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/70b18f4c-7003-4429-86fc-2103eb824c74.jpg",
+      "source_hint": "",
+      "review_index": 75
+    },
+    "1477328583571222528": {
+      "title": "多孔螺纹壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting14.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/7214849e-e183-4187-9d8c-6ece560c14a6.jpg",
+      "source_hint": "",
+      "review_index": 76
+    },
+    "1477328305082019840": {
+      "title": "带法兰圆筒套",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting12.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/c3752742-89e8-420e-947a-78f2df7952c8.jpg",
+      "source_hint": "",
+      "review_index": 77
+    },
+    "1477328213348397056": {
+      "title": "Y形螺纹连接壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting11.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/7ff28023-f268-4e0f-bb3a-eb5e1e5dad33.jpg",
+      "source_hint": "",
+      "review_index": 78
+    },
+    "1477327948136415232": {
+      "title": "圆弧弯管壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting10.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/f6e39bad-13c2-4f0c-a96d-fa11f56753ce.jpg",
+      "source_hint": "",
+      "review_index": 79
+    },
+    "1477327554895249408": {
+      "title": "多孔槽轮",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting9.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/eb091308-f6b6-43a9-8606-79e4dff9d4d1.jpg",
+      "source_hint": "",
+      "review_index": 80
+    },
+    "1477327395693998080": {
+      "title": "侧接口螺纹筒体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/BrassCasting/BrassCasting8.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/4791fc19-c3c2-40fa-af47-c9c83f945f80.jpg",
+      "source_hint": "",
+      "review_index": 81
+    },
+    "1460557367496146944": {
+      "title": "黄铜管接头组合",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/284.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/16418399-e6f5-4c10-a6f9-79e167344577.jpg",
+      "source_hint": "Copper Connector",
+      "review_index": 82
+    },
+    "1460556787369377792": {
+      "title": "四耳圆形盖板",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/277.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/9b8f8ace-3dfd-49cb-a50f-dfeba6074f2d.jpg",
+      "source_hint": "Copper Accessories",
+      "review_index": 83
+    },
+    "1460556744950878208": {
+      "title": "双端卡口管接头",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/276.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/475a46f2-c65d-40b8-bc5f-c54e5787a3a1.jpg",
+      "source_hint": "Copper Accessories",
+      "review_index": 84
+    },
+    "1460556708158443520": {
+      "title": "带标记环形罩体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/275.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/6e13e2db-60d4-4702-bdac-f8374f11febc.jpg",
+      "source_hint": "Copper Accessories",
+      "review_index": 85
+    },
+    "1460556672280367104": {
+      "title": "分腔圆形底座",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/274.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/5dee66fe-4cd4-4fd7-91f7-6de5abbc25ab.jpg",
+      "source_hint": "Copper Accessories",
+      "review_index": 86
+    },
+    "1460556633961205760": {
+      "title": "加强筋锥形罩",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/273.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/4dcf37d8-a241-48cd-ac21-2f6ea5f5765f.jpg",
+      "source_hint": "Copper Accessories",
+      "review_index": 87
+    },
+    "1460556590730514432": {
+      "title": "尖顶装饰头",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/272.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/26c08166-219d-4458-acf7-cbf8de9e56dc.jpg",
+      "source_hint": "Copper Accessories",
+      "review_index": 88
+    },
+    "1460560072917192704": {
+      "title": "弧面门执手",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/325.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/fc6a3665-0945-4c33-bd93-e9f0ef58cbe7.jpg",
+      "source_hint": "Copper Door Handles",
+      "review_index": 89
+    },
+    "1460560039129382912": {
+      "title": "弯柄门执手",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/324.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/efdcdb2e-c2fc-4ef9-8e19-92a5ac5b77b3.jpg",
+      "source_hint": "Copper Door Handles",
+      "review_index": 90
+    },
+    "1460560008274579456": {
+      "title": "直柄门执手",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/323.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/7e312f06-da59-4bbb-9715-4f9950f4c97a.jpg",
+      "source_hint": "Copper Door Handles",
+      "review_index": 91
+    },
+    "1460559976990769152": {
+      "title": "L形门执手",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/322.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/4cd53cb6-1827-49bd-a55f-56f004b6346e.jpg",
+      "source_hint": "Copper Door Handles",
+      "review_index": 92
+    },
+    "1460559942731694080": {
+      "title": "长柄门执手",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/321.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/d24669c9-0768-4b6e-b68e-670593b5a7b6.jpg",
+      "source_hint": "Copper Door Handles",
+      "review_index": 93
+    },
+    "1460559910519439360": {
+      "title": "环形门拉手",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/product_details/320.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/a9ce97c7-77d4-4267-b916-28344769acc4.jpg",
+      "source_hint": "Copper Door Handles",
+      "review_index": 94
+    },
+    "1460559758596050944": {
+      "title": "食品机械三通法兰连接件",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/StainlessSteelCasting/StainlessSteelCasting1.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/eae93cdd-8bf7-43c8-88b4-58c64e4a1190.jpg",
+      "source_hint": "Food Machine Parts",
+      "review_index": 95
+    },
+    "1460559718512590848": {
+      "title": "食品机械圆形壳体",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/StainlessSteelCasting/StainlessSteelCasting2.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/494680e4-d875-452d-8088-cb76158f0683.jpg",
+      "source_hint": "Food Machine Parts",
+      "review_index": 96
+    },
+    "1460559684421287936": {
+      "title": "食品机械筒形支座",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/StainlessSteelCasting/StainlessSteelCasting3.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/41f0b957-d2d1-4523-9c2a-d44fd19ae679.jpg",
+      "source_hint": "Food Machine Parts",
+      "review_index": 97
+    },
+    "1460559641591746560": {
+      "title": "食品机械圆形端盖",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/StainlessSteelCasting/StainlessSteelCasting4.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/a81ecbd2-5e66-4526-ab30-0b68b8330bca.jpg",
+      "source_hint": "Food Machine Parts",
+      "review_index": 98
+    },
+    "1460559607946543104": {
+      "title": "食品机械螺旋叶片轴",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/StainlessSteelCasting/StainlessSteelCasting6.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/30734f9f-4539-478c-b033-4864de9879f1.jpg",
+      "source_hint": "Food Machine Parts",
+      "review_index": 99
+    },
+    "1460557781306179584": {
+      "title": "泵用法兰弯管",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/StainlessSteelCasting/StainlessSteelCasting10.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/baed5eea-47b1-4626-9ee3-7c2750240a5c.jpg",
+      "source_hint": "Pump Parts",
+      "review_index": 100
+    },
+    "1477272645730664448": {
+      "title": "环形接口筒体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/StainlessSteelCasting/StainlessSteelCasting16.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/2779f69b-d70b-437a-99fd-3d1baa94a847.jpg",
+      "source_hint": "",
+      "review_index": 101
+    },
+    "1477272491669684224": {
+      "title": "带柄圆形杯体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/StainlessSteelCasting/StainlessSteelCasting12.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/a95bd3cb-efbb-448b-82f2-5549102c63e2.jpg",
+      "source_hint": "",
+      "review_index": 102
+    },
+    "1477272149506752512": {
+      "title": "异形法兰连接壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/StainlessSteelCasting/StainlessSteelCasting11.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/85ff0cd5-8ce1-4fcc-98b7-c0541f7c9445.jpg",
+      "source_hint": "",
+      "review_index": 103
+    },
+    "1460559572760526848": {
+      "title": "食品机械球形壳体",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/StainlessSteelCasting/StainlessSteelCasting7.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/1c96d5f6-6998-4fd7-ac6b-0e60ebdbc5b4.jpg",
+      "source_hint": "Food Machine Parts",
+      "review_index": 104
+    },
+    "1460558865445683200": {
+      "title": "电力设备法兰筒体",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/StainlessSteelCasting/StainlessSteelCasting8.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/25e67ada-7742-4ec1-a9e2-067afa9aa72d.jpg",
+      "source_hint": "Electrical Power Accessories",
+      "review_index": 105
+    },
+    "1460557851395690496": {
+      "title": "泵用半球形壳体",
+      "basis": "official_description_and_structure",
+      "note": "名称依据官网说明及产品外形整理，具体型号与规格请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/StainlessSteelCasting/StainlessSteelCasting9.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/0a5f1b4a-521f-4dc7-91c6-2925695c2cb2.jpg",
+      "source_hint": "Pump Parts",
+      "review_index": 106
+    },
+    "1478783581878431744": {
+      "title": "环形镂空支承筒",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AlloyCarbonSteelCasting/AlloyCarbonSteelCasting8.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/f9370e6e-2358-414a-a41b-aab96f024d2e.jpg",
+      "source_hint": "",
+      "review_index": 107
+    },
+    "1478783507626668032": {
+      "title": "U形支承底座",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AlloyCarbonSteelCasting/AlloyCarbonSteelCasting7.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/612eb712-96c3-431b-bad7-48e8e6caec6c.jpg",
+      "source_hint": "",
+      "review_index": 108
+    },
+    "1478783436264779776": {
+      "title": "碗形三叶轮",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AlloyCarbonSteelCasting/AlloyCarbonSteelCasting6.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/891a2eb0-ecb8-4597-a485-291e27fb1e2c.jpg",
+      "source_hint": "",
+      "review_index": 109
+    },
+    "1478783375258628096": {
+      "title": "六角口法兰连接座",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AlloyCarbonSteelCasting/AlloyCarbonSteelCasting4.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/8224f248-f45f-4f19-8d7f-ade6e99fbd75.jpg",
+      "source_hint": "",
+      "review_index": 110
+    },
+    "1478783303697661952": {
+      "title": "加强筋法兰支座",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AlloyCarbonSteelCasting/AlloyCarbonSteelCasting3.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/212c279f-ec54-405d-a960-30ee31bd31fa.jpg",
+      "source_hint": "",
+      "review_index": 111
+    },
+    "1478783232262221824": {
+      "title": "弯管式法兰壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AlloyCarbonSteelCasting/AlloyCarbonSteelCasting2.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/891f0477-b0ac-4ee8-b402-b47c4f3e3e39.jpg",
+      "source_hint": "",
+      "review_index": 112
+    },
+    "1479118469106184192": {
+      "title": "带齿环形罩体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AlloyCarbonSteelCasting/AlloyCarbonSteelCasting13.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/96129da5-6d82-4d31-93b7-c8712aa657dc.jpg",
+      "source_hint": "",
+      "review_index": 113
+    },
+    "1478783971636379648": {
+      "title": "开槽圆筒连接件",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AlloyCarbonSteelCasting/AlloyCarbonSteelCasting10.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/64091bc8-efe8-4480-a509-48d7a0bdbba3.jpg",
+      "source_hint": "",
+      "review_index": 114
+    },
+    "1478783719476768768": {
+      "title": "环形弯管壳体",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AlloyCarbonSteelCasting/AlloyCarbonSteelCasting9.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/804a475e-26e1-4136-a9fa-d8f527b0687c.jpg",
+      "source_hint": "",
+      "review_index": 115
+    },
+    "1477320211558137856": {
+      "title": "内槽阶梯套筒",
+      "basis": "visual_structure",
+      "note": "名称为图片结构描述，正式品名、具体型号与用途请联系确认。",
+      "reference_url": "https://www.zhirencasting.com/Product/AlloyCarbonSteelCasting/AlloyCarbonSteelCasting1.html",
+      "reference_image": "https://omo-oss-image.thefastimg.com/portal-saas/pg2025121516225710076/cms/image/1861ae59-2b3c-4378-a549-2d8101c9d8e0.jpg",
+      "source_hint": "",
+      "review_index": 116
+    }
+  }
+}

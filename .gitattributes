@@ -1,0 +1,15 @@
+* text=auto eol=lf
+*.sh text eol=lf
+*.php text eol=lf
+*.js text eol=lf
+*.vue text eol=lf
+*.json text eol=lf
+*.sql text eol=lf
+*.md text eol=lf
+*.conf text eol=lf
+*.example text eol=lf
+*.cmd text eol=crlf
+*.png binary
+*.jpg binary
+*.webp binary
+*.mp4 binary
