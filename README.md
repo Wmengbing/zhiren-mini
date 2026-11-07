@@ -3,7 +3,8 @@
 项目包含 ThinkPHP 6 API、Vue 3 + Element Plus 内容管理后台、微信原生小程序。当前已按公司官网导入正式展示资料：7 个材质分类、116 个产品、7 篇中文资讯摘要、9 个公司资料栏目和9段生产视频，并替换了原先的演示数据。
 
 Linux / 宝塔上线请按 [部署说明](deploy/baota-setup.md) 操作。Git 只传代码，数据库与上传素材使用独立迁移文件。
-本地后台为 http://127.0.0.1:8000/admin/ 。当前 phpstudy 的 80 端口已禁止直接访问项目源码目录。
+本地后台为 http://127.0.0.1:8000/admin/ ，线上后台为 https://zhirencasting.cc/admin/ （服务器部署后可用）。当前 phpstudy 的 80 端口已禁止直接访问项目源码目录。
+首次上线使用 api/.env.production.example；已有服务器后续可执行 bash deploy/update.sh 更新代码、迁移数据库并构建后台。
 
 ## 项目结构
 
@@ -79,7 +80,7 @@ npm run dev
 
 用微信开发者工具导入 `miniprogram` 文件夹，核对 `project.config.json` 中的企业小程序 AppID。
 
-复制 `miniprogram/config.local.example.js` 为 `miniprogram/config.local.js`：开发地址使用 developmentApiBase，体验版和正式版使用 productionApiBase。发布时必须使用 HTTPS 域名，并在微信小程序后台配置为合法域名。此本机配置文件不进入 Git。
+小程序体验版和正式版默认连接 `https://zhirencasting.cc`，开发版默认连接 `http://127.0.0.1:8000`。需要覆盖时，复制 `miniprogram/config.local.example.js` 为 `miniprogram/config.local.js`，分别设置 developmentApiBase 和 productionApiBase。本机覆盖配置不进入 Git。发布前在微信小程序后台配置正式域名并开启合法域名校验。
 
 小程序入口：主页、产品中心、资讯、联系；另有公司介绍、产品详情、资讯详情和合作咨询页。产品与资讯未录入时显示空状态。
 

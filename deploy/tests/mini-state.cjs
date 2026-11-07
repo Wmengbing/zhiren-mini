@@ -66,7 +66,12 @@ async function main() {
   for (const version of ['release', 'trial', 'develop']) {
     const sandbox = { module: { exports: {} }, wx: { getAccountInfoSync: () => ({ miniProgram: { envVersion: version } }) }, require: () => { throw new Error('no local config') } }
     vm.runInNewContext(configCode, sandbox)
-    assert.equal(sandbox.module.exports.apiBase, version === 'develop' ? 'http://127.0.0.1:8000' : '')
+    assert.equal(sandbox.module.exports.apiBase, version === 'develop' ? 'http://127.0.0.1:8000' : 'https://zhirencasting.cc')
+  }
+  for (const override of ['http://127.0.0.1:8000', 'https://localhost', 'https://api.example.test/']) {
+    const sandbox = { module: { exports: {} }, wx: { getAccountInfoSync: () => ({ miniProgram: { envVersion: 'release' } }) }, require: () => ({ productionApiBase: override }) }
+    vm.runInNewContext(configCode, sandbox)
+    assert.equal(sandbox.module.exports.apiBase, override === 'https://api.example.test/' ? 'https://api.example.test' : '')
   }
   let requestOptions
   const apiSandbox = { module: { exports: {} }, getApp: () => ({ globalData: { apiBase: 'https://example.test' } }), wx: { request: options => { requestOptions = options } } }
