@@ -4,6 +4,10 @@ api/vendor/
 api/.composer-cache/
 api/runtime/
 api/public/uploads/
+api/public/.htaccess
+api/public/.user.ini
+api/public/404.html
+api/public/index.html
 admin/node_modules/
 admin/.npm-cache/
 admin/dist/
