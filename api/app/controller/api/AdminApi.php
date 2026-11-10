@@ -1,6 +1,7 @@
 <?php
 namespace app\controller\api;
 
+use app\support\MediaUrl;
 use think\facade\Db;
 use think\Response;
 
@@ -188,6 +189,28 @@ class AdminApi extends ApiBase
         return $data;
     }
 
+    private function normalizeMediaPayload(string $resource, array $data, ?array $record = null): array
+    {
+        $baseUrl = (string) env('SITE.PUBLIC_BASE_URL', $this->request->domain());
+        foreach (['image_url', 'cover_url'] as $field) {
+            if (isset($data[$field])) $data[$field] = MediaUrl::forStorage($data[$field], $baseUrl);
+        }
+        if ($resource === 'products' && isset($data['gallery_json'])) {
+            $gallery = json_decode($data['gallery_json'], true);
+            $data['gallery_json'] = json_encode(MediaUrl::normalize($gallery, $baseUrl), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_THROW_ON_ERROR);
+        }
+        if ($resource === 'settings' && isset($data['value'])) {
+            $key = $record['key'] ?? '';
+            if (in_array($key, ['logo_url', 'hero_image_url', 'company_image_url', 'wechat_qr'], true)) {
+                $data['value'] = MediaUrl::forStorage($data['value'], $baseUrl);
+            } elseif ($key === 'production_videos') {
+                $videos = json_decode($data['value'], true);
+                $data['value'] = json_encode(MediaUrl::normalize($videos, $baseUrl), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_THROW_ON_ERROR);
+            }
+        }
+        return $data;
+    }
+
     private function validationError(string $resource, array $data, bool $creating): ?string
     {
         foreach ($data as $key => $value) {
@@ -258,6 +281,7 @@ class AdminApi extends ApiBase
         if (!$config) return $this->fail('资源不存在', 404);
         $data = $this->payload($resource, $this->input());
         if ($error = $this->validationError($resource, $data, true)) return $this->fail($error);
+        $data = $this->normalizeMediaPayload($resource, $data);
         $defaults = [
             'banners' => ['image_url' => '', 'link_type' => 'none', 'link_value' => '', 'sort' => 0, 'status' => 1],
             'company-pages' => ['summary' => '', 'content' => '', 'image_url' => '', 'sort' => 0, 'status' => 1],
@@ -286,6 +310,7 @@ class AdminApi extends ApiBase
         if (!$data) return $this->fail('没有可更新的字段');
         if ($error = $this->validationError($resource, $data, false)) return $this->fail($error);
         if ($resource === 'settings' && ($error = $this->settingError($record, $data))) return $this->fail($error);
+        $data = $this->normalizeMediaPayload($resource, $data, $record);
         if ($resource !== 'settings' && $resource !== 'inquiries') $data['updated_at'] = date('Y-m-d H:i:s');
         $query->update($data);
         return $this->ok(null, '保存成功');
@@ -339,7 +364,6 @@ class AdminApi extends ApiBase
         $directory = dirname(__DIR__, 3) . '/public/uploads/' . date('Y/m');
         if (!is_dir($directory) && !mkdir($directory, 0755, true)) return $this->fail('图片目录创建失败', 500);
         $file->move($directory, $filename);
-        $baseUrl = rtrim((string) env('SITE.PUBLIC_BASE_URL', $this->request->domain()), '/');
-        return $this->ok(['url' => $baseUrl . '/uploads/' . date('Y/m') . '/' . $filename]);
+        return $this->ok(['url' => '/uploads/' . date('Y/m') . '/' . $filename]);
     }
 }

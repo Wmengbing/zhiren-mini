@@ -58,8 +58,12 @@ try {
     $productId = $product['id'];
     [$status, $detail] = callApi('GET', '/products/' . $productId);
     verify($status === 200 && count($detail['gallery']) === 2, 'product gallery');
+    $mediaBase = rtrim((string) env('SITE.PUBLIC_BASE_URL', $base), '/');
+    verify($detail['cover_url'] === $mediaBase . '/uploads/smoke-cover.jpg'
+        && $detail['gallery'][1] === $mediaBase . '/uploads/smoke-extra.jpg', 'public media URLs use current base');
     [$status, $list] = callApi('GET', '/admin/products?keyword=' . $username . '&status=1&category_id=' . $categoryId, null, $token);
     verify($status === 200 && $list['total'] === 1, 'admin filters');
+    verify($list['items'][0]['cover_url'] === '/uploads/smoke-cover.jpg', 'admin keeps relative media path');
     [$status, $list] = callApi('GET', '/products?keyword=fixture_' . $suffix);
     verify($status === 200 && $list['total'] === 1, 'search application');
     verify(!array_key_exists('features', $list['items'][0]), 'compact public cards');

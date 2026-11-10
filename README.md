@@ -26,7 +26,9 @@ deploy/       Nginx 配置示例
 - 导入前内容备份：`api/runtime/official-backups/`。
 - 数据来源与产品多图关联：MySQL 表 `official_content_source`。
 
-在 `api` 目录执行 `php bin/import-official.php --dry-run` 可检查资料和导入计划；执行 `php bin/import-official.php` 导入。重复执行会按来源更新已导入记录，保留其他手动新增记录，但会覆盖已导入记录上的后续人工修改；每次导入都会先备份。正式域名变化后，设置 `SITE.PUBLIC_BASE_URL` 再导入可更新本地素材访问地址。
+在 `api` 目录执行 `php bin/import-official.php --dry-run` 可检查资料和导入计划；执行 `php bin/import-official.php` 导入。重复执行会按来源更新已导入记录，保留其他手动新增记录，但会覆盖已导入记录上的后续人工修改；每次导入都会先备份。本站素材在数据库中保存为 `/uploads/...` 相对路径，公开接口按 `SITE.PUBLIC_BASE_URL` 生成完整地址；正式环境应配置 HTTPS。以后更换域名只需修改该配置，无需重新导入官网资料或批量改库。
+
+已有数据库只需迁移一次：先备份，再执行 `php bin/normalize-media-paths.php` 预览，确认后执行 `php bin/normalize-media-paths.php --apply`。脚本只转换本机确实存在的 `/uploads/` 文件，外部图片和官网来源地址保持原样。
 
 小程序公司介绍支持折叠查看资料、点击资质原图放大，以及切换9段生产视频；产品详情支持官网产品多图。当前本地启动入口支持视频分段读取，便于拖动播放进度。导入正式资料后，演示数据脚本默认禁止再次写入测试内容。
 

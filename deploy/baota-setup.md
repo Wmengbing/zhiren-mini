@@ -47,17 +47,17 @@ chmod -R u=rwX,g=rX,o= api/runtime api/public/uploads
 restore-database.php 会拒绝覆盖已有数据库；已有库请备份并另建空库恢复。
 只恢复来自本项目工具的可信备份文件。会话与登录失败计数不会迁移。
 schema.sql 用于从零安装；本次上线应还原实际备份，保留公司资料、116 款产品及现有编辑。
-完成后替换旧的本地素材地址，不会重导官网或覆盖产品名称：
+已有数据库完成一次性素材路径迁移，不会重导官网或覆盖产品名称：
 
 ~~~bash
 cd /www/wwwroot/default/zhiren-mini/api
 php bin/backup-database.php
-php bin/rebase-media.php --to=https://zhirencasting.cc
+php bin/normalize-media-paths.php
 # 检查预览数量后应用：
-php bin/rebase-media.php --to=https://zhirencasting.cc --apply
+php bin/normalize-media-paths.php --apply
 ~~~
 
-从其他域名迁移时增加 --from=https://旧域名。不要再次运行官网导入脚本来迁移域名，以免覆盖后台改动。
+迁移后数据库中的本站图片与视频地址是 `/uploads/...`，接口仍返回可供小程序访问的完整 HTTPS 地址。以后换域名只需修改 `api/.env` 的 `SITE.PUBLIC_BASE_URL`，无需重新运行导入脚本或修改数据库；外部素材地址不受影响。
 
 ## 3. 构建后台与小程序
 

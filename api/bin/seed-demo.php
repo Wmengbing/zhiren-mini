@@ -19,7 +19,7 @@ $font = 'C:/Windows/Fonts/msyh.ttc';
 if (!is_file($font)) throw new RuntimeException('Chinese font missing: ' . $font);
 $assetDir = dirname(__DIR__) . '/public/uploads/demo-white-v3';
 if (!is_dir($assetDir) && !mkdir($assetDir, 0755, true)) throw new RuntimeException('Cannot create demo image directory.');
-$assetUrl = rtrim((string) env('SITE.PUBLIC_BASE_URL', 'http://127.0.0.1:8000'), '/') . '/uploads/demo-white-v3/';
+$assetUrl = '/uploads/demo-white-v3/';
 
 function color($im, string $hex): int
 {

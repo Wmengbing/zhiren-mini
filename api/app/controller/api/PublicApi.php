@@ -1,11 +1,18 @@
 <?php
 namespace app\controller\api;
 
+use app\support\MediaUrl;
 use think\facade\Db;
 use think\Response;
 
 class PublicApi extends ApiBase
 {
+    protected function ok($data = null, string $message = 'success'): Response
+    {
+        $baseUrl = (string) env('SITE.PUBLIC_BASE_URL', $this->request->domain());
+        return parent::ok(MediaUrl::forResponse($data, $baseUrl), $message);
+    }
+
     public function health(): Response
     {
         return $this->ok(['status' => 'ok']);
@@ -22,7 +29,7 @@ class PublicApi extends ApiBase
         if (!str_starts_with($path, '/uploads/')) return $url;
         $relative = '/uploads/optimized/' . $variant . '-' . substr(hash('sha256', $path), 0, 24) . '.jpg';
         if (!is_file(dirname(__DIR__, 3) . '/public' . $relative)) return $url;
-        return rtrim((string) env('SITE.PUBLIC_BASE_URL', $this->request->domain()), '/') . $relative;
+        return $relative;
     }
 
     private function cards(array $items): array

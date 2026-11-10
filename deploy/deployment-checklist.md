@@ -8,7 +8,7 @@
 
 ## 已完成
 
-- [x] 服务器代码更新到 `d6d2f94`，`deploy/update.sh` 存在，Git 工作区无未提交改动。
+- [x] 服务器已完成 Git 初次同步，`deploy/update.sh` 存在，Git 工作区无未提交改动。
 - [x] PHP 依赖安装完成，数据库迁移执行成功。
 - [x] 管理后台 `npm run build` 成功，`admin/dist/index.html` 存在。Vite 的资源体积提示不影响构建。
 - [x] 数据库包含 7 个产品分类、116 个产品、7 篇文章。
@@ -18,6 +18,7 @@
 
 ## 备案期间可完成
 
+- [ ] 更新本次代码后运行 `php bin/normalize-media-paths.php` 预览；在宝塔完成数据库备份，再用 `--apply` 将本站素材地址一次性改为 `/uploads/...`。
 - [ ] 确认宝塔站点运行目录是 `api/public`，项目根目录不能作为网站公开目录。
 - [ ] 确认 PHP-FPM 能读取项目内的 `api/vendor` 与 `api/.env`，并能写入 `api/runtime` 和 `api/public/uploads`。
 - [ ] 按 [Nginx 示例](nginx.conf.example)配置 `/api/v1/` 路由和 `/admin/` 静态文件映射；示例中的 PHP-FPM socket 是 PHP 8.2 路径，服务器使用 PHP 8.3 时必须按宝塔实际路径调整。不要直接覆盖宝塔整份站点配置。

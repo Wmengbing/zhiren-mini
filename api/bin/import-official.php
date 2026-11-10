@@ -13,7 +13,6 @@ $curated = require $apiRoot . '/database/official-content.php';
 $prepared = json_decode(file_get_contents($apiRoot . '/database/official-site/prepared.json'), true, 512, JSON_THROW_ON_ERROR);
 $displayNames = is_file($apiRoot . '/database/official-site/product-display-names.json') ? json_decode(file_get_contents($apiRoot . '/database/official-site/product-display-names.json'), true, 512, JSON_THROW_ON_ERROR)['products'] : [];
 $assets = json_decode(file_get_contents($apiRoot . '/database/official-site/assets.json'), true, 512, JSON_THROW_ON_ERROR);
-$baseUrl = rtrim((string) env('SITE.PUBLIC_BASE_URL', 'http://127.0.0.1:8000'), '/');
 $now = date('Y-m-d H:i:s');
 foreach ($assets as $url => $asset) {
     $path = $apiRoot . '/public' . $asset['relative_url'];
@@ -21,9 +20,9 @@ foreach ($assets as $url => $asset) {
 }
 function assetUrl(string $source): string
 {
-    global $assets, $baseUrl;
+    global $assets;
     if (!isset($assets[$source])) throw new RuntimeException('Unknown official asset: ' . $source);
-    return $baseUrl . $assets[$source]['relative_url'];
+    return $assets[$source]['relative_url'];
 }
 function officialRecord(string $table, string $sourceId, string $sourceUrl, array $record, array $metadata = [], ?array $match = null): int
 {
