@@ -5,15 +5,15 @@ Git 仓库：https://github.com/Wmengbing/wmb 。代码、数据库和上传素�
 
 ## 1. 拉取代码与配置
 
-建议 PHP 8.2、MySQL 5.7 或 8.x、Node.js 22、Composer 2、Nginx。
+建议 PHP 8.2、MySQL 5.7 或 8.x、Node.js 22、Composer 2、Nginx。宝塔安装 Node.js 后，还需在「网站 → Node 项目」选择命令行版本；新终端中确认 `node -v` 与 `npm -v` 均可用。
 PHP 需要 pdo_mysql、mbstring、fileinfo、curl、openssl、zlib；启用 proc_open 供 Composer 使用。
-在宝塔添加 API 网站，部署目录例如 /www/wwwroot/zhiren-mini。
+在宝塔添加 API 网站，部署目录例如 /www/wwwroot/default/zhiren-mini。
 网站“运行目录”必须设置为 /api/public，并将项目目录加入 PHP open_basedir，保证 vendor 与 .env 可被 PHP 读取。
 禁止将项目根目录设为可公开下载的站点目录。
 
 ~~~bash
-git clone https://github.com/Wmengbing/wmb.git /www/wwwroot/zhiren-mini
-cd /www/wwwroot/zhiren-mini
+git clone https://github.com/Wmengbing/wmb.git /www/wwwroot/default/zhiren-mini
+cd /www/wwwroot/default/zhiren-mini
 cp api/.env.production.example api/.env
 chmod 600 api/.env
 # 编辑 .env，填写服务器数据库账号、密码和 SITE.PUBLIC_BASE_URL=https://zhirencasting.cc
@@ -26,7 +26,7 @@ composer install --no-dev --prefer-dist --optimize-autoloader --no-interaction
 在宝塔创建专用数据库账号，权限限于项目数据库。
 API 与后台同域名：/api/v1/ 为接口，/admin/ 为后台。
 HTTPS 证书由宝塔申请，参考 nginx.conf.example 设置路由、后台静态目录与安全规则。
-示例已填写 zhirencasting.cc 和 /www/wwwroot/zhiren-mini；按实际安装位置核对项目路径、证书路径与 PHP-FPM socket。不要直接覆盖宝塔整份网站配置。
+示例已填写 zhirencasting.cc 和 /www/wwwroot/default/zhiren-mini；按实际安装位置核对项目路径、证书路径与 PHP-FPM socket。不要直接覆盖宝塔整份网站配置。
 
 ## 2. 导入当前真实业务数据
 
@@ -35,7 +35,7 @@ HTTPS 证书由宝塔申请，参考 nginx.conf.example 设置路由、后台静
 首次还原请使用**空数据库**，不要先执行 schema.sql，也不要先跑 migrate.php。
 
 ~~~bash
-cd /www/wwwroot/zhiren-mini/api
+cd /www/wwwroot/default/zhiren-mini/api
 php bin/restore-database.php /安全目录/database.json.gz
 php bin/migrate.php
 cd ..
@@ -50,7 +50,7 @@ schema.sql 用于从零安装；本次上线应还原实际备份，保留公司
 完成后替换旧的本地素材地址，不会重导官网或覆盖产品名称：
 
 ~~~bash
-cd /www/wwwroot/zhiren-mini/api
+cd /www/wwwroot/default/zhiren-mini/api
 php bin/backup-database.php
 php bin/rebase-media.php --to=https://zhirencasting.cc
 # 检查预览数量后应用：
@@ -62,12 +62,13 @@ php bin/rebase-media.php --to=https://zhirencasting.cc --apply
 ## 3. 构建后台与小程序
 
 ~~~bash
-cd /www/wwwroot/zhiren-mini/admin
-npm ci --no-audit --no-fund
+cd /www/wwwroot/default/zhiren-mini/admin
+npm ci --include=dev --include=optional --no-audit --no-fund
 npm run build
 ~~~
 
 Nginx 将 /admin/ 映射到 admin/dist/。修改源码后需要重新 build；日常打开后台不需要编译。
+管理后台由 Nginx 提供构建后的静态文件，不需要在宝塔中创建 Node 项目或长期启动 Vite。Node.js 只用于执行构建命令。
 保留 composer.lock、package-lock.json，以相同依赖版本部署。
 小程序在开发电脑上传发布，不在 Linux 服务器运行。
 小程序体验版和正式版默认使用 https://zhirencasting.cc，开发版仍使用 http://127.0.0.1:8000。
@@ -80,7 +81,7 @@ Nginx 将 /admin/ 映射到 admin/dist/。修改源码后需要重新 build；�
 在宝塔计划任务中每天执行：
 
 ~~~bash
-BACKUP_DIR=/www/backup/zhiren-mini /bin/bash /www/wwwroot/zhiren-mini/deploy/backup.sh
+BACKUP_DIR=/www/backup/zhiren-mini /bin/bash /www/wwwroot/default/zhiren-mini/deploy/backup.sh
 ~~~
 
 备份目录应只允许备份管理人员读取，并定期复制到另一台机器/对象存储。脚本不自动删除旧备份，请按磁盘容量制定保留策略。
@@ -88,7 +89,7 @@ BACKUP_DIR=/www/backup/zhiren-mini /bin/bash /www/wwwroot/zhiren-mini/deploy/bac
 首次部署完成后，更新代码在服务器执行：
 
 ~~~bash
-cd /www/wwwroot/zhiren-mini
+cd /www/wwwroot/default/zhiren-mini
 bash deploy/update.sh
 ~~~
 

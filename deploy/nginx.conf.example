@@ -5,7 +5,7 @@ server {
     # 替换为实际证书路径和项目路径。
     ssl_certificate /www/server/panel/vhost/cert/zhirencasting.cc/fullchain.pem;
     ssl_certificate_key /www/server/panel/vhost/cert/zhirencasting.cc/privkey.pem;
-    root /www/wwwroot/zhiren-mini/api/public;
+    root /www/wwwroot/default/zhiren-mini/api/public;
     index index.php;
     client_max_body_size 6m;
     server_tokens off;
@@ -22,7 +22,7 @@ server {
 
     location = /admin { return 302 /admin/; }
     location ^~ /admin/ {
-        alias /www/wwwroot/zhiren-mini/admin/dist/;
+        alias /www/wwwroot/default/zhiren-mini/admin/dist/;
         try_files $uri $uri/ /admin/index.html;
     }
 

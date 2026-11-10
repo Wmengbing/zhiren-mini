@@ -31,7 +31,7 @@ main() {
     )
     (
         cd admin
-        npm ci --no-audit --no-fund
+        npm ci --include=dev --include=optional --no-audit --no-fund
         npm run build
     )
     echo "Updated to $(git rev-parse --short HEAD). Reload PHP-FPM in BaoTa if OPcache requires it."
