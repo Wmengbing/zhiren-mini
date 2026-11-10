@@ -1,7 +1,7 @@
 # Linux / 宝塔部署
 
 本地后台：http://127.0.0.1:8000/admin/ 。线上后台：https://zhirencasting.cc/admin/ 。
-Git 仓库：https://github.com/Wmengbing/wmb 。代码、数据库和上传素材需要分别迁移。
+Git 仓库：https://github.com/Wmengbing/zhiren-mini 。代码、数据库和上传素材需要分别迁移。
 
 ## 1. 拉取代码与配置
 
@@ -12,7 +12,7 @@ PHP 需要 pdo_mysql、mbstring、fileinfo、curl、openssl、zlib；启用 proc
 禁止将项目根目录设为可公开下载的站点目录。
 
 ~~~bash
-git clone https://github.com/Wmengbing/wmb.git /www/wwwroot/default/zhiren-mini
+git clone https://github.com/Wmengbing/zhiren-mini.git /www/wwwroot/default/zhiren-mini
 cd /www/wwwroot/default/zhiren-mini
 cp api/.env.production.example api/.env
 chmod 600 api/.env
