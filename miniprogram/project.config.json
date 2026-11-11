@@ -2,7 +2,7 @@
   "miniprogramRoot": "./",
   "projectname": "志人企业展示",
   "description": "江西志人不锈钢制品有限公司企业展示小程序",
-  "appid": "wxcdaea89f63fdc712",
+  "appid": "wx0871df6ff4584c67",
   "setting": {
     "urlCheck": false,
     "es6": true,
@@ -32,5 +32,6 @@
     "ignore": [],
     "include": []
   },
-  "editorSetting": {}
+  "editorSetting": {},
+  "isGameTourist": false
 }
