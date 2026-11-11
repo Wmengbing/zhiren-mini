@@ -59,6 +59,22 @@ php bin/normalize-media-paths.php --apply
 
 迁移后数据库中的本站图片与视频地址是 `/uploads/...`，接口仍返回可供小程序访问的完整 HTTPS 地址。以后换域名只需修改 `api/.env` 的 `SITE.PUBLIC_BASE_URL`，无需重新运行导入脚本或修改数据库；外部素材地址不受影响。
 
+### 更新为新官网内容（2026-11-11）
+
+新官网资料快照随 Git 提交。服务器已有旧官网数据时，先在宝塔备份数据库，再执行：
+
+~~~bash
+cd /www/wwwroot/default/zhiren-mini
+git status --short
+git pull --ff-only origin main
+cd api
+php bin/import-jxzrcasting.php
+# 核对预览与宝塔备份后执行：
+php bin/import-jxzrcasting.php --apply
+~~~
+
+`git status --short` 应为空；若服务器存在未提交改动，先核对来源，不要强行清理。导入后应有 8 个上架分类、92 款上架产品和 15 篇资讯。脚本会把 113 张随仓库提交的图片复制到 `api/public/uploads/jxzrcasting/`，数据库保存相对路径；需要 PHP 用户对上传目录有写权限。现有咨询记录保留，所关联的旧产品下架归档。旧视频与证书继续使用现有上传文件，因此不要删除 `api/public/uploads/official-site/`。本次未修改后台前端代码，无需重新构建后台。
+
 ## 3. 构建后台与小程序
 
 ~~~bash

@@ -1,6 +1,6 @@
 # 江西志人不锈钢制品有限公司 · 企业展示小程序
 
-项目包含 ThinkPHP 6 API、Vue 3 + Element Plus 内容管理后台、微信原生小程序。当前已按公司官网导入正式展示资料：7 个材质分类、116 个产品、7 篇中文资讯摘要、9 个公司资料栏目和9段生产视频，并替换了原先的演示数据。
+项目包含 ThinkPHP 6 API、Vue 3 + Element Plus 内容管理后台、微信原生小程序。当前展示内容已按公司新官网 `www.jxzrcasting.com` 更新：8 个零件分类、92 款产品、15 篇技术指南中文摘要、9 个公司资料栏目和 9 段生产视频。
 
 Linux / 宝塔上线请按 [部署说明](deploy/baota-setup.md) 操作。Git 只传代码，数据库与上传素材使用独立迁移文件。
 本地后台为 http://127.0.0.1:8000/admin/ ，线上后台为 https://zhirencasting.cc/admin/ （服务器部署后可用）。当前 phpstudy 的 80 端口已禁止直接访问项目源码目录。
@@ -17,7 +17,16 @@ deploy/       Nginx 配置示例
 
 ## 官网资料与导入
 
-资料来源为 [公司官网](https://www.zhirencasting.com/)，整理日期为2026年11月7日。产品、公司图片及生产视频保留官网原始来源；英文介绍和资讯已整理为适合小程序阅读的中文内容。官网没有公开的尺寸、公差及具体材质牌号未作补填。名称与分类冲突的产品按用户确认保留官网分类并上架。
+当前资料来源为 [公司新官网](https://www.jxzrcasting.com/)，整理日期为 2026 年 11 月 11 日。按官网现行目录导入 8 个零件系列和 92 款产品；官网站点地图中另外 16 个旧产品网址返回 410，未导入。产品图片为官网部件示意图，尺寸、公差、最终材质和供货范围仍需按客户图纸确认。15 篇英文技术指南在小程序中展示中文摘要，并可复制官网原文链接。
+
+- 新官网快照：`api/database/jxzrcasting/manifest.json`、`article-digests.php` 和 `assets/`。素材随 Git 提交，导入时复制到 `api/public/uploads/jxzrcasting/`；数据库保存 `/uploads/...` 相对路径。
+- 本地重新采集：在 `api` 目录运行 `python bin/collect-jxzrcasting.py --refresh`，需要 Python 的 `requests` 与 `beautifulsoup4`。重新采集会更新快照，需重新审核后再提交；服务器部署不需要 Python 或访问源网站。
+- 导入预览：`php bin/import-jxzrcasting.php`。先在宝塔或本地备份数据库，再运行 `php bin/import-jxzrcasting.php --apply`。可重复执行，按来源更新新官网记录；会覆盖这些记录在后台的后续人工修改。
+- 导入时保留客户咨询及其关联的旧产品；关联的旧产品下架归档，旧官网其他产品从展示目录移除。旧官网生产视频与证书原图仍在新官网展示，因此继续使用已有本地文件。
+
+### 旧官网历史资料
+
+以下为旧官网 `www.zhirencasting.com` 的历史导入资料，仅供追溯。当前内容更新请使用上面的新官网脚本，不要重新运行旧导入脚本：
 
 - 内容定义：`api/database/official-content.php`。
 - 产品展示名称：`api/database/official-site/product-display-names.json`，按官网说明和图片可见结构整理；不是对图纸型号或最终用途的确认。原始官网标题仍保存在来源记录中。

@@ -6,6 +6,8 @@
 
 状态记录：2026-11-10，依据服务器终端输出；公网访问尚未验收。
 
+下方“已完成”数字是旧官网内容在服务器上的历史状态。2026-11-11 的新官网内容已在本地验证，服务器更新仍待执行。
+
 ## 已完成
 
 - [x] 服务器已完成 Git 初次同步，`deploy/update.sh` 存在，Git 工作区无未提交改动。
@@ -18,6 +20,10 @@
 
 ## 备案期间可完成
 
+- [ ] 在宝塔备份当前数据库；这一步由站点管理员自行完成。
+- [ ] 在服务器运行 `git status --short`，确认无未提交改动后执行 `git pull --ff-only origin main`，获取新官网快照与导入脚本。此次仅更新内容，无需重新构建管理后台。
+- [ ] 在 `api` 目录运行 `php bin/import-jxzrcasting.php` 预览，核对 8 个分类、92 款产品、15 篇文章、113 张图片和现有咨询数量；确认宝塔数据库备份完成后运行 `php bin/import-jxzrcasting.php --apply`。
+- [ ] 验证接口：`/api/v1/products?page=1&page_size=1` 的 `data.total` 为 92，`/api/v1/articles?page=1&page_size=1` 的 `data.total` 为 15；打开首页、产品详情及一张图片。服务器上旧咨询关联的产品会下架归档，不计入这 92 款。
 - [ ] 更新本次代码后运行 `php bin/normalize-media-paths.php` 预览；在宝塔完成数据库备份，再用 `--apply` 将本站素材地址一次性改为 `/uploads/...`。
 - [ ] 确认宝塔站点运行目录是 `api/public`，项目根目录不能作为网站公开目录。
 - [ ] 确认 PHP-FPM 能读取项目内的 `api/vendor` 与 `api/.env`，并能写入 `api/runtime` 和 `api/public/uploads`。

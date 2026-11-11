@@ -1,0 +1,2923 @@
+{
+  "origin": "https://www.jxzrcasting.com",
+  "categories": [
+    {
+      "slug": "pump-castings",
+      "title": "泵类铸件",
+      "description": "泵壳、叶轮、泵盖及按图确定的泵用接口部件。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/0c3e010aa7010348-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/pump-castings/"
+    },
+    {
+      "slug": "valve-castings",
+      "title": "阀门铸件",
+      "description": "阀体、阀盖、阀瓣及按图确定的阀门内件。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/d14e524bbec62de2-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/valve-castings/"
+    },
+    {
+      "slug": "pipe-fitting-filter-castings",
+      "title": "管路连接与过滤铸件",
+      "description": "连接体、管件及过滤器壳体。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/05e80befc095000d-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/pipe-fitting-filter-castings/"
+    },
+    {
+      "slug": "heat-exchanger-castings",
+      "title": "换热设备铸件",
+      "description": "端盖、水室及设计明确采用铸造的管板。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/marine-v3-p28.webp",
+      "source_url": "https://www.jxzrcasting.com/products/heat-exchanger-castings/"
+    },
+    {
+      "slug": "mechanical-castings",
+      "title": "机械支承、耐磨与传动铸件",
+      "description": "轴套、耐磨界面及传动毛坯。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/0731e5dc111da646-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/mechanical-castings/"
+    },
+    {
+      "slug": "electrical-castings",
+      "title": "电气连接与承力铸件",
+      "description": "导电连接、接地及安装承力件。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/8a54c2359c9a3d70-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/electrical-castings/"
+    },
+    {
+      "slug": "propeller-castings",
+      "title": "螺旋桨类铸件",
+      "description": "螺旋桨、叶片与桨毂，按项目确认制造范围。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/marine-v4-p30.webp",
+      "source_url": "https://www.jxzrcasting.com/products/propeller-castings/"
+    },
+    {
+      "slug": "hardware-custom-castings",
+      "title": "五金与其他定制铸件",
+      "description": "船用五金及其他来图定制询价。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/e4eee3fe94829314-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/hardware-custom-castings/"
+    }
+  ],
+  "products": [
+    {
+      "slug": "pump-casing-castings",
+      "category_slug": "pump-castings",
+      "title": "泵体／泵壳",
+      "summary": "泵的承压壳体",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/0c3e010aa7010348-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/pump-casing-castings/?lang=zh-cn",
+      "requirements": [
+        "流道：提供模型、流道几何形状、壁厚及加工余量。",
+        "连接接口：提供进出口连接尺寸、法兰或螺纹标准、泵盖定位止口及密封面要求。",
+        "水质与试验要求：说明实际水质、设计压力与温度、缺陷验收准则，并约定泄漏试验的责任范围。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C90500 锡青铜 可作为按图指定的泵阀零件与摩擦零件的候选材料。",
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定泵、阀门及管件铸件的候选材料。",
+        "UNS C95800 镍铝青铜 可作为指定盐水工况零件及耐磨件的候选材料。",
+        "UNS C89833 铋锡青铜 可作为指定接液零件的低铅替代候选材料。"
+      ],
+      "application": "水处理与海水淡化 原水与工业循环水  海水取水与辅助泵"
+    },
+    {
+      "slug": "pump-impeller-castings",
+      "category_slug": "pump-castings",
+      "title": "泵叶轮",
+      "summary": "离心泵过流部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/c113c10dab515825-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/pump-impeller-castings/?lang=zh-cn",
+      "requirements": [
+        "水力流道结构：说明开式或闭式结构、叶片型线、叶轮进口、轮毂及最小截面尺寸。",
+        "轴孔配合：提供轴孔、键槽、旋向、转速及配合环间隙要求。",
+        "精加工与平衡要求：明确表面粗糙度、加工余量、检验及平衡验收标准，并约定执行方。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C90500 锡青铜 请结合叶轮图纸、指定材料标准和运行工况审核该锡青铜参考材料。",
+        "UNS C95800 镍铝青铜 请结合指定介质、运行工况及客户批准的材料要求审核该镍铝青铜参考材料。"
+      ],
+      "application": "水处理与海水淡化 原水与工业循环水  海水取水与辅助泵"
+    },
+    {
+      "slug": "pump-wear-rings",
+      "category_slug": "pump-castings",
+      "title": "泵用耐磨环",
+      "summary": "叶轮与泵壳间隙配合部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/6376b8000c703a85-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/pump-wear-rings/?lang=zh-cn",
+      "requirements": [
+        "环件结构尺寸：提供内外径、宽度、台阶及固定结构。",
+        "配合副与间隙：说明冷态与热态设计间隙、配对材料、硬度及工作温度。",
+        "机械加工：明确圆度、同轴度、表面粗糙度、加工余量及最终检验要求。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C95800 镍铝青铜 可作为指定盐水工况零件及耐磨件的候选材料。",
+        "UNS C90500 锡青铜 可作为按图指定的泵阀零件与摩擦零件的候选材料。"
+      ],
+      "application": "水处理与海水淡化 原水与工业循环水  海水取水与辅助泵"
+    },
+    {
+      "slug": "pump-cover-castings",
+      "category_slug": "pump-castings",
+      "title": "泵盖",
+      "summary": "端部封闭及轴封连接部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/84e39656d81b496d-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/pump-cover-castings/?lang=zh-cn",
+      "requirements": [
+        "端盖接口：提供外形尺寸、螺栓孔分布、壳体定位止口及垫片或 O 形圈槽尺寸。",
+        "轴系相关尺寸：明确内孔、同轴度、端面平面度及加工余量。",
+        "使用条件与验收：说明水质、压力、温度、材料追溯及约定检验要求。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定泵、阀门及管件铸件的候选材料。",
+        "UNS C95800 镍铝青铜 可作为指定盐水工况零件及耐磨件的候选材料。"
+      ],
+      "application": "水处理与海水淡化 原水与工业循环水  海水取水与辅助泵"
+    },
+    {
+      "slug": "pump-shaft-sleeves",
+      "category_slug": "pump-castings",
+      "title": "泵轴套",
+      "summary": "轴封、填料或过流部位的轴保护界面",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/2442a0785cb36812-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/pump-shaft-sleeves/?lang=zh-cn",
+      "requirements": [
+        "轴配合部位：提供内孔、外径、长度、台肩、固定结构及轴配合要求。",
+        "密封接触部位：明确填料或密封布置、表面粗糙度、沟槽及同轴度。",
+        "运行工况：说明介质、转速、温度、对偶面及材料相容性。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C95800 镍铝青铜 可作为指定盐水工况零件及耐磨件的候选材料。",
+        "UNS C90500 锡青铜 可作为按图指定的泵阀零件与摩擦零件的候选材料。"
+      ],
+      "application": "工业泵阀与过程流体 工业公用工程水系统  指定工艺介质与辅助系统  泵阀替换零件"
+    },
+    {
+      "slug": "circulator-pump-housing-castings",
+      "category_slug": "pump-castings",
+      "title": "循环泵泵壳",
+      "summary": "设计采用铜合金泵壳的循环泵水侧",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/0f2c3a96b8280681-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/circulator-pump-housing-castings/?lang=zh-cn",
+      "requirements": [
+        "泵型号与设计资料：请提供泵型号、确认后的泵壳图纸、流道结构及与转动组件的配合接口。",
+        "用途类别：请区分闭式循环水与生活热水用途，并提供实际温度、压力及水质条件。",
+        "合金牌号确认：请明确材料标准及状态；涉及饮用水时，还应明确零件合规验证要求及责任方。",
+        "密封与接口：请注明垫片接触部位、定位止口、连接接口、加工基准及关键壁厚。",
+        "交付验收：请注明加工范围、泄漏试验方法与允许值、批次追溯及清洁度记录要求。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定阀体、阀盖及连接壳体铸件的候选材料。",
+        "UNS C90500 锡青铜 可作为指定泵阀零件的候选材料。",
+        "UNS C89833 铋锡青铜 在客户认可材料及制造工艺的前提下，可作为低铅替代材料进行评审。"
+      ],
+      "application": "暖通与区域供热供冷 建筑水系统调节与水力平衡  生活热水循环  水侧零部件更换"
+    },
+    {
+      "slug": "fire-pump-impeller-castings",
+      "category_slug": "pump-castings",
+      "title": "消防泵叶轮",
+      "summary": "厂家设计采用铜合金叶轮的消防泵内部",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/f6fe8d01b8c255a7-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/fire-pump-impeller-castings/?lang=zh-cn",
+      "requirements": [
+        "确认泵结构：提供型号、叶轮图纸版本、叶片与盖板、直径及旋向。",
+        "轴连接：明确轮毂孔、键槽、固定方式、基准及成品配合。",
+        "材料与介质：提供认可合金及水质条件；盐水工况替代材料须获得明确设计认可。",
+        "平衡与检验：明确平衡标准、责任方、表面粗糙度及铸造缺陷验收要求。",
+        "设备厂家验证：说明样件认可、材料与批次记录、允许的设计变更及整泵验证要求。"
+      ],
+      "materials": [
+        "UNS C90500 锡青铜 可作为指定泵阀零件的候选材料。",
+        "UNS C95800 镍铝青铜 可作为经确认的盐水泵及耐磨零件设计的候选材料。"
+      ],
+      "application": "消防水系统 按图指定的消防泵内部零件  OEM 重复采购与核准替换件"
+    },
+    {
+      "slug": "liquid-cooling-pump-housing-development",
+      "category_slug": "pump-castings",
+      "title": "液冷泵壳体",
+      "summary": "客户指定的 FWS 或 CDU 泵部位；用于 TCS 须另行认可",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-liquid-cooling-pump-housing-development.webp",
+      "source_url": "https://www.jxzrcasting.com/products/liquid-cooling-pump-housing-development/?lang=zh-cn",
+      "requirements": [
+        "回路识别：明确设施水系统（FWS）或技术冷却系统（TCS）、一次侧／二次侧及确认设备图纸。",
+        "冷却液与接液材料：提供完整冷却液规范、水质、金属、涂镀层、密封件及书面材料认可。",
+        "壳体尺寸：明确流道、壁厚、接口与密封部位、加工基准及内部清洗通道。",
+        "清洁度标准：明确颗粒物、金属离子析出、工艺残留、内表面验收及清洗包装验证要求。",
+        "承压要求与样件认可：明确温度与压力工况、泄漏试验方法及限值、样件计划，以及零件与回路验证责任。",
+        "交付范围：说明认可铸造路线、毛坯或机加工交货形式、数量、材料记录及变更控制要求。"
+      ],
+      "materials": [
+        "UNS C90500 锡青铜 可作为指定泵阀零件的候选材料。",
+        "UNS C89833 铋锡青铜 在客户认可材料及制造工艺的前提下，可作为低铅替代材料进行评审。"
+      ],
+      "application": "数据中心液冷与热管理 设施侧冷却水与 CDU 一次侧  设备侧冷却回路候选部件  样件开发与验证"
+    },
+    {
+      "slug": "shaft-seal-cover",
+      "category_slug": "pump-castings",
+      "title": "轴封盖／压盖",
+      "summary": "泵轴密封组件",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/c10f517260c04643-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/shaft-seal-cover/?lang=zh-cn",
+      "requirements": [
+        "压盖结构尺寸：图纸、中心孔、螺栓分布圆、壁厚及密封冲洗接口。",
+        "配合接口：密封尺寸、壳体定位止口、垫片槽、端面平面度及同心度。",
+        "使用条件与验收：压力、温度、介质、规定表面粗糙度及试验责任方。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "EN CC491K · CuSn5Zn5Pb5-C 含铅锡锌青铜 此类材料因铸造性能、切削加工性与耐蚀性而用于部分泵阀铸件，具体应确认工况及铅含量限制。",
+        "UNS C95800 镍铝青铜 可作为兼顾耐蚀性与强度的海水接触铸件候选材料，具体应核对铸件状态、水质与流动条件。"
+      ],
+      "application": "海水冷却系统  压载水与舱底水系统  船舶消防总管系统"
+    },
+    {
+      "slug": "valve-body-castings",
+      "category_slug": "valve-castings",
+      "title": "阀体",
+      "summary": "切断阀或调节阀的承压边界",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/d14e524bbec62de2-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/valve-body-castings/?lang=zh-cn",
+      "requirements": [
+        "阀门结构尺寸：提供阀门类型、流道、壁厚、阀盖定位止口及阀座基准。",
+        "连接接口：明确法兰或螺纹标准、端面尺寸、垫片及密封结构。",
+        "接液工况：说明工业水、盐水或饮用水介质，以及温度、压力、材料认可和规定的泄漏试验要求。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定泵、阀门及管件铸件的候选材料。",
+        "EN CC491K 含铅锡锌青铜 可作为指定泵阀铸件的 EN 标准候选牌号。",
+        "UNS C89833 铋锡青铜 可作为指定接液零件的低铅替代候选材料。",
+        "UNS C95800 镍铝青铜 可作为指定盐水工况零件及耐磨件的候选材料。"
+      ],
+      "application": "水处理与海水淡化 原水与工业循环水  海水取水与辅助泵  饮用水阀门与连接件"
+    },
+    {
+      "slug": "valve-bonnet-castings",
+      "category_slug": "valve-castings",
+      "title": "阀盖",
+      "summary": "阀杆周围的阀体封闭部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/6995e8496e3b7b8e-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/valve-bonnet-castings/?lang=zh-cn",
+      "requirements": [
+        "阀体连接部位：提供法兰或螺纹尺寸、螺栓孔分布、定位止口及密封面。",
+        "阀杆与填料：提供阀杆孔、填料腔、压盖接口及加工基准。",
+        "工况与质量记录：说明接液工况、压力、温度、材料记录及检验责任范围。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定泵、阀门及管件铸件的候选材料。",
+        "EN CC491K 含铅锡锌青铜 可作为指定泵阀铸件的 EN 标准候选牌号。",
+        "UNS C89833 铋锡青铜 可作为指定接液零件的低铅替代候选材料。"
+      ],
+      "application": "水处理与海水淡化 原水与工业循环水  海水取水与辅助泵  饮用水阀门与连接件"
+    },
+    {
+      "slug": "metal-valve-seat-rings",
+      "category_slug": "valve-castings",
+      "title": "金属阀座圈",
+      "summary": "指定金属密封阀门的固定阀座",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/68f7428e28cee7cc-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/metal-valve-seat-rings/?lang=zh-cn",
+      "requirements": [
+        "阀座尺寸：提供内外径、密封面角度、宽度及固定方式。",
+        "密封副：明确配合阀瓣材料、硬度、接触型面、表面粗糙度及研磨余量。",
+        "阀门工况：说明介质、压力、温度、启闭频次及整阀泄漏标准。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C95400 铝青铜 可作为指定耐磨件、导向件或结构件的候选材料。",
+        "UNS C95800 镍铝青铜 可作为指定盐水工况零件及耐磨件的候选材料。",
+        "UNS C90500 锡青铜 可作为按图指定的泵阀零件与摩擦零件的候选材料。"
+      ],
+      "application": "工业泵阀与过程流体 阀门驱动、导向与阀座  指定工艺介质与辅助系统  泵阀替换零件"
+    },
+    {
+      "slug": "valve-stem-nuts",
+      "category_slug": "valve-castings",
+      "title": "阀杆螺母／支架螺母",
+      "summary": "阀杆或支架处的螺纹传动部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/cf177be8e6e96044-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/valve-stem-nuts/?lang=zh-cn",
+      "requirements": [
+        "螺纹要求：提供牙型、螺距、配合、旋合长度及完整配套阀杆图纸。",
+        "载荷与运动：说明驱动载荷、工作循环、阀杆材料及润滑条件。",
+        "交货与检验：明确毛坯或已加工螺纹交货状态、硬度、基准、表面粗糙度及螺纹验收要求。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C90500 锡青铜 可作为按图指定的泵阀零件与摩擦零件的候选材料。",
+        "UNS C90700 锡青铜 可作为指定螺纹件或耐磨件的另一锡青铜候选牌号。",
+        "UNS C95400 铝青铜 可作为指定耐磨件、导向件或结构件的候选材料。"
+      ],
+      "application": "工业泵阀与过程流体 阀门驱动、导向与阀座  泵阀替换零件"
+    },
+    {
+      "slug": "bronze-valve-discs",
+      "category_slug": "valve-castings",
+      "title": "截止阀阀瓣与止回阀阀瓣",
+      "summary": "指定阀门中的活动启闭件",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/be13ed232edfeb76-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/bronze-valve-discs/?lang=zh-cn",
+      "requirements": [
+        "启闭件结构：提供截止阀或止回阀结构、阀瓣外形、行程及图纸版本。",
+        "配合接口：明确阀座型面、阀杆或铰链销连接、表面粗糙度及硬度配对。",
+        "介质与验证：说明介质、冲蚀条件、压力、温度及整阀验收责任。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定泵、阀门及管件铸件的候选材料。",
+        "UNS C90500 锡青铜 可作为按图指定的泵阀零件与摩擦零件的候选材料。",
+        "UNS C95800 镍铝青铜 可作为指定盐水工况零件及耐磨件的候选材料。"
+      ],
+      "application": "工业泵阀与过程流体 阀门驱动、导向与阀座  指定工艺介质与辅助系统  泵阀替换零件"
+    },
+    {
+      "slug": "valve-guide-bushings",
+      "category_slug": "valve-castings",
+      "title": "阀门导向衬套",
+      "summary": "阀杆或机构的滑动导向部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/1fb2522ca81e439b-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/valve-guide-bushings/?lang=zh-cn",
+      "requirements": [
+        "导向件尺寸：提供内孔、长度、外径配合、固定结构及装配基准。",
+        "运动与配合副：明确载荷、速度、配合件材料、间隙及表面粗糙度。",
+        "使用环境：说明介质接触、工作温度、润滑及磨损与检验标准。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C95400 铝青铜 可作为指定耐磨件、导向件或结构件的候选材料。",
+        "UNS C90500 锡青铜 可作为按图指定的泵阀零件与摩擦零件的候选材料。"
+      ],
+      "application": "工业泵阀与过程流体 阀门驱动、导向与阀座  指定工艺介质与辅助系统  泵阀替换零件"
+    },
+    {
+      "slug": "hvac-control-valve-body-castings",
+      "category_slug": "valve-castings",
+      "title": "调节阀阀体",
+      "summary": "闭式热水或冷冻水系统调节阀",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/21e5db1a3c98a6a7-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/hvac-control-valve-body-castings/?lang=zh-cn",
+      "requirements": [
+        "阀门结构：请提供确认后的阀体图纸、阀门结构形式、流向、阀座基准和加工余量。",
+        "通道与连接接口：请明确螺纹或法兰标准、结构长度、执行机构／阀盖接口及密封面要求。",
+        "介质与温度循环：请注明闭式采暖水或冷冻水工况、水处理方式、乙二醇等防冻介质的类型与浓度，以及运行温度循环。",
+        "压力条件与验收：请明确设计压力与温度、承压部位缺陷验收标准、泄漏试验方法、允许值及责任方。",
+        "交付与记录：请注明毛坯、粗加工或精加工交付状态、数量、材料标准及追溯记录要求。"
+      ],
+      "materials": [
+        "Rg5 锡锌青铜 可作为 OEM 指定调节阀阀体的锡锌青铜选项。",
+        "EN CC491K 含铅锡锌青铜 可作为指定水侧阀体与壳体的候选材料。",
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定阀体、阀盖及连接壳体铸件的候选材料。"
+      ],
+      "application": "暖通与区域供热供冷 建筑水系统调节与水力平衡  区域供热供冷换热站  水侧零部件更换"
+    },
+    {
+      "slug": "bronze-balancing-valve-body-castings",
+      "category_slug": "valve-castings",
+      "title": "平衡阀阀体",
+      "summary": "水系统支路平衡阀",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/6d6a7513cfa07926-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/bronze-balancing-valve-body-castings/?lang=zh-cn",
+      "requirements": [
+        "阀体图纸：请明确流向、阀座轮廓、壁厚、加工基准及阀体与阀盖连接结构。",
+        "测压接口：请注明取压位置、螺纹、密封结构及检验基准。",
+        "回路工况：请提供实际水质、防冻液含量、工作压力、温度及循环运行条件。",
+        "连接接口：请确认端部连接标准、安装空间及密封面要求。",
+        "验证范围：请明确尺寸检验、阀体泄漏检验和整阀流量标定的责任范围，以及材料和批次记录要求。"
+      ],
+      "materials": [
+        "EN CC491K 含铅锡锌青铜 可作为指定水侧阀体与壳体的候选材料。",
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定阀体、阀盖及连接壳体铸件的候选材料。"
+      ],
+      "application": "暖通与区域供热供冷 建筑水系统调节与水力平衡  区域供热供冷换热站  水侧零部件更换"
+    },
+    {
+      "slug": "pressure-reducing-valve-body-castings",
+      "category_slug": "valve-castings",
+      "title": "减压阀阀体",
+      "summary": "经确认适用于特定水工况的减压阀",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/7c0c0adc20973aac-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/pressure-reducing-valve-body-castings/?lang=zh-cn",
+      "requirements": [
+        "确认的阀门型号：明确水工况设计、流向、阀体图纸及调压机构／阀盖接口。",
+        "进出口工况：提供进出口压力要求、工作温度及瞬态条件，供设备厂家评审。",
+        "介质：说明水质、乙二醇或水处理药剂成分，以及饮用水相关要求。",
+        "阀座与连接部位：明确阀座基准、螺纹或法兰标准、密封面及加工余量。",
+        "验收责任：明确阀体泄漏与缺陷检查、整阀调压性能验证的分工，以及材料和批次文件要求。"
+      ],
+      "materials": [
+        "EN CC491K 含铅锡锌青铜 可作为指定水侧阀体与壳体的候选材料。",
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定阀体、阀盖及连接壳体铸件的候选材料。",
+        "UNS C89833 铋锡青铜 在客户认可材料及制造工艺的前提下，可作为低铅替代材料进行评审。"
+      ],
+      "application": "暖通与区域供热供冷 区域供热供冷换热站  生活热水循环  水侧零部件更换"
+    },
+    {
+      "slug": "check-valve-body-castings",
+      "category_slug": "valve-castings",
+      "title": "止回阀阀体",
+      "summary": "泵出口或水侧防倒流部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/588c77d1c953e077-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/check-valve-body-castings/?lang=zh-cn",
+      "requirements": [
+        "阀门结构形式：请提供旋启式、升降式或其他结构形式、安装方向、阀体图纸及流向。",
+        "启闭机构配合部位：请明确铰链／销孔或导向结构、阀座基准、阀盖接合部位及运动间隙。",
+        "管路连接：请注明连接标准、结构长度及垫片或螺纹细节。",
+        "水介质工况：请注明用途类别、水质、压力、温度及材料认可要求。",
+        "检验与装配验证：请约定铸造缺陷与阀体泄漏验收标准，并明确整阀功能试验及追溯要求。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定阀体、阀盖及连接壳体铸件的候选材料。",
+        "EN CC491K 含铅锡锌青铜 可作为指定水侧阀体与壳体的候选材料。",
+        "UNS C89833 铋锡青铜 在客户认可材料及制造工艺的前提下，可作为低铅替代材料进行评审。"
+      ],
+      "application": "暖通与区域供热供冷 建筑水系统调节与水力平衡  区域供热供冷换热站  生活热水循环  水侧零部件更换"
+    },
+    {
+      "slug": "fire-gate-valve-body-castings",
+      "category_slug": "valve-castings",
+      "title": "消防闸阀阀体",
+      "summary": "自动喷水或消防立管系统控制阀",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/cd4f2b1fae60d6db-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/fire-gate-valve-body-castings/?lang=zh-cn",
+      "requirements": [
+        "确认设计：提供设备厂家图纸版本、闸板布置、安装方向及设计变更审批要求。",
+        "承压边界：明确壁厚、铸造缺陷验收、设计条件以及阀体泄漏试验方法与限值。",
+        "端部连接：提供准确螺纹／法兰标准、尺寸、密封面及当地接口要求。",
+        "闸板与阀盖接口：明确阀座位置、导向结构、阀盖连接、基准及加工余量。",
+        "认可与检验记录：说明认可材料标准、首件及批次文件要求，并明确设备厂家对整机产品的验证责任。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定阀体、阀盖及连接壳体铸件的候选材料。"
+      ],
+      "application": "消防水系统 喷淋与消火栓系统阀门  OEM 重复采购与核准替换件"
+    },
+    {
+      "slug": "fire-check-valve-disc-castings",
+      "category_slug": "valve-castings",
+      "title": "止回阀阀瓣／水泵接合器止回瓣",
+      "summary": "指定止回阀或消防水泵接合器内的启闭件",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/b91c63adc1dc6d86-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/fire-check-valve-disc-castings/?lang=zh-cn",
+      "requirements": [
+        "启闭件结构尺寸：提供阀瓣轮廓、铰接耳或导向结构、重量相关设计要求及确认图纸。",
+        "枢轴与行程：明确销孔、固定方式、开启行程及安装方向。",
+        "阀座配合面：明确密封轮廓、对偶面材料、相关弹性体接口及表面粗糙度。",
+        "运行性能验收：明确冲击／关闭特性、压力及装配泄漏验证的责任分工。",
+        "材料与追溯：说明认可合金、铸造或毛坯路线、加工状态及首件与批次记录。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定阀体、阀盖及连接壳体铸件的候选材料。",
+        "UNS C90500 锡青铜 可作为指定泵阀零件的候选材料。"
+      ],
+      "application": "消防水系统 喷淋与消火栓系统阀门  消防给水与水带连接件  OEM 重复采购与核准替换件"
+    },
+    {
+      "slug": "fire-hose-valve-body-castings",
+      "category_slug": "valve-castings",
+      "title": "消防水带出水阀阀体",
+      "summary": "消防立管或水带出水阀",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/d8d6adfb66b29fcd-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/fire-hose-valve-body-castings/?lang=zh-cn",
+      "requirements": [
+        "阀门设计：明确直通式、角式或减压式设计、确认图纸及流向。",
+        "水带与管路连接端：分别提供连接标准、螺纹细节、当地配合要求及尺寸。",
+        "阀座与阀杆区域：明确阀座基准、阀盖连接、阀杆对中及加工余量。",
+        "承压与机械要求：提供设计工况、接口载荷、本体缺陷及泄漏标准。",
+        "放行责任：明确认可材料、加工范围、检验记录及整阀性能与认可责任方。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定阀体、阀盖及连接壳体铸件的候选材料。",
+        "客户指定铸造合金 认可铜合金 仅在水带出水阀图纸指定时，作为另一铸造合金选项。"
+      ],
+      "application": "消防水系统 消防给水与水带连接件  OEM 重复采购与核准替换件"
+    },
+    {
+      "slug": "liquid-cooling-valve-body-development",
+      "category_slug": "valve-castings",
+      "title": "液冷阀体",
+      "summary": "客户认可的设施水或 CDU 回路调节、切断部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-liquid-cooling-valve-body-development.webp",
+      "source_url": "https://www.jxzrcasting.com/products/liquid-cooling-valve-body-development/?lang=zh-cn",
+      "requirements": [
+        "阀门与回路要求：提供阀门功能、流向、回路类型及设备厂家确认的图纸版本。",
+        "材料认可：列明所有接液金属、涂镀层、密封件、冷却液成分及客户允许的材料与工艺路线。",
+        "阀座与接口：明确阀座基准、阀体与阀盖连接、接口、密封面及加工余量。",
+        "清洁度与放行：明确颗粒、残留及离子析出标准、清洗验证和防护包装。",
+        "泄漏与工况：提供温度与压力、泄漏试验方法及限值、样件认可及整阀试验责任要求。",
+        "交付要求：明确铸造或替代路线、加工范围、数量、追溯及允许的材料或工艺变更。"
+      ],
+      "materials": [
+        "UNS C89833 铋锡青铜 在客户认可材料及制造工艺的前提下，可作为低铅替代材料进行评审。",
+        "UNS C90500 锡青铜 可作为指定泵阀零件的候选材料。"
+      ],
+      "application": "数据中心液冷与热管理 设施侧冷却水与 CDU 一次侧  设备侧冷却回路候选部件  样件开发与验证"
+    },
+    {
+      "slug": "globe-valve-disc",
+      "category_slug": "valve-castings",
+      "title": "截止阀阀瓣",
+      "summary": "按图设计的截止阀",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/be13ed232edfeb76-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/globe-valve-disc/?lang=zh-cn",
+      "requirements": [
+        "启闭件结构尺寸：阀瓣直径、形状、密封面角度、厚度及图纸版本。",
+        "阀杆连接：螺纹、承插或限位固定结构；配合公差、同心度及装配细节。",
+        "密封要求：配对阀座材料、金属密封或软密封结构、表面粗糙度、泄漏验收准则及使用工况。",
+        "材料技术要求：合金牌号、执行材料标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差、检验方法及所需文件。"
+      ],
+      "materials": [
+        "EN CC491K · CuSn5Zn5Pb5-C 含铅锡锌青铜 此类材料因铸造性能、切削加工性与耐蚀性而用于部分泵阀铸件，具体应确认工况及铅含量限制。"
+      ],
+      "application": "海水冷却系统  压载水与舱底水系统  船舶消防总管系统  海水取水、过滤与管路"
+    },
+    {
+      "slug": "butterfly-valve-disc",
+      "category_slug": "valve-castings",
+      "title": "蝶阀蝶板",
+      "summary": "蝶阀流道",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/ce27ca8dca78d9eb-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/butterfly-valve-disc/?lang=zh-cn",
+      "requirements": [
+        "蝶板结构尺寸：直径、厚度、轮廓、轴孔及流向。",
+        "阀轴与阀座：轴连接、衬套位置、阀座类型、蝶板边缘粗糙度及公差要求。",
+        "设计工况：介质、压力、温度、旋转方向及阀门试验要求。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C95800 镍铝青铜 可作为兼顾耐蚀性与强度的海水接触铸件候选材料，具体应核对铸件状态、水质与流动条件。"
+      ],
+      "application": "海水冷却系统  压载水与舱底水系统  船舶消防总管系统  海水取水、过滤与管路"
+    },
+    {
+      "slug": "check-valve-disc",
+      "category_slug": "valve-castings",
+      "title": "止回阀阀瓣",
+      "summary": "旋启式止回阀铰接与阀座部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/2231399c9606d870-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/check-valve-disc/?lang=zh-cn",
+      "requirements": [
+        "阀瓣结构尺寸：阀瓣直径、厚度、铰接耳及图纸规定行程。",
+        "铰接与密封：销孔、固定结构、密封面形状、配对材料及表面粗糙度。",
+        "使用条件：安装方向、介质、压力、温度及泄漏验收准则。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "EN CC491K · CuSn5Zn5Pb5-C 含铅锡锌青铜 此类材料因铸造性能、切削加工性与耐蚀性而用于部分泵阀铸件，具体应确认工况及铅含量限制。",
+        "UNS C95800 镍铝青铜 可作为兼顾耐蚀性与强度的海水接触铸件候选材料，具体应核对铸件状态、水质与流动条件。"
+      ],
+      "application": "海水冷却系统  压载水与舱底水系统  船舶消防总管系统  海水取水、过滤与管路"
+    },
+    {
+      "slug": "water-meter-body-castings",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "水表表壳",
+      "summary": "水表接液表壳",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/05e80befc095000d-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/water-meter-body-castings/?lang=zh-cn",
+      "requirements": [
+        "计量腔：提供已确认的腔体形状、关键尺寸、基准体系及端盖接口。",
+        "接液材料：说明设备厂家认可的牌号、目标市场、成分记录及所需材料评价。",
+        "承压与表面加工要求：明确连接细节、密封面、清洗、缺陷限值及约定的泄漏试验范围。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C89833 铋锡青铜 可作为指定接液零件的低铅替代候选材料。",
+        "UNS C87600 铸造铜硅合金 可作为按图指定的连接件或支撑件候选材料。"
+      ],
+      "application": "水处理与海水淡化 饮用水计量装置"
+    },
+    {
+      "slug": "strainer-body-castings",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "过滤器壳体",
+      "summary": "取水或预处理管路",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/5cda5d9b36349609-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/strainer-body-castings/?lang=zh-cn",
+      "requirements": [
+        "壳体：提供流道、壁厚、连接尺寸及安装外形尺寸。",
+        "滤篮与端盖：明确滤网支承部位、拆卸空间、端盖连接及垫片尺寸。",
+        "工况与清洁要求：说明接触的水及化学介质、压力、温度、清洁度及泄漏验收标准。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定泵、阀门及管件铸件的候选材料。",
+        "UNS C95800 镍铝青铜 可作为指定盐水工况零件及耐磨件的候选材料。",
+        "UNS C89833 铋锡青铜 可作为指定接液零件的低铅替代候选材料。"
+      ],
+      "application": "水处理与海水淡化 原水与工业循环水  海水取水与辅助泵  饮用水阀门与连接件"
+    },
+    {
+      "slug": "water-meter-cover-castings",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "水表接液端盖",
+      "summary": "计量腔封闭部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/69acb60f77d1051c-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/water-meter-cover-castings/?lang=zh-cn",
+      "requirements": [
+        "端盖图纸：提供端盖螺纹或螺栓孔、定位结构及配合腔体尺寸。",
+        "密封结构尺寸：明确垫片或 O 形圈槽、平面度及表面粗糙度。",
+        "材料验收：提供设备厂家认可的低铅材料规范、接液要求及可追溯的检验记录要求。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C89833 铋锡青铜 可作为指定接液零件的低铅替代候选材料。"
+      ],
+      "application": "水处理与海水淡化 饮用水计量装置"
+    },
+    {
+      "slug": "water-connection-body-castings",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "水路连接件本体",
+      "summary": "水表或阀门与水管的连接部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/49db1e060fd2dc22-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/water-connection-body-castings/?lang=zh-cn",
+      "requirements": [
+        "连接形式：提供端部形式、准确的螺纹或法兰标准及装配尺寸。",
+        "密封配合：明确垫片或 O 形圈结构、配合长度、壁厚及承压工况。",
+        "接液部位验收：说明认可的材料牌号、目标应用、限用物质及约定的泄漏与清洁度标准。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C89833 铋锡青铜 可作为指定接液零件的低铅替代候选材料。",
+        "UNS C87600 铸造铜硅合金 可作为按图指定的连接件或支撑件候选材料。"
+      ],
+      "application": "水处理与海水淡化 饮用水计量装置  饮用水阀门与连接件"
+    },
+    {
+      "slug": "copper-alloy-fitting-castings",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "铜合金弯头／三通本体",
+      "summary": "管路转向或分支部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/032a7373c041ca84-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/copper-alloy-fitting-castings/?lang=zh-cn",
+      "requirements": [
+        "流道与分支结构：提供弯头角度或三通布置、内径、壁厚及中心至端面尺寸。",
+        "端部连接：明确螺纹或法兰制式、旋合长度及密封面要求。",
+        "水介质工况：说明水质类型、压力、温度、相连部件的合金及泄漏试验要求。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定泵、阀门及管件铸件的候选材料。",
+        "UNS C95800 镍铝青铜 可作为指定盐水工况零件及耐磨件的候选材料。",
+        "UNS C89833 铋锡青铜 可作为指定接液零件的低铅替代候选材料。"
+      ],
+      "application": "水处理与海水淡化 原水与工业循环水  海水取水与辅助泵  饮用水阀门与连接件"
+    },
+    {
+      "slug": "y-strainer-body-castings",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "Y 型过滤器壳体",
+      "summary": "指定水侧设备上游的过滤部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/1b45531e661eb98c-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/y-strainer-body-castings/?lang=zh-cn",
+      "requirements": [
+        "壳体结构：请提供流向、支管夹角、滤芯外形尺寸、壁厚及图纸版本。",
+        "滤网与盖板定位部位：请明确滤芯定位、盖板连接、垫片接触面及拆卸空间。",
+        "连接接口：请注明端部连接标准、尺寸及密封细节。",
+        "使用工况：请注明闭式水或饮用水用途、防冻液与水处理药剂、压力及温度。",
+        "验收要求：请约定承压部位检验、泄漏试验方法、清洁度、材料记录及加工状态。"
+      ],
+      "materials": [
+        "EN CC491K 含铅锡锌青铜 可作为指定水侧阀体与壳体的候选材料。",
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定阀体、阀盖及连接壳体铸件的候选材料。",
+        "UNS C89833 铋锡青铜 在客户认可材料及制造工艺的前提下，可作为低铅替代材料进行评审。"
+      ],
+      "application": "暖通与区域供热供冷 建筑水系统调节与水力平衡  区域供热供冷换热站  生活热水循环  水侧零部件更换"
+    },
+    {
+      "slug": "hydronic-connection-body-castings",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "水系统连接件本体",
+      "summary": "水侧撬装设备或阀组中按图设计的分支或连接部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-hydronic-connection-body-castings.webp",
+      "source_url": "https://www.jxzrcasting.com/products/hydronic-connection-body-castings/?lang=zh-cn",
+      "requirements": [
+        "流道布置：请提供各分支、流向、壁厚、内部加工或检验通道及图纸版本。",
+        "连接形式：请明确各螺纹、法兰、活接头或其他接口及对应密封结构。",
+        "水回路：请注明闭式水或饮用水用途、防冻液类型与浓度、水处理方式、温度及压力。",
+        "接触材料：请列明连接与接液材料，以及客户认可的合金技术规范。",
+        "交付验收：请明确铸造或其他制造路线、加工状态、泄漏试验、清洁度及所需记录。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定阀体、阀盖及连接壳体铸件的候选材料。",
+        "UNS C89833 铋锡青铜 在客户认可材料及制造工艺的前提下，可作为低铅替代材料进行评审。",
+        "UNS C87600 铸造铜硅合金 可根据图纸要求，作为特定连接件与阀门零件的候选材料。"
+      ],
+      "application": "暖通与区域供热供冷 建筑水系统调节与水力平衡  区域供热供冷换热站  生活热水循环  水侧零部件更换"
+    },
+    {
+      "slug": "fire-department-connection-body-castings",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "消防水泵接合器本体",
+      "summary": "建筑消防水系统的外部消防供水入口",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/cdfc2b2b84d261d8-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/fire-department-connection-body-castings/?lang=zh-cn",
+      "requirements": [
+        "进出口布置：明确外部供水功能、分支数量、安装方向、出水方向及确认图纸。",
+        "当地接口要求：明确准确消防接口及管螺纹标准、旋合长度及配合件。",
+        "止回瓣与密封件：明确内部启闭结构、铰链与阀座尺寸、密封接口及包含的分总成零件。",
+        "机械与承压工况：说明壁厚、接口载荷、环境防护表面要求及耐压／泄漏试验标准。",
+        "材料与放行：明确认可铸造合金、交货状态、批次记录及水泵接合器整件认可责任。"
+      ],
+      "materials": [
+        "客户指定 待明确认可材料 此零件未设定默认铸造铜合金牌号。",
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 请结合消防水泵接合器本体图纸及客户确认的材料规范，审核该含铅锡锌青铜（美标 red brass）参考材料。",
+        "UNS C87600 铸造铜硅合金 可根据图纸要求，作为特定连接件与阀门零件的候选材料。"
+      ],
+      "application": "消防水系统 消防给水与水带连接件  OEM 重复采购与核准替换件"
+    },
+    {
+      "slug": "fire-hose-connection-body-castings",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "消防水带接头本体",
+      "summary": "水带与指定阀门、管件或管路的连接部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/ef9c65fe96be56df-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/fire-hose-connection-body-castings/?lang=zh-cn",
+      "requirements": [
+        "连接标准：提供准确水带及管路接口标准、牙型、旋向及配合量规要求。",
+        "本体尺寸：明确内孔、壁厚、凸耳或旋转结构及确认图纸版本。",
+        "密封与装配：明确垫片轮廓、密封面、固定方式及包含或不包含的零件。",
+        "工况与验收：说明压力与机械要求、环境、表面要求及检验标准。",
+        "材料与认可：确认铸造或锻造路线、认可合金、加工状态及首件与追溯记录。"
+      ],
+      "materials": [
+        "客户指定 待明确认可材料 此零件未设定默认铸造铜合金牌号。",
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定阀体、阀盖及连接壳体铸件的候选材料。",
+        "UNS C87600 铸造铜硅合金 可根据图纸要求，作为特定连接件与阀门零件的候选材料。"
+      ],
+      "application": "消防水系统 消防给水与水带连接件  OEM 重复采购与核准替换件"
+    },
+    {
+      "slug": "fire-connection-fitting-castings",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "消防连接弯头／分支本体",
+      "summary": "指定消防供水或试验接口中的转向或分支部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/32e81b679197639c-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/fire-connection-fitting-castings/?lang=zh-cn",
+      "requirements": [
+        "分支结构：提供内径、角度、中心至端面尺寸、流向及确认铸件图纸。",
+        "接口标准：明确当地水带／管路连接、密封结构及连接配合长度。",
+        "机械结构布置：明确壁厚、安装限制、接口载荷及表面要求。",
+        "承压验收：说明工况、铸造缺陷标准、耐压／泄漏试验及责任方。",
+        "认可材料与制造形式：确认合金、铸造或其他路线、加工状态、版本控制及批次记录。"
+      ],
+      "materials": [
+        "客户指定 待明确认可材料 此零件未设定默认铸造铜合金牌号。",
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 可作为指定阀体、阀盖及连接壳体铸件的候选材料。",
+        "UNS C87600 铸造铜硅合金 可根据图纸要求，作为特定连接件与阀门零件的候选材料。"
+      ],
+      "application": "消防水系统 消防给水与水带连接件  OEM 重复采购与核准替换件"
+    },
+    {
+      "slug": "liquid-cooling-filter-housing-development",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "液冷过滤器壳体",
+      "summary": "CDU 或设施水回路中的指定过滤部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/b81e6b2d1a954a11-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/liquid-cooling-filter-housing-development/?lang=zh-cn",
+      "requirements": [
+        "过滤位置与滤芯：明确 FWS/TCS 侧、滤芯设计、拆卸空间、固定方式及滤芯座尺寸。",
+        "材料与冷却液：提供认可接液材料清单、冷却液成分及允许的壳体制造路线。",
+        "壳体布置：明确流道、接口、端盖连接、壁厚、加工基准及内部通道。",
+        "污染物控制标准：明确颗粒限值、机加工或铸造残留、表面验收及清洗验证要求。",
+        "密封验收：明确运行条件、端盖密封要求、泄漏试验方法与限值及验证责任。",
+        "样件放行：提供样件数量、材料与检验记录、包装要求及客户认可节点。"
+      ],
+      "materials": [
+        "UNS C89833 铋锡青铜 在客户认可材料及制造工艺的前提下，可作为低铅替代材料进行评审。",
+        "UNS C81100 铸造紫铜 仅在客户接受铸铜路线后，才可作为制造评估的候选材料。"
+      ],
+      "application": "数据中心液冷与热管理 设施侧冷却水与 CDU 一次侧  设备侧冷却回路候选部件  样件开发与验证"
+    },
+    {
+      "slug": "liquid-cooling-distribution-housing-development",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "流体分配壳体",
+      "summary": "认可设备中图纸指定的多接口分配部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/23643de259b3189d-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/liquid-cooling-distribution-housing-development/?lang=zh-cn",
+      "requirements": [
+        "流道与接口布置：提供全部分支、连接、壁厚、流向及确认三维模型／剖面图。",
+        "工艺路线认可：确认是否允许铸造，并明确用于比较的机加工或装配制造基准设计。",
+        "内部可达性：明确清除型芯／型壳的通道、封闭流道、检验通道及内表面验收要求。",
+        "接液相容性：明确冷却液、回路类型、材料／涂镀层／密封件组合及客户书面合金认可。",
+        "清洗与泄漏检查：明确颗粒、离子及残留限值、清洗验证记录、泄漏试验方法与限值及责任方。",
+        "样件评审决策：生产认可前，须确定样件数量、验收节点、追溯及相关流量分配验证要求。"
+      ],
+      "materials": [
+        "UNS C81100 铸造紫铜 仅在客户接受铸铜路线后，才可作为制造评估的候选材料。",
+        "UNS C89833 铋锡青铜 在客户认可材料及制造工艺的前提下，可作为低铅替代材料进行评审。"
+      ],
+      "application": "数据中心液冷与热管理 设施侧冷却水与 CDU 一次侧  设备侧冷却回路候选部件  样件开发与验证"
+    },
+    {
+      "slug": "liquid-cooling-manifold-development",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "液冷歧管块",
+      "summary": "有客户图纸依据的紧凑分液块本体",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-liquid-cooling-manifold-development.webp",
+      "source_url": "https://www.jxzrcasting.com/products/liquid-cooling-manifold-development/?lang=zh-cn",
+      "requirements": [
+        "紧凑本体布置：提供流道网络、接口位置、堵头／端盖、加工基准及安装外形尺寸。",
+        "制造路线比较：明确认可的基准工艺路线，以及是否接受铸铜方案。",
+        "清洗通道：明确封闭结构、清除与检验通道、残芯风险及内表面要求。",
+        "回路与材料：明确 FWS/TCS 回路、冷却液及全部接液材料，并提供书面材料认可。",
+        "功能验证：按设备厂家提供的标准，明确流量分配、压降、泄漏及清洁度验收分工。",
+        "样件放行：明确数量、材料与检验记录、包装及重复生产前所需认可。"
+      ],
+      "materials": [
+        "UNS C81100 铸造紫铜 仅在客户接受铸铜路线后，才可作为制造评估的候选材料。"
+      ],
+      "application": "数据中心液冷与热管理 设备侧冷却回路候选部件  样件开发与验证"
+    },
+    {
+      "slug": "liquid-cooling-quick-disconnect-feasibility",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "液冷快速接头",
+      "summary": "液冷回路或服务器模块中的可拆卸检修连接",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-liquid-cooling-quick-disconnect-feasibility.webp",
+      "source_url": "https://www.jxzrcasting.com/products/liquid-cooling-quick-disconnect-feasibility/?lang=zh-cn",
+      "requirements": [
+        "接口要求：提供认可接头系列、配合两端、尺寸、互换性要求及所包含的本体范围。",
+        "材料与密封件：指定认可金属、涂镀层、密封件、冷却液及完整接液材料相容性要求。",
+        "连接工况：明确反复插拔工况、使用条件及所需密封寿命验证。",
+        "泄漏验收：明确连接与断开状态下的泄漏或滴漏标准、试验程序及完整产品验证责任方。",
+        "清洁度：明确颗粒物、工艺残留、清洗及防护包装要求。",
+        "制造可行性：说明允许的本体制造路线、零件图纸、样件计划及各工序所需供应商资格。"
+      ],
+      "materials": [
+        "客户指定 待明确认可材料 此零件未设定默认铸造铜合金牌号。"
+      ],
+      "application": "数据中心液冷与热管理 冷板与可拆卸连接件  样件开发与验证"
+    },
+    {
+      "slug": "seacock-body",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "艇用海底阀阀体",
+      "summary": "艇用水线以下取水部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/b875ebb3edafc23e-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/seacock-body/?lang=zh-cn",
+      "requirements": [
+        "阀体结构：底部法兰、安装孔、内部流道及启闭结构。",
+        "船体与管路接口：穿舷接头螺纹标准、软管或硬管接口、安装厚度及可用空间。",
+        "使用要求：水线以下使用工况、适用设备标准、压力及检验要求。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C84400 含铅半红黄铜 用于部分船用过滤器壳体，具有较好的铸造与切削加工性能。海水适用性及含铅限制须按项目审核。"
+      ],
+      "application": "海水取水、过滤与管路"
+    },
+    {
+      "slug": "thru-hull-fitting",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "穿舷接头",
+      "summary": "艇用船体穿透连接部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/2dd4d9e8f45fcaf2-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/thru-hull-fitting/?lang=zh-cn",
+      "requirements": [
+        "接头结构尺寸：头部直径与轮廓、内孔、杆部长度及壁厚。",
+        "螺纹与配合件：具体螺纹标准与配合、螺母旋合长度、海底阀接口及船体厚度。",
+        "安装工况：水线以下或以上位置、连接材料及适用安装要求。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 用于部分青铜管件的铸造铜合金。其铸造与切削加工性能适于复杂连接结构；须核实海水工况及含铅限制。"
+      ],
+      "application": "海水取水、过滤与管路"
+    },
+    {
+      "slug": "bronze-pipe-elbow",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "青铜弯头",
+      "summary": "海水管路转向部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/26d3133d4a38fd90-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/bronze-pipe-elbow/?lang=zh-cn",
+      "requirements": [
+        "流道：内径、弯曲角度与半径、壁厚及加工余量。",
+        "连接接口：内外螺纹或法兰、适用连接标准及中心至端面尺寸。",
+        "使用条件与试验：介质、设计压力与温度、腐蚀条件及压力试验范围。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 用于部分青铜管件的铸造铜合金。其铸造与切削加工性能适于复杂连接结构；须核实海水工况及含铅限制。",
+        "UNS C96400 铸造白铜 海水零部件可评估的铸造铜镍合金。须确认腐蚀条件、铸件标准及与连接材料的相容性，不可直接替代变形加工管材牌号。"
+      ],
+      "application": "海水取水、过滤与管路"
+    },
+    {
+      "slug": "bronze-pipe-tee",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "青铜三通",
+      "summary": "海水管路分支部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/f7320f16d878613c-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/bronze-pipe-tee/?lang=zh-cn",
+      "requirements": [
+        "分支结构尺寸：主管与支管内径、夹角、中心至端面尺寸，以及等径或异径结构。",
+        "端部连接：法兰或螺纹标准、密封面、公差及壁厚。",
+        "设计条件：压力、温度、流体条件、连接件合金及检验要求。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 用于部分青铜管件的铸造铜合金。其铸造与切削加工性能适于复杂连接结构；须核实海水工况及含铅限制。",
+        "UNS C96400 铸造白铜 海水零部件可评估的铸造铜镍合金。须确认腐蚀条件、铸件标准及与连接材料的相容性，不可直接替代变形加工管材牌号。"
+      ],
+      "application": "海水取水、过滤与管路"
+    },
+    {
+      "slug": "copper-alloy-pipe-flange",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "铜合金管法兰",
+      "summary": "螺栓连接管路部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/7c81d402cf94fcbf-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/copper-alloy-pipe-flange/?lang=zh-cn",
+      "requirements": [
+        "法兰尺寸：公称尺寸、适用标准、外径、厚度及螺栓分布圆。",
+        "密封与连接方式：密封面形式、粗糙度、内孔，以及整体式、螺纹式或其他规定的法兰结构。",
+        "验收要求：设计压力与温度、材料标准、检验及压力试验要求。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 用于部分青铜管件的铸造铜合金。其铸造与切削加工性能适于复杂连接结构；须核实海水工况及含铅限制。",
+        "UNS C95800 镍铝青铜 可作为兼顾耐蚀性与强度的海水接触铸件候选材料，具体应核对铸件状态、水质与流动条件。"
+      ],
+      "application": "海水取水、过滤与管路"
+    },
+    {
+      "slug": "bronze-pipe-nipple",
+      "category_slug": "pipe-fitting-filter-castings",
+      "title": "青铜短接",
+      "summary": "短螺纹管路连接",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/b0ed55c345bc015e-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/bronze-pipe-nipple/?lang=zh-cn",
+      "requirements": [
+        "本体尺寸：长度、内径、壁厚、六角或其他扳手夹持结构。",
+        "螺纹参数：两端具体螺纹标记、旋合长度、锥度及量规要求。",
+        "使用范围：介质、压力、温度、配对管件及泄漏试验要求。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 用于部分青铜管件的铸造铜合金。其铸造与切削加工性能适于复杂连接结构；须核实海水工况及含铅限制。"
+      ],
+      "application": "海水取水、过滤与管路"
+    },
+    {
+      "slug": "heat-exchanger-end-cover-castings",
+      "category_slug": "heat-exchanger-castings",
+      "title": "换热器端盖／水室盖",
+      "summary": "图纸指定的换热器水室",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/marine-v3-p28.webp",
+      "source_url": "https://www.jxzrcasting.com/products/heat-exchanger-end-cover-castings/?lang=zh-cn",
+      "requirements": [
+        "腔体结构尺寸：提供外形尺寸、估算重量、壁厚、接管及内部隔板结构。",
+        "配合面：提供螺栓孔分布、垫片、管板接口及相连部件材料。",
+        "使用条件与检验：说明盐度、水质、压力、温度、缺陷验收准则及试验责任。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C95800 镍铝青铜 可作为指定盐水工况零件及耐磨件的候选材料。",
+        "锡锌青铜类 须指定准确牌号 可作为特定且经认可的辅助冷却器设计中的材料类别候选。"
+      ],
+      "application": "水处理与海水淡化 按图指定的换热器水室"
+    },
+    {
+      "slug": "copper-cold-plate-feasibility",
+      "category_slug": "heat-exchanger-castings",
+      "title": "铜冷板",
+      "summary": "服务器 CPU/GPU 或其他指定热源的传热界面",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-copper-cold-plate-feasibility.webp",
+      "source_url": "https://www.jxzrcasting.com/products/copper-cold-plate-feasibility/?lang=zh-cn",
+      "requirements": [
+        "热设计输入：提供热源与接触面尺寸，以及设备厂家要求的热阻和压降标准。",
+        "流道与基板：明确流道尺寸、基板厚度、安装、平面度及表面要求。",
+        "材料与连接工艺：指定变形铜材牌号、连接工艺、涂镀层及认可制造路线；不得直接用铸造牌号替代。",
+        "冷却液相容性：明确冷却液、完整接液材料清单及腐蚀与相容性验证责任。",
+        "清洁度与密封：明确颗粒、残留、泄漏试验标准、清洗验证及防护包装。",
+        "可行性边界：评估方案前，明确哪些设计、加工、连接及性能试验需由具备相应资格的供应商执行。"
+      ],
+      "materials": [
+        "UNS C11000 变形铜材 用于机加工或成形铜冷板结构的材料参考。"
+      ],
+      "application": "数据中心液冷与热管理 冷板与可拆卸连接件  样件开发与验证"
+    },
+    {
+      "slug": "heat-exchanger-waterbox",
+      "category_slug": "heat-exchanger-castings",
+      "title": "换热器水室",
+      "summary": "换热器水室",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/945add2f4f3aae0e-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/heat-exchanger-waterbox/?lang=zh-cn",
+      "requirements": [
+        "腔体结构尺寸：外形尺寸、壁厚、接管、流程隔板及现有模型。",
+        "配合接口：管板配合面、垫片、螺栓布置、连接件合金及密封面粗糙度。",
+        "设计与交付：压力、温度、估算重量、腐蚀裕量及规定检验。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C95800 镍铝青铜 可作为兼顾耐蚀性与强度的海水接触铸件候选材料，具体应核对铸件状态、水质与流动条件。"
+      ],
+      "application": "换热器与冷却器"
+    },
+    {
+      "slug": "cast-heat-exchanger-tubesheet",
+      "category_slug": "heat-exchanger-castings",
+      "title": "换热器铸造管板",
+      "summary": "换热器管束连接部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/6ab5f4c4b58c05f8-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/cast-heat-exchanger-tubesheet/?lang=zh-cn",
+      "requirements": [
+        "布管参数：管板直径与厚度、管孔排列、管间距、孔间净距及流程隔板。",
+        "管端连接与端面：换热管材料、胀接或其他规定连接方式、孔公差、密封面及表面粗糙度。",
+        "设计与验收：压差、温度、腐蚀裕量、铸件内部质量要求及泄漏试验责任方。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C95800 镍铝青铜 可作为兼顾耐蚀性与强度的海水接触铸件候选材料，具体应核对铸件状态、水质与流动条件。"
+      ],
+      "application": "换热器与冷却器"
+    },
+    {
+      "slug": "bronze-bearing-bushings",
+      "category_slug": "mechanical-castings",
+      "title": "轴承衬套／滑动轴承",
+      "summary": "泵或辅助机构中的滑动支承部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/0731e5dc111da646-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/bronze-bearing-bushings/?lang=zh-cn",
+      "requirements": [
+        "衬套结构尺寸：提供内孔、外径、长度、油槽、台肩及座孔配合要求。",
+        "对偶面与配合：明确轴材料、硬度、表面粗糙度及运转间隙。",
+        "轴承工况：说明载荷、速度、润滑、温度以及污染物或介质接触情况。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C93200 铅锡青铜 可作为图纸指定润滑轴承零件的候选材料。",
+        "UNS C95400 铝青铜 可作为指定耐磨件、导向件或结构件的候选材料。"
+      ],
+      "application": "工业泵阀与过程流体 工业公用工程水系统  指定工艺介质与辅助系统  泵阀替换零件"
+    },
+    {
+      "slug": "crusher-spider-bushings",
+      "category_slug": "mechanical-castings",
+      "title": "横梁衬套",
+      "summary": "设有横梁的旋回破碎机主轴上部支承。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/9a6cfa4bbe218956-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/crusher-spider-bushings/?lang=zh-cn",
+      "requirements": [
+        "机型与尺寸：提供设备型号、确认零件号、内孔、外径、长度及台肩尺寸。",
+        "配合与表面要求：明确轴与座孔尺寸、间隙、圆度及表面要求。",
+        "载荷与运动：说明载荷方向、冲击条件及轴运动情况。",
+        "润滑条件：说明润滑剂、油路或脂路、沟槽布置及污染情况。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：铸管或套类毛坯及约定加工；大型铸件的工艺路线须评估。"
+      ],
+      "materials": [
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。",
+        "UNS C93700 高铅锡青铜 可作为指定润滑轴承配合部位的候选材料。",
+        "UNS C86300 高强度锰黄铜（商业名称 manganese bronze） 可作为指定重载滑动件与螺母毛坯的候选材料。"
+      ],
+      "application": "矿山与砂石加工 破碎机轴系支承  破碎机衬套更换"
+    },
+    {
+      "slug": "crusher-eccentric-bushings",
+      "category_slug": "mechanical-castings",
+      "title": "偏心衬套",
+      "summary": "破碎机偏心总成中的滑动配合部位。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/4ff3bb8c973b024a-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/crusher-eccentric-bushings/?lang=zh-cn",
+      "requirements": [
+        "偏心部位尺寸：提供零件号、内外安装位置、直径、偏心量及加工基准。",
+        "配合要求：明确圆度、规定状态下的运转间隙及配合轴尺寸。",
+        "润滑油路：说明沟槽、油路、润滑剂、油温及供油条件。",
+        "使用状态记录：提供磨损或烧损位置、轴损伤及相关运行记录。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：指定套类铸件毛坯，粗加工或精加工范围按图纸约定。"
+      ],
+      "materials": [
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。",
+        "UNS C93700 高铅锡青铜 可作为指定润滑轴承配合部位的候选材料。",
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。"
+      ],
+      "application": "矿山与砂石加工 破碎机轴系支承  偏心机构与传动轴  破碎机衬套更换"
+    },
+    {
+      "slug": "crusher-main-shaft-bushings",
+      "category_slug": "mechanical-castings",
+      "title": "主轴衬套",
+      "summary": "图纸规定的破碎机主轴滑动支承部位。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-crusher-main-shaft-bushings.webp",
+      "source_url": "https://www.jxzrcasting.com/products/crusher-main-shaft-bushings/?lang=zh-cn",
+      "requirements": [
+        "零件标识：提供破碎机型号、确认图纸及安装位置。",
+        "同轴结构尺寸：明确内孔、外径、长度、同轴度及圆度要求。",
+        "配合轴：说明轴材料、硬度、表面粗糙度及运转间隙。",
+        "轴承工况：说明载荷、轴运动、供油及油槽布置。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：套类铸件毛坯，加工范围按具体零件约定。"
+      ],
+      "materials": [
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。",
+        "UNS C93700 高铅锡青铜 可作为指定润滑轴承配合部位的候选材料。",
+        "设备厂家指定牌号 铝青铜类 可作为已确认破碎机衬套设计的候选材料类别。"
+      ],
+      "application": "矿山与砂石加工 破碎机轴系支承  偏心机构与传动轴  破碎机衬套更换"
+    },
+    {
+      "slug": "crusher-countershaft-bushings",
+      "category_slug": "mechanical-castings",
+      "title": "传动轴衬套",
+      "summary": "指定破碎机中的传动轴或小齿轮轴支承。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/9777e23dec73af32-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/crusher-countershaft-bushings/?lang=zh-cn",
+      "requirements": [
+        "衬套结构尺寸：提供内孔、外径、长度、台肩及油槽位置。",
+        "轴配合部位：明确轴硬度、表面粗糙度、座孔配合及运行间隙。",
+        "旋转工况：说明轴转速、载荷方向及工作温度。",
+        "润滑条件：说明润滑剂、进油孔、油槽及污染情况。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：铸管或套类毛坯，加工按约定执行。"
+      ],
+      "materials": [
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。",
+        "UNS C93700 高铅锡青铜 可作为指定润滑轴承配合部位的候选材料。"
+      ],
+      "application": "矿山与砂石加工 偏心机构与传动轴  破碎机衬套更换"
+    },
+    {
+      "slug": "crusher-socket-liners",
+      "category_slug": "mechanical-castings",
+      "title": "碗形轴瓦",
+      "summary": "相应圆锥破碎机设计中位于动锥下方的球面支承座。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/a87485d7fddcfd8b-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/crusher-socket-liners/?lang=zh-cn",
+      "requirements": [
+        "球面轮廓：提供确认半径或轮廓、外形尺寸、厚度及加工余量。",
+        "接触分布：明确配合动锥尺寸、要求的接触分布及表面粗糙度。",
+        "油槽：提供油槽布置、润滑剂及进油接口。",
+        "装配与载荷：说明破碎机型号、安装位置、座面配合及规定载荷。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：环形或碗形铸件毛坯；球面加工另行评估。"
+      ],
+      "materials": [
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。",
+        "UNS C93700 高铅锡青铜 可作为指定润滑轴承配合部位的候选材料。",
+        "UNS C86300 高强度锰黄铜（商业名称 manganese bronze） 可作为指定重载滑动件与螺母毛坯的候选材料。"
+      ],
+      "application": "矿山与砂石加工 破碎机轴系支承  破碎机衬套更换"
+    },
+    {
+      "slug": "bronze-thrust-washers",
+      "category_slug": "mechanical-castings",
+      "title": "止推垫圈／止推环",
+      "summary": "局部轴向支承及间隙控制部位。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/a98f22f1168c3117-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/bronze-thrust-washers/?lang=zh-cn",
+      "requirements": [
+        "环件结构尺寸：提供内外径、厚度、台阶及定位结构。",
+        "接触面：明确平面度、平行度、表面粗糙度及配对材料。",
+        "轴向载荷工况：说明轴向载荷、相对滑动速度及对中条件。",
+        "润滑条件：提供油孔、油槽、润滑剂及工作温度。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：采用铸造环坯或适用型材加工，工艺路线另行约定。"
+      ],
+      "materials": [
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。",
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。",
+        "UNS C86300 高强度锰黄铜（商业名称 manganese bronze） 可作为指定重载滑动件与螺母毛坯的候选材料。"
+      ],
+      "application": "矿山与砂石加工 破碎机轴系支承  偏心机构与传动轴  破碎机衬套更换  输送设备与辅助耐磨件"
+    },
+    {
+      "slug": "flanged-bronze-bushings",
+      "category_slug": "mechanical-castings",
+      "title": "法兰衬套",
+      "summary": "输送、筛分或辅助机械中的指定支承部位。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/marine-v4-p21.webp",
+      "source_url": "https://www.jxzrcasting.com/products/flanged-bronze-bushings/?lang=zh-cn",
+      "requirements": [
+        "轴套与法兰：提供内孔、外径、长度、法兰直径及厚度。",
+        "配合接口：明确轴与座孔配合、法兰端面粗糙度及轴向定位。",
+        "运动与载荷：说明径向与轴向载荷、旋转或摆动及冲击情况。",
+        "使用环境：说明粉尘、润滑剂、密封及工作温度。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：法兰套类铸件毛坯，内孔及法兰端面加工按约定执行。"
+      ],
+      "materials": [
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。",
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。"
+      ],
+      "application": "矿山与砂石加工 输送设备与辅助耐磨件"
+    },
+    {
+      "slug": "bronze-guide-wear-plates",
+      "category_slug": "mechanical-castings",
+      "title": "导向耐磨板",
+      "summary": "辅助导向机构中的可更换滑动面。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/8c01588c16d32fe1-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/bronze-guide-wear-plates/?lang=zh-cn",
+      "requirements": [
+        "板件结构尺寸：提供长、宽、厚度、凹槽及安装孔位置。",
+        "接触配合副：明确对偶面材料、接触面积、表面粗糙度及平面度。",
+        "滑动工况：说明接触载荷、速度、行程及运动方向。",
+        "使用工况：说明润滑、粉尘、污染及温度条件。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：板类铸件或铸造型材毛坯，表面加工按约定执行。"
+      ],
+      "materials": [
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。",
+        "UNS C86300 高强度锰黄铜（商业名称 manganese bronze） 可作为指定重载滑动件与螺母毛坯的候选材料。",
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。"
+      ],
+      "application": "矿山与砂石加工 输送设备与辅助耐磨件"
+    },
+    {
+      "slug": "bronze-gear-blanks",
+      "category_slug": "mechanical-castings",
+      "title": "青铜齿轮毛坯",
+      "summary": "图纸指定青铜齿轮或齿圈的辅助传动机构。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/b7c8a7f57a8fa586-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/bronze-gear-blanks/?lang=zh-cn",
+      "requirements": [
+        "毛坯结构尺寸：提供齿圈与轮毂结构、内孔、外径及铸件外形尺寸。",
+        "加工要求：明确基准、加工余量、齿部加工责任及最终检验范围。",
+        "配套设计：提供连接轮毂及配套齿轮或蜗杆图纸。",
+        "传动工况：说明载荷、速度、润滑剂及所需硬度状态。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：实心或环形铸造毛坯，可按约定预加工；齿形加工范围需另行明确。"
+      ],
+      "materials": [
+        "UNS C90500 锡青铜 可作为按图设计的齿轮毛坯及特定润滑零件的候选材料。",
+        "UNS C90700 锡青铜 可作为齿轮及蜗轮毛坯的候选材料。"
+      ],
+      "application": "矿山与砂石加工 偏心机构与传动轴  输送设备与辅助耐磨件"
+    },
+    {
+      "slug": "crusher-thrust-bearing-plates",
+      "category_slug": "mechanical-castings",
+      "title": "止推轴承板",
+      "summary": "特定破碎机设计中的分层轴向支承结构。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/78f004df0319c327-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/crusher-thrust-bearing-plates/?lang=zh-cn",
+      "requirements": [
+        "板件结构：明确装配位置、轮廓、厚度及台阶或分层结构。",
+        "端面要求：明确平面度、平行度、油槽及表面粗糙度。",
+        "配合零件：说明对偶面材料、接触分布及定位结构。",
+        "工况与供油：说明轴向载荷、相对运动、润滑剂及运行条件。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：板形或环形铸件毛坯，加工按约定执行。"
+      ],
+      "materials": [
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。",
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。",
+        "UNS C86300 高强度锰黄铜（商业名称 manganese bronze） 可作为指定重载滑动件与螺母毛坯的候选材料。"
+      ],
+      "application": "矿山与砂石加工 破碎机轴系支承  破碎机衬套更换"
+    },
+    {
+      "slug": "bronze-worm-wheel-blanks",
+      "category_slug": "mechanical-castings",
+      "title": "蜗轮毛坯",
+      "summary": "减速机或低速传动机构中的青铜蜗轮部位。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/marine-v4-p25.webp",
+      "source_url": "https://www.jxzrcasting.com/products/bronze-worm-wheel-blanks/?lang=zh-cn",
+      "requirements": [
+        "毛坯结构：提供轮毂与齿圈结构、外径、内孔、轮辐板及图纸版本。",
+        "加工方案：明确基准、加工余量、切齿责任及最终验收要求。",
+        "配套蜗杆：提供蜗杆图纸、材料、接口及规定的对中要求。",
+        "传动条件：说明载荷、速度、润滑剂及所需硬度状态。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：实心或环形铸造毛坯，可按约定预加工；齿形加工范围需另行明确。"
+      ],
+      "materials": [
+        "UNS C90700 锡青铜 可作为齿轮及蜗轮毛坯的候选材料。",
+        "UNS C90500 锡青铜 可作为按图设计的齿轮毛坯及特定润滑零件的候选材料。"
+      ],
+      "application": "工业机械与机械传动 蜗轮蜗杆与低速传动  机械维修与替换件"
+    },
+    {
+      "slug": "bronze-gear-rim-blanks",
+      "category_slug": "mechanical-castings",
+      "title": "齿圈毛坯",
+      "summary": "组合齿轮中与轮心连接的青铜外齿圈。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-bronze-gear-rim-blanks.webp",
+      "source_url": "https://www.jxzrcasting.com/products/bronze-gear-rim-blanks/?lang=zh-cn",
+      "requirements": [
+        "环坯外形尺寸：提供内外径、宽度、截面及加工余量。",
+        "轮毂连接：说明轮心材料、连接结构、配合及装配责任。",
+        "加工基准：明确同轴度、基准面、切齿余量及表面加工要求。",
+        "传动工况：提供配套齿轮、载荷、速度、润滑剂及验收标准。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：铸造环坯及约定车削加工；装配与切齿要求另行规定。"
+      ],
+      "materials": [
+        "UNS C90500 锡青铜 可作为按图设计的齿轮毛坯及特定润滑零件的候选材料。",
+        "UNS C90700 锡青铜 可作为齿轮及蜗轮毛坯的候选材料。"
+      ],
+      "application": "工业机械与机械传动 蜗轮蜗杆与低速传动  机械维修与替换件"
+    },
+    {
+      "slug": "bronze-thrust-rings",
+      "category_slug": "mechanical-castings",
+      "title": "止推轴承环",
+      "summary": "低速轴向滑动接触或间隙控制部位。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/c25aa75859ea7835-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/bronze-thrust-rings/?lang=zh-cn",
+      "requirements": [
+        "环件尺寸：提供内外径、厚度、沟槽及固定结构。",
+        "端面质量：明确平面度、平行度、表面粗糙度及配合面形状。",
+        "轴向接触：说明载荷、接触面积、滑动速度及对中要求。",
+        "润滑条件：说明润滑剂、供油路径及接触部位温度。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：采用环形毛坯或适用板管材加工，路线另行约定。"
+      ],
+      "materials": [
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。",
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。"
+      ],
+      "application": "工业机械与机械传动 机床与纺织机械轴承  压力机导向与丝杠传动  机械维修与替换件"
+    },
+    {
+      "slug": "split-bronze-bushings",
+      "category_slug": "mechanical-castings",
+      "title": "剖分衬套／轴瓦",
+      "summary": "采用剖分装配结构的轴承支承。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/150e04cc32da6f63-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/split-bronze-bushings/?lang=zh-cn",
+      "requirements": [
+        "剖分结构尺寸：提供内孔、外轮廓、长度、剖分面及截面厚度。",
+        "装配状态：明确夹紧或预紧方式及安装后的内孔要求。",
+        "运转配合面：提供轴尺寸、材料、硬度、间隙及表面粗糙度。",
+        "润滑条件：说明油槽、进油孔、润滑剂及使用条件。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：可由整体毛坯剖分或分件铸造后加工，工艺路线按设计确定。"
+      ],
+      "materials": [
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。",
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。"
+      ],
+      "application": "工业机械与机械传动 机床与纺织机械轴承  机械维修与替换件"
+    },
+    {
+      "slug": "bronze-drive-nut-blanks",
+      "category_slug": "mechanical-castings",
+      "title": "传动螺母毛坯",
+      "summary": "指定采用青铜螺母的丝杠传动或调节机构。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-bronze-drive-nut-blanks.webp",
+      "source_url": "https://www.jxzrcasting.com/products/bronze-drive-nut-blanks/?lang=zh-cn",
+      "requirements": [
+        "螺母与螺纹：提供本体外形、螺纹标注、旋合长度及配套丝杠图纸。",
+        "加工范围：明确螺纹加工责任、加工余量、内孔轴线及基准。",
+        "运动与载荷：说明轴向载荷、往复速度、工作循环及规定反向间隙。",
+        "接触条件：说明丝杠材料、润滑及实际工作温度。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：螺母铸件毛坯及约定加工；小规格可考虑采用适用型材。"
+      ],
+      "materials": [
+        "UNS C90500 锡青铜 可作为按图设计的齿轮毛坯及特定润滑零件的候选材料。",
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。",
+        "UNS C86300 高强度锰黄铜（商业名称 manganese bronze） 可作为指定重载滑动件与螺母毛坯的候选材料。"
+      ],
+      "application": "工业机械与机械传动 压力机导向与丝杠传动  重型机械滑动配合部位  机械维修与替换件"
+    },
+    {
+      "slug": "bronze-bearing-segments",
+      "category_slug": "mechanical-castings",
+      "title": "轴承瓦块／支承块",
+      "summary": "铜合金图纸指定的局部承载轴承接触部位。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/2571cbe2d1335173-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/bronze-bearing-segments/?lang=zh-cn",
+      "requirements": [
+        "接触轮廓：提供平面或曲面轮廓、接触面积、厚度及安装方式。",
+        "配合表面：说明对偶面材料、轴状态及表面粗糙度要求。",
+        "支承载荷：说明载荷方向、运动及接触分布。",
+        "润滑条件：说明润滑剂、沟槽、温度及污染条件。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：近净形块状铸件，接触面加工按约定执行。"
+      ],
+      "materials": [
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。",
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。"
+      ],
+      "application": "工业机械与机械传动 重型机械滑动配合部位  机械维修与替换件"
+    },
+    {
+      "slug": "heavy-duty-bronze-pivot-bushings",
+      "category_slug": "mechanical-castings",
+      "title": "重载铰接轴套",
+      "summary": "重型机械中指定的摆动销轴或连杆支承部位。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-heavy-duty-bronze-pivot-bushings.webp",
+      "source_url": "https://www.jxzrcasting.com/products/heavy-duty-bronze-pivot-bushings/?lang=zh-cn",
+      "requirements": [
+        "铰接部位尺寸：提供内孔、外径、长度、台肩及座孔配合。",
+        "销轴表面：说明销轴材料、硬度、表面粗糙度及安装间隙。",
+        "摆动与冲击：说明载荷、冲击、摆角及工作循环。",
+        "防护与润滑：说明润滑路径、密封、粉尘环境及温度。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：套类铸件毛坯及约定加工；工艺路线需评审。"
+      ],
+      "materials": [
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。",
+        "UNS C86300 高强度锰黄铜（商业名称 manganese bronze） 可作为指定重载滑动件与螺母毛坯的候选材料。",
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。"
+      ],
+      "application": "工业机械与机械传动 重型机械滑动配合部位"
+    },
+    {
+      "slug": "rolling-mill-screw-down-nut-blanks",
+      "category_slug": "mechanical-castings",
+      "title": "压下螺母毛坯",
+      "summary": "轧机压下或辊缝调节丝杠上的承载螺母。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-rolling-mill-screw-down-nut-blanks.webp",
+      "source_url": "https://www.jxzrcasting.com/products/rolling-mill-screw-down-nut-blanks/?lang=zh-cn",
+      "requirements": [
+        "螺母结构要求：提供本体外形、估算重量、螺纹设计及旋合长度。",
+        "配套丝杠：明确丝杠材料、牙型、对中及规定反向间隙。",
+        "载荷与润滑：说明调节载荷、工作循环、润滑剂及零件实际温度。",
+        "加工方案：明确加工余量、基准、螺纹加工责任及检验要求。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：块状或圆柱形铸件毛坯及约定预加工；成品螺纹要求另行规定。"
+      ],
+      "materials": [
+        "UNS C86300 高强度锰黄铜（商业名称 manganese bronze） 可作为指定重载滑动件与螺母毛坯的候选材料。",
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。"
+      ],
+      "application": "钢铁与冶金设备 轧机压下与辊缝调整  轧机维护与零件更换"
+    },
+    {
+      "slug": "rolling-mill-housing-nut-blanks",
+      "category_slug": "mechanical-castings",
+      "title": "机架螺母毛坯",
+      "summary": "轧机机架内固定或承载的调节螺纹部位。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-rolling-mill-housing-nut-blanks.webp",
+      "source_url": "https://www.jxzrcasting.com/products/rolling-mill-housing-nut-blanks/?lang=zh-cn",
+      "requirements": [
+        "机架配合：提供外形尺寸、定位结构及接口图纸。",
+        "螺纹与载荷：提供螺纹设计、配套丝杠、旋合长度及规定载荷。",
+        "毛坯准备：明确估算重量、加工余量、基准及加工责任。",
+        "验收细则：明确所需硬度状态、允许不连续性及检验部位。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：铸件毛坯，加工范围按具体零件约定。"
+      ],
+      "materials": [
+        "UNS C86300 高强度锰黄铜（商业名称 manganese bronze） 可作为指定重载滑动件与螺母毛坯的候选材料。",
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。"
+      ],
+      "application": "钢铁与冶金设备 轧机压下与辊缝调整  轧机维护与零件更换"
+    },
+    {
+      "slug": "bronze-slipper-pads",
+      "category_slug": "mechanical-castings",
+      "title": "轧机滑履垫块",
+      "summary": "指定轧机滑动或传动部位的可更换接触垫板。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/8c5017dd4f33d7f9-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/bronze-slipper-pads/?lang=zh-cn",
+      "requirements": [
+        "垫板尺寸：提供轮廓、厚度、接触型面及安装孔。",
+        "配合接触面：说明对偶面材料、接触面积及所需表面粗糙度。",
+        "运动与载荷：明确接触压力要求、行程、方向及工作循环。",
+        "润滑与温度：说明润滑剂、供油结构及零件实际温度。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：近净形铸件或板坯，加工按约定执行。"
+      ],
+      "materials": [
+        "UNS C86300 高强度锰黄铜（商业名称 manganese bronze） 可作为指定重载滑动件与螺母毛坯的候选材料。",
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。"
+      ],
+      "application": "钢铁与冶金设备 轧辊轴承座与机架导向  地下卷取机与辅助机构  轧机维护与零件更换"
+    },
+    {
+      "slug": "rolling-mill-chock-wear-plates",
+      "category_slug": "mechanical-castings",
+      "title": "轧辊轴承座耐磨板",
+      "summary": "轧辊轴承座与机架导向面之间的滑动部位。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-rolling-mill-chock-wear-plates.webp",
+      "source_url": "https://www.jxzrcasting.com/products/rolling-mill-chock-wear-plates/?lang=zh-cn",
+      "requirements": [
+        "板件与安装：提供长、宽、厚度、孔、凹槽及定位布置。",
+        "导向件尺寸：明确安装间隙、平面度、平行度及表面粗糙度。",
+        "接触条件：说明载荷、运动及配对材料。",
+        "温度与润滑工况：说明零件实际温度、润滑剂及分配方式。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：板类铸件或铸造板坯，表面加工按约定执行。"
+      ],
+      "materials": [
+        "UNS C86300 高强度锰黄铜（商业名称 manganese bronze） 可作为指定重载滑动件与螺母毛坯的候选材料。",
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。"
+      ],
+      "application": "钢铁与冶金设备 轧辊轴承座与机架导向  轧机维护与零件更换"
+    },
+    {
+      "slug": "downcoiler-bronze-wear-liners",
+      "category_slug": "mechanical-castings",
+      "title": "卷取机耐磨衬板",
+      "summary": "卷取机或辅助机构中的指定滑动导向部位。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-downcoiler-bronze-wear-liners.webp",
+      "source_url": "https://www.jxzrcasting.com/products/downcoiler-bronze-wear-liners/?lang=zh-cn",
+      "requirements": [
+        "衬板布置：提供轮廓、厚度、安装尺寸及更换空间。",
+        "滑动配合副：说明配对材料、接触面积及表面粗糙度。",
+        "运动与载荷：说明行程、方向、滑动速度及载荷循环。",
+        "温度与润滑剂：说明衬板实际温度、润滑剂及使用环境。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：采用板块类铸件，或按要求采用型材机加工；路线另行约定。"
+      ],
+      "materials": [
+        "UNS C86300 高强度锰黄铜（商业名称 manganese bronze） 可作为指定重载滑动件与螺母毛坯的候选材料。",
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。"
+      ],
+      "application": "钢铁与冶金设备 地下卷取机与辅助机构  轧机维护与零件更换"
+    },
+    {
+      "slug": "bronze-pressure-blocks",
+      "category_slug": "mechanical-castings",
+      "title": "轧机承压块",
+      "summary": "轧机支承或调节机构中的指定承载接触部位。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-bronze-pressure-blocks.webp",
+      "source_url": "https://www.jxzrcasting.com/products/bronze-pressure-blocks/?lang=zh-cn",
+      "requirements": [
+        "块体尺寸：提供外形尺寸、接触面积、定位面及安装方式。",
+        "载荷要求：明确受力方向、接触分布及抗压要求。",
+        "接触面：明确对偶面、平面度、表面粗糙度及约定变形标准。",
+        "温度条件：说明零件实际温度、热循环及适用的润滑条件。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：块状铸件，接触面加工按约定执行。"
+      ],
+      "materials": [
+        "UNS C95400 铝青铜 可作为按图设计的承载滑动件与耐磨件的候选材料。",
+        "UNS C86300 高强度锰黄铜（商业名称 manganese bronze） 可作为指定重载滑动件与螺母毛坯的候选材料。"
+      ],
+      "application": "钢铁与冶金设备 轧机压下与辊缝调整  轧辊轴承座与机架导向  轧机维护与零件更换"
+    },
+    {
+      "slug": "rolling-mill-bronze-bushings",
+      "category_slug": "mechanical-castings",
+      "title": "辊颈／辅助轴衬套",
+      "summary": "采用已确认青铜衬套设计的辊颈或辅助轴支承。",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/07ec93aba0c44bcb-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/rolling-mill-bronze-bushings/?lang=zh-cn",
+      "requirements": [
+        "轴承标识：提供设备型号、轴承类型、轴位置及确认图纸。",
+        "套类尺寸：提供内孔、外径、长度、沟槽及配合要求。",
+        "轴与工况：说明配合轴状态、载荷、速度及运行间隙。",
+        "润滑油与温度：说明润滑布置、供油及零件实际温度。",
+        "材料与验收：指定合金与标准、供货状态、图纸版本、数量、检验标准及所需记录。",
+        "供货状态：铸管或套类毛坯及约定加工；大型零件的工艺路线须评审。"
+      ],
+      "materials": [
+        "UNS C93200 铅锡青铜 可用于有润滑条件的衬套、滑动轴承及止推配合部位的选材评审。",
+        "UNS C93700 高铅锡青铜 可作为指定润滑轴承配合部位的候选材料。"
+      ],
+      "application": "钢铁与冶金设备 轧辊轴承座与机架导向  地下卷取机与辅助机构  轧机维护与零件更换"
+    },
+    {
+      "slug": "rudder-stock-bushing",
+      "category_slug": "mechanical-castings",
+      "title": "舵杆衬套",
+      "summary": "舵杆支承",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/bb2a9346b8e4dff8-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/rudder-stock-bushing/?lang=zh-cn",
+      "requirements": [
+        "舵杆与座孔配合：舵杆直径、轴承长度、外圆配合、间隙及装配方法。",
+        "轴承工作表面：沟槽布置、轴表面粗糙度与材料、允许磨损量及润滑方式。",
+        "舵系工况：载荷方向、摆动工况、浸水条件及项目验收要求。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C95800 镍铝青铜 可作为兼顾耐蚀性与强度的海水接触铸件候选材料，具体应核对铸件状态、水质与流动条件。",
+        "UNS C95400 铝青铜 可作为重视强度与耐磨性的轴承、齿轮及耐磨零件候选材料，需核对润滑、配对材料及使用工况。"
+      ],
+      "application": "轴系与舵系轴承"
+    },
+    {
+      "slug": "propeller-shaft-liner",
+      "category_slug": "mechanical-castings",
+      "title": "螺旋桨轴衬套",
+      "summary": "螺旋桨轴轴承／密封配合部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/e14bcd853afd27a2-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/propeller-shaft-liner/?lang=zh-cn",
+      "requirements": [
+        "衬套外形尺寸：轴径、内径、外径、长度、轴肩及锥度。",
+        "配合与精加工：过盈或其他配合形式、装配方法、直线度、圆度及最终表面粗糙度。",
+        "使用与交付要求：轴承／密封结构、水润滑或油润滑、交付状态及尺寸检验。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C95800 镍铝青铜 可作为兼顾耐蚀性与强度的海水接触铸件候选材料，具体应核对铸件状态、水质与流动条件。"
+      ],
+      "application": "轴系与舵系轴承"
+    },
+    {
+      "slug": "metal-bearing-shell",
+      "category_slug": "mechanical-castings",
+      "title": "金属轴承外壳",
+      "summary": "船用轴承金属外壳",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/7d1d289d4947fa44-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/metal-bearing-shell/?lang=zh-cn",
+      "requirements": [
+        "外壳尺寸：内径、外径、长度、壁厚及固定结构。",
+        "衬层接口：衬层材料、粘接或固定方式、预留量及安装公差。",
+        "使用条件与检验：轴尺寸、润滑介质、座孔配合及尺寸／材料验收要求。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "海军黄铜类 须指定准确牌号 用于部分船用水润滑轴承金属外壳。须综合审核外壳合金、衬层体系和轴工况，材料类别名称不能代替铸造牌号。"
+      ],
+      "application": "轴系与舵系轴承"
+    },
+    {
+      "slug": "cast-busbar-connectors",
+      "category_slug": "electrical-castings",
+      "title": "铸造母排连接件",
+      "summary": "母排分支或异形过渡部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/8a54c2359c9a3d70-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/cast-busbar-connectors/?lang=zh-cn",
+      "requirements": [
+        "连接件图纸：提供截面、分支结构、接触面尺寸及孔距。",
+        "载流工况：明确规定载流工况、工作温度及成品导电率验收要求。",
+        "接触连接装配：明确平面度、表面处理、紧固要求，以及接触电阻或装配验证的责任范围。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C81100 铸造紫铜 可作为按图指定的导电铸件候选材料。"
+      ],
+      "application": "电力与输配电 母排连接与分支"
+    },
+    {
+      "slug": "copper-conductor-connection-blocks",
+      "category_slug": "electrical-castings",
+      "title": "导电连接块",
+      "summary": "开关设备中的固定导电通路",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/a3460e8343b0e65e-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/copper-conductor-connection-blocks/?lang=zh-cn",
+      "requirements": [
+        "接触部位尺寸：明确接触面积、平面度、紧固孔及加工基准。",
+        "材料状态：明确牌号、规定的热处理状态、硬度及成品导电率标准。",
+        "装配验证：明确接触压力、运行工况及电阻和温升检查的责任范围。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C81100 铸造紫铜 可作为按图指定的导电铸件候选材料。",
+        "UNS C81500 铸造铬铜 可作为设计需兼顾导电性与力学性能时的候选材料。"
+      ],
+      "application": "电力与输配电 母排连接与分支  开关设备与熔断器接线端子"
+    },
+    {
+      "slug": "cast-copper-electrical-terminals",
+      "category_slug": "electrical-castings",
+      "title": "接线端子本体",
+      "summary": "电缆与设备的固定连接部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/03422d42bd6a8170-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/cast-copper-electrical-terminals/?lang=zh-cn",
+      "requirements": [
+        "电缆接口：提供导体形态、内孔、电缆接触结构及紧固方式。",
+        "电气性能验收：明确成品导电率、接触电阻及规定试验方法。",
+        "表面与装配要求：明确镀层、接触面粗糙度、机械紧固及检验责任。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C81100 铸造紫铜 可作为按图指定的导电铸件候选材料。",
+        "UNS C81500 铸造铬铜 可作为设计需兼顾导电性与力学性能时的候选材料。"
+      ],
+      "application": "电力与输配电 开关设备与熔断器接线端子  绝缘套管端子与接地连接"
+    },
+    {
+      "slug": "copper-alloy-support-castings",
+      "category_slug": "electrical-castings",
+      "title": "安装支架／支承铸件",
+      "summary": "户外开关设备或绝缘部件支承",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/d10714655d60164b-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/copper-alloy-support-castings/?lang=zh-cn",
+      "requirements": [
+        "机械工况：说明载荷、受力方向、安装方式及反复动作情况。",
+        "安装尺寸：明确孔位、配合、接触面及关键截面。",
+        "环境与功能：说明户外环境、防腐要求及零件是否兼具载流功能。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C87600 铸造铜硅合金 可作为按图指定的连接件或支撑件候选材料。",
+        "UNS C95400 铝青铜 可作为指定耐磨件、导向件或结构件的候选材料。",
+        "UNS C81100 铸造紫铜 可作为按图指定的导电铸件候选材料。"
+      ],
+      "application": "电力与输配电 户外开关设备支撑金具"
+    },
+    {
+      "slug": "cast-conductor-clamp-bodies",
+      "category_slug": "electrical-castings",
+      "title": "铸造导线线夹本体",
+      "summary": "电缆或圆导体夹持部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/5d9ae2c0ca028343-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/cast-conductor-clamp-bodies/?lang=zh-cn",
+      "requirements": [
+        "导体配合：提供导体材料、形态、直径及接触结构。",
+        "夹紧要求：明确螺栓接口、夹紧力、装配程序及机械性能要求。",
+        "电气与表面要求：说明载流功能、导电率与接触性能检查、镀层及使用环境。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C81100 铸造紫铜 可作为按图指定的导电铸件候选材料。",
+        "UNS C87600 铸造铜硅合金 可作为按图指定的连接件或支撑件候选材料。"
+      ],
+      "application": "电力与输配电 母排连接与分支  开关设备与熔断器接线端子  绝缘套管端子与接地连接"
+    },
+    {
+      "slug": "transformer-bushing-terminal-castings",
+      "category_slug": "electrical-castings",
+      "title": "变压器套管接线端子",
+      "summary": "电气套管端部金属连接件",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/283970628b8e7804-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/transformer-bushing-terminal-castings/?lang=zh-cn",
+      "requirements": [
+        "端子接口：提供连接外形、导体孔、螺纹细节及配合尺寸。",
+        "导电性能验收：明确规定合金状态、成品导电率及接触电阻标准。",
+        "表面与密封要求：明确镀层、端面粗糙度、相关密封接口及装配试验分工。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C81100 铸造紫铜 可作为按图指定的导电铸件候选材料。",
+        "UNS C81500 铸造铬铜 可作为设计需兼顾导电性与力学性能时的候选材料。"
+      ],
+      "application": "电力与输配电 绝缘套管端子与接地连接"
+    },
+    {
+      "slug": "cutout-switch-hardware-castings",
+      "category_slug": "electrical-castings",
+      "title": "跌落式熔断器支撑件",
+      "summary": "户外跌落式熔断器的悬挂或枢轴支承部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/fb4dffc9ad9b7061-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/cutout-switch-hardware-castings/?lang=zh-cn",
+      "requirements": [
+        "机构尺寸：提供挂钩或耳轴结构、销轴配合及运动空间。",
+        "机械工况：说明冲击、反复操作载荷、配合件及验收标准。",
+        "环境与功能要求：明确耐候、防腐、表面要求及机械承载与载流的功能边界。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C95400 铝青铜 可作为指定耐磨件、导向件或结构件的候选材料。",
+        "UNS C87600 铸造铜硅合金 可作为按图指定的连接件或支撑件候选材料。"
+      ],
+      "application": "电力与输配电 户外开关设备支撑金具"
+    },
+    {
+      "slug": "cast-grounding-clamp-bodies",
+      "category_slug": "electrical-castings",
+      "title": "铸造接地线夹本体",
+      "summary": "接地导体与设备或接地极的连接部位",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/6d0967b54e6ebcb1-960.webp",
+      "source_url": "https://www.jxzrcasting.com/products/cast-grounding-clamp-bodies/?lang=zh-cn",
+      "requirements": [
+        "连接布置：提供导体与接地极类型、直径、接口结构及紧固件要求。",
+        "机械与环境要求：说明夹紧要求、使用环境、相连金属及腐蚀条件。",
+        "电气性能验收：明确连接电阻检查、产品要求及试验责任。",
+        "材料技术要求：合金牌号、执行标准及版本、制造状态，以及限用物质要求。",
+        "订货与验收要求：经确认的图纸版本、数量、毛坯或机加工交付状态、检验标准及所需记录。"
+      ],
+      "materials": [
+        "UNS C87600 铸造铜硅合金 可作为按图指定的连接件或支撑件候选材料。",
+        "UNS C81100 铸造紫铜 可作为按图指定的导电铸件候选材料。"
+      ],
+      "application": "电力与输配电 绝缘套管端子与接地连接  户外开关设备支撑金具"
+    },
+    {
+      "slug": "fixed-pitch-propeller",
+      "category_slug": "propeller-castings",
+      "title": "定距螺旋桨铸件",
+      "summary": "定距推进螺旋桨",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/marine-v4-p30.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/fixed-pitch-propeller/?lang=zh-cn",
+      "requirements": [
+        "螺旋桨几何参数：三维桨叶型面、直径、螺距分布、叶数、侧斜与纵倾及旋向。",
+        "桨毂与精加工：锥孔／内孔、键槽、加工余量、表面粗糙度及加工责任划分。",
+        "验收要求：适用材料／船级规范、截面试验、无损检测、平衡要求及交付文件。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C95800 镍铝青铜 可作为兼顾耐蚀性与强度的海水接触铸件候选材料，具体应核对铸件状态、水质与流动条件。"
+      ],
+      "application": "螺旋桨部件"
+    },
+    {
+      "slug": "controllable-pitch-blade",
+      "category_slug": "propeller-castings",
+      "title": "可调螺距桨叶",
+      "summary": "可调螺距桨叶",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/f8e391d954993dc3-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/controllable-pitch-blade/?lang=zh-cn",
+      "requirements": [
+        "桨叶参数：三维型面、螺距几何参数、旋向、厚度分布及铸造预留量。",
+        "叶根接口：安装法兰尺寸、螺栓孔、定位止口、过渡圆角及关键公差。",
+        "检验与交付：材料／船级规范、无损检测、尺寸检验、平衡责任方及精加工范围。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C95800 镍铝青铜 可作为兼顾耐蚀性与强度的海水接触铸件候选材料，具体应核对铸件状态、水质与流动条件。"
+      ],
+      "application": "螺旋桨部件"
+    },
+    {
+      "slug": "propeller-hub",
+      "category_slug": "propeller-castings",
+      "title": "桨毂",
+      "summary": "可调螺距螺旋桨桨毂",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/82a616ae68c28803-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/propeller-hub/?lang=zh-cn",
+      "requirements": [
+        "桨毂外形尺寸：模型、轴孔、内部腔体、桨叶安装面及壁厚。",
+        "关键接口：定位止口、螺栓分布圆、密封槽、加工基准及装配间隙。",
+        "验收范围：材料／船级规范、内部质量要求、尺寸检验及交付状态。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "UNS C95800 镍铝青铜 可作为兼顾耐蚀性与强度的海水接触铸件候选材料，具体应核对铸件状态、水质与流动条件。"
+      ],
+      "application": "螺旋桨部件"
+    },
+    {
+      "slug": "bronze-mooring-cleat",
+      "category_slug": "hardware-custom-castings",
+      "title": "青铜系缆羊角",
+      "summary": "艇用甲板系泊点",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/e4eee3fe94829314-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/bronze-mooring-cleat/?lang=zh-cn",
+      "requirements": [
+        "系缆羊角结构尺寸：羊角长度与轮廓、底座尺寸、各截面厚度及安装孔。",
+        "安装条件：紧固件布置、背衬结构、缆绳规格及现有安装图。",
+        "载荷与验收：载荷方向及设计／验证载荷准则；表面要求及材料规范。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "青铜／锡锌青铜 须指定具体牌号 船用五金可采用不同铜合金体系。请指定合金牌号及适用标准，不能仅凭商品名称确定性能或允许载荷。",
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 用于部分青铜管件的铸造铜合金。其铸造与切削加工性能适于复杂连接结构；须核实海水工况及含铅限制。"
+      ],
+      "application": "甲板与系泊五金"
+    },
+    {
+      "slug": "bronze-deck-fairlead",
+      "category_slug": "hardware-custom-castings",
+      "title": "青铜甲板导缆器",
+      "summary": "艇用系泊缆绳导向",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/d4079ce1ca1322c3-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/bronze-deck-fairlead/?lang=zh-cn",
+      "requirements": [
+        "导缆钳结构尺寸：开口、钳口轮廓、底座尺寸、安装孔及边缘圆角。",
+        "缆绳与安装：缆绳直径与类型、导缆角度、紧固件及甲板支承结构。",
+        "验收要求：载荷准则、接触面粗糙度、材料标准及检验要求。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "青铜／锡锌青铜 须指定具体牌号 船用五金可采用不同铜合金体系。请指定合金牌号及适用标准，不能仅凭商品名称确定性能或允许载荷。"
+      ],
+      "application": "甲板与系泊五金"
+    },
+    {
+      "slug": "bronze-mooring-bitt",
+      "category_slug": "hardware-custom-castings",
+      "title": "青铜系缆桩",
+      "summary": "艇用甲板系缆桩",
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/1b65f9269c7f7e07-960.webp",
+      "source_url": "https://www.jxzrcasting.com/solutions/marine/components/bronze-mooring-bitt/?lang=zh-cn",
+      "requirements": [
+        "桩柱与底座结构：桩柱直径与高度、间距、横杆、底座厚度及安装孔布置。",
+        "安装与载荷：缆绳规格、载荷方向、甲板背衬及设计／验证载荷准则。",
+        "材料与表面要求：合金标准、铸件质量检验、表面粗糙度及交付状态。",
+        "材料技术要求：合金牌号、执行标准、铸件状态及限用物质要求。",
+        "订货与验收要求：图纸版本、数量、交付状态、关键公差及所需检验记录。"
+      ],
+      "materials": [
+        "青铜／锡锌青铜 须指定具体牌号 船用五金可采用不同铜合金体系。请指定合金牌号及适用标准，不能仅凭商品名称确定性能或允许载荷。",
+        "UNS C83600 含铅锡锌青铜（美标 red brass） 用于部分青铜管件的铸造铜合金。其铸造与切削加工性能适于复杂连接结构；须核实海水工况及含铅限制。"
+      ],
+      "application": "甲板与系泊五金"
+    }
+  ],
+  "articles": [
+    {
+      "slug": "bronze-impeller-casting-material-traceability",
+      "source_url": "https://www.jxzrcasting.com/news/bronze-impeller-casting-material-traceability/",
+      "title_en": "Bronze Impeller Traceability: Does the Certificate Match the Parts?",
+      "published_at": "2026-10-22 00:00:00",
+      "intro_en": [
+        "The delivery contains bronze impellers and a material certificate. Both look in order. One question remains: which of these impellers does that certificate describe?",
+        "For bronze impeller casting traceability , having the document and connecting it to the parts are separate tasks. A part number identifies a design. A purchase order identifies an order. Neither necessarily distinguishes the production groups within that order.",
+        "A useful receiving check follows the connection in both directions: from a package to its applicable material record, and from that record to the other parts it covers."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261022/traceability.webp"
+    },
+    {
+      "slug": "bronze-impeller-porosity-after-machining",
+      "source_url": "https://www.jxzrcasting.com/news/bronze-impeller-porosity-after-machining/",
+      "title_en": "Porosity After Machining a Bronze Impeller: What Comes Next?",
+      "published_at": "2026-10-23 00:00:00",
+      "intro_en": [
+        "A dark opening appears on the hub after a machining pass. The cutter has exposed it, but that does not establish that the cutter created it. Machining can intersect a void that was previously enclosed beneath the cast surface.",
+        "When investigating bronze casting porosity after machining , preserve the part's identity, the affected feature and the machining state first. A close-up of the opening is useful; a close-up without its location is much less useful.",
+        "The next decision is whether the condition meets the applicable requirement, needs further examination, or requires a controlled disposition. Cutting until the mark disappears skips that decision."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261023/porosity-section.webp"
+    },
+    {
+      "slug": "bronze-impellers-seawater-pumps-rfq",
+      "source_url": "https://www.jxzrcasting.com/news/bronze-impellers-seawater-pumps-rfq/",
+      "title_en": "Bronze Impellers for Seawater Pumps: Read the Wear Before Reordering",
+      "published_at": "2026-10-20 00:00:00",
+      "intro_en": [
+        "PUMP IMPELLER ENGINEERING",
+        "Zhiren Casting · October 20, 2026",
+        "A worn bronze seawater pump impeller is useful evidence, but it is a poor master for a new part. Eroded vane edges, a worn running diameter or a damaged hub can all be copied into a replacement if the used component is treated as the original design."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-revision-20261020/seawater-impeller-wear.webp"
+    },
+    {
+      "slug": "bronze-pump-impeller-balancing",
+      "source_url": "https://www.jxzrcasting.com/news/bronze-pump-impeller-balancing/",
+      "title_en": "Bronze Pump Impeller Balancing: What Does the Result Cover?",
+      "published_at": "2026-10-23 00:00:00",
+      "intro_en": [
+        "The bore is within tolerance. The machined face runs true. A balance report is attached. These are three useful pieces of information, but they do not prove the same thing.",
+        "For a buyer ordering a machined bronze impeller, pump impeller balancing is a mass-distribution requirement. The first question is which physical configuration the result describes: the casting blank, the finished impeller, or a larger rotating assembly.",
+        "That distinction matters when the part still needs a keyway, diameter trim or another material-removal operation after the reported check."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261023/impeller-balance.webp"
+    },
+    {
+      "slug": "changing-bronze-impeller-casting-supplier",
+      "source_url": "https://www.jxzrcasting.com/news/changing-bronze-impeller-casting-supplier/",
+      "title_en": "Changing a Bronze Impeller Casting Supplier: What Carries Over?",
+      "published_at": "2026-10-22 00:00:00",
+      "intro_en": [
+        "“Make it like the last order” is a poor starting point when the last order came from a different foundry. The buyer may have a successful impeller in hand without a clear record of who cast it, who finished it, or which version of the drawing each company used.",
+        "When changing a bronze impeller casting supplier , separate the definition of the part from the way the old source made it. Carry forward the approved requirements. Identify which manufacturing assumptions need fresh evidence.",
+        "This matters whether you are replacing a source or adding a second one. An impeller that looks familiar can arrive at a different delivery state, with a different machining responsibility, even when the purchase order uses the same part number."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261022/supplier-transfer.webp"
+    },
+    {
+      "slug": "closed-impeller-internal-passage-inspection",
+      "source_url": "https://www.jxzrcasting.com/news/closed-impeller-internal-passage-inspection/",
+      "title_en": "Closed Impeller Castings: Look Beyond the Inlet Photo",
+      "published_at": "2026-10-24 00:00:00",
+      "intro_en": [
+        "The front face looks clean. The inlet eye is open. Light reaches several vane edges. That is a useful view of a closed bronze impeller, but the liquid's route continues behind the shroud and around the curved passages.",
+        "For closed impeller inspection , separate three questions: Is the passage the required shape? Is anything obstructing it? What is the condition of the surface being examined? They are related, but one photograph does not answer all three.",
+        "This matters when buying a new casting. A well-machined bore and correct outside diameter can coexist with an internal channel that has not been adequately reviewed."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261024/closed-passages.webp"
+    },
+    {
+      "slug": "custom-bronze-pump-impeller-castings",
+      "source_url": "https://www.jxzrcasting.com/news/custom-bronze-pump-impeller-castings/",
+      "title_en": "Bronze Pump Impeller Castings: Which Surfaces Need Machining?",
+      "published_at": "2026-10-20 00:00:00",
+      "intro_en": [
+        "PUMP IMPELLER ENGINEERING",
+        "Zhiren Casting · October 20, 2026",
+        "A bronze pump impeller has two very different kinds of surface: the passages that move liquid and the interfaces that locate the part on the shaft. A casting can form the curved vanes and shrouds, while the bore, locating faces and other drawing-defined fits need a separate finishing plan."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-revision-20261020/impeller-machining.webp"
+    },
+    {
+      "slug": "open-vs-closed-bronze-pump-impeller-castings",
+      "source_url": "https://www.jxzrcasting.com/news/open-vs-closed-bronze-pump-impeller-castings/",
+      "title_en": "Open vs Closed Bronze Pump Impellers: What Changes in Service?",
+      "published_at": "2026-10-20 00:00:00",
+      "intro_en": [
+        "PUMP IMPELLER ENGINEERING",
+        "Zhiren Casting · October 20, 2026",
+        "The visible difference between an open and a closed bronze pump impeller is the front shroud. In service, the questions are more specific: where is the working clearance, what happens as it wears, and which surfaces can the maintenance team reach?"
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-revision-20261020/open-closed-impellers.webp"
+    },
+    {
+      "slug": "pump-impeller-balance-holes",
+      "source_url": "https://www.jxzrcasting.com/news/pump-impeller-balance-holes/",
+      "title_en": "Impeller Balance Holes: The Hydraulic Job Behind the Name",
+      "published_at": "2026-10-26 00:00:00",
+      "intro_en": [
+        "Small holes near an impeller hub can be easy to dismiss as manufacturing details. If they are impeller balance holes , they belong to a pressure-control path in the pump. Their job is different from the rotating-mass assessment recorded on a dynamic-balance report.",
+        "That distinction matters when ordering a bronze replacement. “The new part has been balanced” does not answer whether its hydraulic holes have the right geometry, and a ring of holes does not establish a dynamic-balance result.",
+        "Fluid pressure acts on the impeller's shroud surfaces and contributes to force along the shaft. The pressure distribution on the two sides matters; the outside silhouette alone does not describe it."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261026/balance-hole-function.webp"
+    },
+    {
+      "slug": "pump-impeller-first-article-inspection",
+      "source_url": "https://www.jxzrcasting.com/news/pump-impeller-first-article-inspection/",
+      "title_en": "Pump Impeller First Article Inspection: Read Beyond “Pass”",
+      "published_at": "2026-10-22 00:00:00",
+      "intro_en": [
+        "A first article report can contain a page of acceptable measurements and still leave the buyer unable to approve the impeller. The measurements may describe an older drawing, an unfinished blank or a different sample from the one on the desk.",
+        "For pump impeller first article inspection , read one requirement all the way through: from the issued drawing, to the inspection entry, to the identified physical sample. The number has meaning only when those connections hold.",
+        "The following is a worked review method for a drawing-defined bronze impeller. The examples are illustrative, not Zhiren inspection records or universal acceptance criteria."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261022/first-article.webp"
+    },
+    {
+      "slug": "pump-impeller-keyed-vs-threaded-hub",
+      "source_url": "https://www.jxzrcasting.com/news/pump-impeller-keyed-vs-threaded-hub/",
+      "title_en": "Keyed or Threaded Impeller Hub? Start at the Shaft",
+      "published_at": "2026-10-26 00:00:00",
+      "intro_en": [
+        "An impeller can match the old part's outside diameter and still have the wrong connection at its center. A keyed bore and a screw-on hub need different shaft ends. Neither becomes a substitute for the other because the vanes look similar.",
+        "For a custom bronze replacement, begin with the interface that transmits rotation and locates the part on the shaft. A pump impeller keyway is one feature within that interface, not a complete definition of it.",
+        "In a keyed arrangement, a key engages the shaft and the hub so that they turn together. The surrounding bore and its mating shaft surface establish the specified fit. An end screw, nut, sleeve or another defined feature may provide axial retention; identify the arrangement on the actual drawing."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261026/keyed-hub.webp"
+    },
+    {
+      "slug": "pump-impeller-rotation-direction",
+      "source_url": "https://www.jxzrcasting.com/news/pump-impeller-rotation-direction/",
+      "title_en": "Pump Impeller Rotation: Clockwise from Which End?",
+      "published_at": "2026-10-24 00:00:00",
+      "intro_en": [
+        "“Clockwise” on the replacement drawing. “Counterclockwise” in an email from the site. Before ordering a different bronze impeller, put both descriptions at the same end of the shaft.",
+        "Pump impeller rotation direction needs a viewing reference. A rotor that appears clockwise when seen from one end appears counterclockwise from the other. The component has not changed; the observer has moved.",
+        "That is a simple distinction, but it can separate a drawing clarification from an unnecessary change to the casting geometry."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261024/rotation-view.webp"
+    },
+    {
+      "slug": "pump-impeller-surface-finish-ra",
+      "source_url": "https://www.jxzrcasting.com/news/pump-impeller-surface-finish-ra/",
+      "title_en": "Impeller Surface Finish: What Does the Ra Number Cover?",
+      "published_at": "2026-10-26 00:00:00",
+      "intro_en": [
+        "“Surface finish 32” appears on a bronze impeller drawing. Before comparing it with a supplier's result, locate the surface, read the parameter and check the units. The drawing's general notes may supply some of that information; the number should not be interpreted in isolation.",
+        "For pump impeller surface finish , three questions do most of the work: which surface, which roughness parameter and which units? A hub face, a shaft bore and a curved as-cast passage are different places to assess.",
+        "A microinch, written µin, is one millionth of an inch. A micrometer, written µm, is one millionth of a meter. NIST's inch definition gives the exact conversion basis:1 inch equals 25.4 mm."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261026/roughness-profiles.webp"
+    },
+    {
+      "slug": "pump-impeller-wear-ring-clearance",
+      "source_url": "https://www.jxzrcasting.com/news/pump-impeller-wear-ring-clearance/",
+      "title_en": "New Bronze Impeller, Old Wear Ring: Check the Pair",
+      "published_at": "2026-10-24 00:00:00",
+      "intro_en": [
+        "A replacement bronze impeller arrives to the specified drawing. The pump is rebuilt with its existing casing wear ring. The impeller can be correct and the assembled running clearance can still be wrong.",
+        "The reason is straightforward: pump wear ring clearance is a relationship between two surfaces . Replacing the rotating surface does not establish the condition of the stationary one.",
+        "For an order that includes finished running surfaces, identify both sides of that relationship before treating “new impeller” as a complete restoration of the gap."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261024/wear-ring-pair.webp"
+    },
+    {
+      "slug": "replacement-pump-impeller-trim-diameter",
+      "source_url": "https://www.jxzrcasting.com/news/replacement-pump-impeller-trim-diameter/",
+      "title_en": "Ordering a Replacement Impeller: Which Diameter Are You Buying?",
+      "published_at": "2026-10-23 00:00:00",
+      "intro_en": [
+        "The catalogue shows one impeller diameter. The assembly drawing shows another. A measurement from the removed bronze impeller gives a third number. Sending all three to a casting supplier does not resolve which size the replacement should be.",
+        "For a replacement pump impeller trim diameter , separate the part's hydraulic definition from its manufacturing stock. An oversize casting blank and an approved finished trim can legitimately have different dimensions; they are instructions for different stages.",
+        "The purchasing task is to identify those stages and keep one controlled finished requirement."
+      ],
+      "image_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261023/impeller-diameter.webp"
+    }
+  ],
+  "pages": {
+    "about": {
+      "headings": [
+        "关于志人",
+        "江西铜合金铸件制造企业",
+        "铸件背后的团队与企业发展",
+        "技术团队",
+        "行业联系",
+        "企业发展",
+        "从零件需求开始沟通",
+        "合理使用材料与能源",
+        "下一件铸件，从图纸开始。"
+      ],
+      "paragraphs": [
+        "江西志人不锈钢制品有限公司成立于1993年。志人铸造是一家拥有近30年历史的中国铜合金铸件制造企业，为零部件采购需求提供项目沟通与制造支持。",
+        "我们以铜合金失蜡铸造为主，同时提供覆膜砂铸造，以满足不同零件设计与生产要求。",
+        "公司总部位于中国江西省赣江畔的扬洲岛，临近滕王阁与赣江大桥交通枢纽，为公司的全球一体化供应链提供支持。",
+        "公司拥有260名熟练技术人员和50名高级工程专业人员，为精密铸造业务提供支持。",
+        "志人是中国铸造协会的核心会员。",
+        "2002年，公司成立子公司 Jiangxi Gaoyan Power Equipment Co., Ltd.，面向具体行业需求提供解决方案。",
+        "请提供零件图纸、指定合金及所需交付状态。毛坯或机加工交付均可结合项目要求评估。询价时请说明数量、工作条件与验收要求；性能检测需求须按具体项目审核。",
+        "工艺优化、节能技术和智能铸造升级是志人制造工作的一部分。这些改进降低了单位产出的能源消耗，同时保持产品质量一致与生产稳定。",
+        "合理用料、资源管理和长期可靠性是相关工作的方向，为与全球客户及合作伙伴的持续合作提供支持。",
+        "请带上部件图纸、材料规范与交付要求。"
+      ],
+      "images": [
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/869fe41e774222ed-601.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/94f5a011f7ce27d7-960.webp"
+      ]
+    },
+    "capabilities": {
+      "headings": [
+        "制造能力",
+        "明确制造与检验范围",
+        "明确项目交付范围",
+        "材料规范",
+        "交付状态",
+        "检验与验收",
+        "所需文件",
+        "制造流程与质量要求",
+        "铸造工艺性分析",
+        "浇注系统三维模拟",
+        "蜡模模具制作",
+        "压蜡",
+        "修蜡",
+        "蜡模组树",
+        "制壳",
+        "脱蜡",
+        "型壳焙烧",
+        "熔炼、取样与光谱分析",
+        "浇注",
+        "三维扫描尺寸检测",
+        "证书与荣誉",
+        "质量体系资料",
+        "行业资质资料",
+        "企业荣誉资料",
+        "合作资料",
+        "下一件铸件，从图纸开始。"
+      ],
+      "paragraphs": [
+        "从图纸出发，确认工艺及交付状态。",
+        "铸件询价应明确材料标准、结构尺寸、交付状态及检验要求。具体工艺、加工分工、检测项目和证明文件应依据图纸逐项确认，不以通用工艺介绍代替项目承诺。",
+        "请提供合金牌号和执行标准，查阅现有材料参考资料。",
+        "结合图纸与数量，明确毛坯或机加工交付要求。",
+        "明确尺寸、材料与项目验收要求，性能检测按项目审核。",
+        "询价时明确图纸版本、材料规范及所需检验记录。",
+        "请带上部件图纸、材料规范与交付要求。"
+      ],
+      "images": [
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/dark-red/assets/web/owner-workshop-20261008-1600.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/9f023b8cc21f8350-640.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/621dadd431a99363-960.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/dark-red/assets/web/owner-pattern-production-20261008-1600.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/dark-red/assets/web/owner-wax-injection-20261008-1600.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/dark-red/assets/web/owner-wax-repair-20261008-1600.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/dark-red/assets/web/owner-wax-assembly-20261008-1600.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/dark-red/assets/web/owner-shell-building-20261008-1600.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/dark-red/assets/web/owner-dewaxing-20261008-1600.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/c033ca8a34885f26-640.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/5f881f1b553bb272-640.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/dark-red/assets/web/owner-pouring-20261008-1600.webp"
+      ]
+    },
+    "solutions": {
+      "headings": [
+        "行业应用",
+        "船舶与海洋应用",
+        "水处理与海水淡化",
+        "工业流体与消防系统",
+        "机械、矿山与冶金设备",
+        "电气与电力设备",
+        "暖通与冷却系统"
+      ],
+      "paragraphs": [
+        "了解应用位置，找到相关铸件，整理来图询价要求。"
+      ],
+      "images": [
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/446375a238f0f1ce-960.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/deb2605bb8693858-960.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/caabe72293e81055-960.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/fd3c44087502c2e8-960.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/c7c77cfc6a98f7af-960.webp",
+        "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/4aef0460df6045d0-960.webp"
+      ]
+    }
+  },
+  "footer": "志人铸造 · 中国铜合金铸件制造商。 关于我们 首页 关于我们 制造需求 合金 视频中心 新闻资讯 联系我们 Castings Equipment directory Pump castings Valve castings Pipe connections & filter castings Heat-exchanger castings Mechanical support & wear castings Electrical connection castings 螺旋桨铸件 Hardware & custom castings Applications Marine & ocean applications Water treatment & desalination Industrial fluids & fire systems Machinery, mining & metallurgy Electrical & power equipment HVAC & cooling systems 联系我们 +86-791-88670101 info@jxzrcasting.com WhatsApp: +86 19170070673 LinkedIn · Yiang Yan 188 Zhangshu Natural Village, Huangdu, Nanxin Township, Nanchang County, Nanchang, Jiangxi, P.R.China © 2026 Jiangxi Zhiren Stainless Steel Products Co., Ltd. / Precision casting · Global supply 隐私与数据使用",
+  "home": {
+    "hero_title": "铜合金铸件。 从所需零件出发。",
+    "images": [
+      "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/dark-red/assets/web/owner-workshop-20261008-1600.webp",
+      "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/0c3e010aa7010348-960.webp",
+      "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/d14e524bbec62de2-960.webp",
+      "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/05e80befc095000d-960.webp"
+    ],
+    "logo_url": "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/dark-red/assets/SHARED_1.webp"
+  },
+  "assets": {
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261022/first-article.webp": {
+      "file": "bd107737f86174aab982.webp",
+      "sha256": "acc9ddc5027c66d4b4b3696bb3f05e6ef9df1135ee9638346dbc8925765b4ffc",
+      "bytes": 41854,
+      "relative_url": "/uploads/jxzrcasting/bd107737f86174aab982.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261022/supplier-transfer.webp": {
+      "file": "b1d7ceb29f5f91ba1572.webp",
+      "sha256": "bffc974830891d2718d41b2eb507656808415bf5c66386d42334738fca0ffb29",
+      "bytes": 315194,
+      "relative_url": "/uploads/jxzrcasting/b1d7ceb29f5f91ba1572.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261022/traceability.webp": {
+      "file": "9c265f1589e4b569ab3e.webp",
+      "sha256": "3843191d8ce8418bf00f66854d0a05e1aa1d1883fb0159bb49e4b7f8d7be4b02",
+      "bytes": 256944,
+      "relative_url": "/uploads/jxzrcasting/9c265f1589e4b569ab3e.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261023/impeller-balance.webp": {
+      "file": "9e12fa1cebf5dfdcee47.webp",
+      "sha256": "48f25fc520efcb9ded0a1087787ce96608d704a1633e277009e1098cff294118",
+      "bytes": 164014,
+      "relative_url": "/uploads/jxzrcasting/9e12fa1cebf5dfdcee47.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261023/impeller-diameter.webp": {
+      "file": "b91fbaefe9f0bdff70b1.webp",
+      "sha256": "d37e818b73b30bf97437ae889919848075a890f084db621065929b807f76b178",
+      "bytes": 269862,
+      "relative_url": "/uploads/jxzrcasting/b91fbaefe9f0bdff70b1.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261023/porosity-section.webp": {
+      "file": "5bab47ca633d628eab20.webp",
+      "sha256": "49540920ae91c5f3375571399087189da9c1bba720b15a8914f29be04505204d",
+      "bytes": 65612,
+      "relative_url": "/uploads/jxzrcasting/5bab47ca633d628eab20.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261024/closed-passages.webp": {
+      "file": "190e7237f8cab38d19f4.webp",
+      "sha256": "564a8b3e5aad326477bd3d4d4172f9c3d625d19f8861ea284c94536cdf7f8255",
+      "bytes": 198820,
+      "relative_url": "/uploads/jxzrcasting/190e7237f8cab38d19f4.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261024/rotation-view.webp": {
+      "file": "b2c6c3062f6cee90a432.webp",
+      "sha256": "a490101790239b792d9f2d7735fdb95781f4f7b4f3d4239ea4093156b778d3e8",
+      "bytes": 79554,
+      "relative_url": "/uploads/jxzrcasting/b2c6c3062f6cee90a432.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261024/wear-ring-pair.webp": {
+      "file": "4520e759c1fa4aa35f58.webp",
+      "sha256": "5ec24cc92658d8cc92c083b07537e213f1e99dbf2e6597a9d5a5b4e6fbf9b665",
+      "bytes": 264696,
+      "relative_url": "/uploads/jxzrcasting/4520e759c1fa4aa35f58.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261026/balance-hole-function.webp": {
+      "file": "02aa81dbd8c03e927d38.webp",
+      "sha256": "b41ae9a36557e364be13214ea29c17bbc5740a697f52b33032d0307a419537f0",
+      "bytes": 76172,
+      "relative_url": "/uploads/jxzrcasting/02aa81dbd8c03e927d38.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261026/keyed-hub.webp": {
+      "file": "d5bbb59337487c361f84.webp",
+      "sha256": "ad4035cc98d212c357c18a3ada0e8481f718dfecd20cc742f04a300fc8801e7a",
+      "bytes": 264774,
+      "relative_url": "/uploads/jxzrcasting/d5bbb59337487c361f84.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-20261026/roughness-profiles.webp": {
+      "file": "2d708f8536120e28a0f7.webp",
+      "sha256": "d3c4d64baae035b736f605b47d812e325859d49c05d6c8165afcb69af979823e",
+      "bytes": 47334,
+      "relative_url": "/uploads/jxzrcasting/2d708f8536120e28a0f7.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-revision-20261020/impeller-machining.webp": {
+      "file": "7eb43baf755f2ebe50d7.webp",
+      "sha256": "cbf05bea9acafa212b953d9a8469e51e45a851fd4ee439d368e48d0cb1c89a5f",
+      "bytes": 330204,
+      "relative_url": "/uploads/jxzrcasting/7eb43baf755f2ebe50d7.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-revision-20261020/open-closed-impellers.webp": {
+      "file": "7665e4439ab18416779d.webp",
+      "sha256": "0db9701fa46cdd4bbb89c287ab1741a311d9ca0e7c7cda24c608b1cf45f6e092",
+      "bytes": 309458,
+      "relative_url": "/uploads/jxzrcasting/7665e4439ab18416779d.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/blog-revision-20261020/seawater-impeller-wear.webp": {
+      "file": "4f0bda894962bc77cfe2.webp",
+      "sha256": "1536926a14a31ae36ebdfd4f6e8e7bf36ffe30b4046eb046f9bfb3ee6937b3cb",
+      "bytes": 402080,
+      "relative_url": "/uploads/jxzrcasting/4f0bda894962bc77cfe2.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/marine-v3-p28.webp": {
+      "file": "3319985176c9096101b9.webp",
+      "sha256": "bfcfe7b3e3de27779c467d2a35732314d09d46493f2126770650eb1f97032842",
+      "bytes": 62144,
+      "relative_url": "/uploads/jxzrcasting/3319985176c9096101b9.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/marine-v4-p21.webp": {
+      "file": "8d0e095c161c22dc37a4.webp",
+      "sha256": "763ac6f6394f6611b034b1a907a811e8750cf5102152158e662c62364eb1aa89",
+      "bytes": 62854,
+      "relative_url": "/uploads/jxzrcasting/8d0e095c161c22dc37a4.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/marine-v4-p25.webp": {
+      "file": "a5fe8c91498ad6ace9c5.webp",
+      "sha256": "091b86d8efe6d1ad86790a4bb00f7ff9ebd8526e5984b2c683f513c537645952",
+      "bytes": 70970,
+      "relative_url": "/uploads/jxzrcasting/a5fe8c91498ad6ace9c5.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/marine-v4-p30.webp": {
+      "file": "f132efce8481da98186b.webp",
+      "sha256": "fefc302c571297b437db355552efec543d97c01de0d555c6f3698bd11aedf3b3",
+      "bytes": 69528,
+      "relative_url": "/uploads/jxzrcasting/f132efce8481da98186b.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-bronze-drive-nut-blanks.webp": {
+      "file": "d02d94a54d507d21365e.webp",
+      "sha256": "3d2403e5702055b6853ed06b832afab4e098f52699bf9344bf6c72400d552b58",
+      "bytes": 48728,
+      "relative_url": "/uploads/jxzrcasting/d02d94a54d507d21365e.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-bronze-gear-rim-blanks.webp": {
+      "file": "1ab14976ab82f3b6e149.webp",
+      "sha256": "0b10e50c5dc3c4944d6dc65a6b6469ab8af544d79c9a3676d7a95fc3d3f52ac4",
+      "bytes": 49062,
+      "relative_url": "/uploads/jxzrcasting/1ab14976ab82f3b6e149.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-bronze-pressure-blocks.webp": {
+      "file": "52b51acea5d3ec1ce6e6.webp",
+      "sha256": "a036d2e2c0296761e00d055c5a70a1b377a4f32f199fa6ef162f5c2a78015f5a",
+      "bytes": 64144,
+      "relative_url": "/uploads/jxzrcasting/52b51acea5d3ec1ce6e6.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-copper-cold-plate-feasibility.webp": {
+      "file": "22a565c9863b59f5f2f3.webp",
+      "sha256": "56fa54fa5ab8efa23fa37a0c16b47b3e1fb126ec5f88af21a40d3217060e505c",
+      "bytes": 38608,
+      "relative_url": "/uploads/jxzrcasting/22a565c9863b59f5f2f3.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-crusher-main-shaft-bushings.webp": {
+      "file": "d099ec3a10fad3c24c1a.webp",
+      "sha256": "720f1d29509b580c00f93a4a1ec45f20cb647f6cf3bedf3361132b484c208250",
+      "bytes": 49160,
+      "relative_url": "/uploads/jxzrcasting/d099ec3a10fad3c24c1a.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-downcoiler-bronze-wear-liners.webp": {
+      "file": "0e7d5fd7ebe1760c0c7b.webp",
+      "sha256": "ff541c773ad96137e5648d162b6c9932b178424fb7b05b53d2b423f196098a99",
+      "bytes": 33848,
+      "relative_url": "/uploads/jxzrcasting/0e7d5fd7ebe1760c0c7b.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-heavy-duty-bronze-pivot-bushings.webp": {
+      "file": "d8979afd7dcc1c3238d6.webp",
+      "sha256": "ee7955a25a7a05e4bf799969dd85e793cdad0e700c4a976ced08181054e347f1",
+      "bytes": 58190,
+      "relative_url": "/uploads/jxzrcasting/d8979afd7dcc1c3238d6.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-hydronic-connection-body-castings.webp": {
+      "file": "73f019304a94c627c3f1.webp",
+      "sha256": "d586ddd7c095604f0331fc9dde45e16fa273386759ef3148640722fdb88f69ae",
+      "bytes": 65860,
+      "relative_url": "/uploads/jxzrcasting/73f019304a94c627c3f1.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-liquid-cooling-manifold-development.webp": {
+      "file": "2ad76e72648c7ef59085.webp",
+      "sha256": "ee0ed4c4d5c1400cdcf125fb4318688688f88c51a997e81b71970963e0c01a83",
+      "bytes": 53548,
+      "relative_url": "/uploads/jxzrcasting/2ad76e72648c7ef59085.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-liquid-cooling-pump-housing-development.webp": {
+      "file": "3af855a47ee626ca0ddc.webp",
+      "sha256": "ef3eedf32c1d773641e60028a552ba9eebd12ad0ac9af40a85a881c4504c9042",
+      "bytes": 60920,
+      "relative_url": "/uploads/jxzrcasting/3af855a47ee626ca0ddc.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-liquid-cooling-quick-disconnect-feasibility.webp": {
+      "file": "ff551424c27e5c570fa9.webp",
+      "sha256": "6b41ac67caf08bd072a04b188a8b58bc1062f8ae56576d36af092abc98dd2fe5",
+      "bytes": 39904,
+      "relative_url": "/uploads/jxzrcasting/ff551424c27e5c570fa9.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-liquid-cooling-valve-body-development.webp": {
+      "file": "abf2046d9eedb021c8fe.webp",
+      "sha256": "617911e561ad21bfcbf19c0b463f5223e68dce6493318d9c7361d9d8a9d88445",
+      "bytes": 56376,
+      "relative_url": "/uploads/jxzrcasting/abf2046d9eedb021c8fe.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-rolling-mill-chock-wear-plates.webp": {
+      "file": "20de33c1414ee6e4263f.webp",
+      "sha256": "566bc1b6d397701136b8a9fb4b66b05df455d352f4d4c9ea1f918dc99eea5aa4",
+      "bytes": 34762,
+      "relative_url": "/uploads/jxzrcasting/20de33c1414ee6e4263f.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-rolling-mill-housing-nut-blanks.webp": {
+      "file": "058da63595fb6338aa8e.webp",
+      "sha256": "b329aa37aaaad8ff815c1b55da60ab68a72d4a1fc93ad9c1b07aff910be23891",
+      "bytes": 51942,
+      "relative_url": "/uploads/jxzrcasting/058da63595fb6338aa8e.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/product-metal-20261015/webp640/solutions-v1-parts-part-rolling-mill-screw-down-nut-blanks.webp": {
+      "file": "188550dd5be0f70b942e.webp",
+      "sha256": "6dadcdd07cda70fd8c866d6f1234b19757eea913987108a52bb07ff0d6f68fc9",
+      "bytes": 63630,
+      "relative_url": "/uploads/jxzrcasting/188550dd5be0f70b942e.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/032a7373c041ca84-960.webp": {
+      "file": "932974e822724062e8ef.webp",
+      "sha256": "bebac5033af0fd78a0a11d1be6f5f2e2d728339d4507ad8e590b601ccce1f5f4",
+      "bytes": 131896,
+      "relative_url": "/uploads/jxzrcasting/932974e822724062e8ef.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/03422d42bd6a8170-960.webp": {
+      "file": "ec8a8cf388710035c579.webp",
+      "sha256": "4290973484eb9ea71fe062528dfd7fc5a807f74790ce08d5e64a1e2d5cc3873f",
+      "bytes": 54208,
+      "relative_url": "/uploads/jxzrcasting/ec8a8cf388710035c579.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/05e80befc095000d-960.webp": {
+      "file": "6b27338d7c60495a2287.webp",
+      "sha256": "7b3b4c005270e22f92cc2813970efd405236f3d6d39e0c1ce7187c76c4848736",
+      "bytes": 86484,
+      "relative_url": "/uploads/jxzrcasting/6b27338d7c60495a2287.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/0731e5dc111da646-960.webp": {
+      "file": "094c30dc04c03b9ade72.webp",
+      "sha256": "830917b4204075d754819ca6a1fc669250332d4b79ee537c9632dbc2649812da",
+      "bytes": 40114,
+      "relative_url": "/uploads/jxzrcasting/094c30dc04c03b9ade72.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/07ec93aba0c44bcb-960.webp": {
+      "file": "626f12b945527c822169.webp",
+      "sha256": "087771e4110a33e0bb38c87ac01d0036d5e973625605f385727bd3349f679c08",
+      "bytes": 91502,
+      "relative_url": "/uploads/jxzrcasting/626f12b945527c822169.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/0c3e010aa7010348-960.webp": {
+      "file": "e1d0635b13a4432a9b36.webp",
+      "sha256": "453f8fd2a44adc08ba246caed2d163545ffa6154471549fe2657cb388f99ad2b",
+      "bytes": 89734,
+      "relative_url": "/uploads/jxzrcasting/e1d0635b13a4432a9b36.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/0f2c3a96b8280681-960.webp": {
+      "file": "02bb8f71d58002c4df91.webp",
+      "sha256": "eabfafe050b1a1e4a5c9f53735930bba04ccfeec710cdc6ae0887f23487643d6",
+      "bytes": 148818,
+      "relative_url": "/uploads/jxzrcasting/02bb8f71d58002c4df91.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/150e04cc32da6f63-960.webp": {
+      "file": "4e4bd1d748c9cafd8128.webp",
+      "sha256": "e03cd2be3ab758ba05072f2078fe6c5643d206bbc344d6fe5b3abef266370328",
+      "bytes": 87788,
+      "relative_url": "/uploads/jxzrcasting/4e4bd1d748c9cafd8128.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/1b45531e661eb98c-960.webp": {
+      "file": "50973642d7c34367d27e.webp",
+      "sha256": "c08f9cf6ec9ca1005859f28af1bb0fa8a4880776890aadf80ce9150f50d10bdd",
+      "bytes": 64756,
+      "relative_url": "/uploads/jxzrcasting/50973642d7c34367d27e.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/1b65f9269c7f7e07-960.webp": {
+      "file": "32c50c3b2fc9b2bc7302.webp",
+      "sha256": "d4510dc92debef39c7e5955d09cc743a10588ca0227b9c1c52e0383e2177c263",
+      "bytes": 88650,
+      "relative_url": "/uploads/jxzrcasting/32c50c3b2fc9b2bc7302.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/1fb2522ca81e439b-960.webp": {
+      "file": "92a4c8c653270025797f.webp",
+      "sha256": "2b993afe6fc7c07a775f851bba7f47b599216b7e6c11503961f3269e35a3b28c",
+      "bytes": 22740,
+      "relative_url": "/uploads/jxzrcasting/92a4c8c653270025797f.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/21e5db1a3c98a6a7-960.webp": {
+      "file": "0f069808063bd5e4a4d4.webp",
+      "sha256": "ca405e0fbb835f14308f562d51515e771ffbfc85c2bbb6b0db65d90e08219f65",
+      "bytes": 134780,
+      "relative_url": "/uploads/jxzrcasting/0f069808063bd5e4a4d4.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/2231399c9606d870-960.webp": {
+      "file": "2a33c1254810c621c304.webp",
+      "sha256": "abd6ac0de4ece0df7f4faed93c1633e7266059ab91e18d3061910848b36d1dda",
+      "bytes": 85692,
+      "relative_url": "/uploads/jxzrcasting/2a33c1254810c621c304.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/23643de259b3189d-960.webp": {
+      "file": "fbe9972636738157b043.webp",
+      "sha256": "dfd64e048d483784dd3d874acc3eb53bcf809507c50ac501c228ca5262967c4e",
+      "bytes": 72836,
+      "relative_url": "/uploads/jxzrcasting/fbe9972636738157b043.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/2442a0785cb36812-960.webp": {
+      "file": "cab46dd9b8b48f381637.webp",
+      "sha256": "aeef23042102df006c2019b240299e120aa75aa7c5978f282760a033369fe80b",
+      "bytes": 38616,
+      "relative_url": "/uploads/jxzrcasting/cab46dd9b8b48f381637.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/2571cbe2d1335173-960.webp": {
+      "file": "8dd5e92a4bfd51b6f69b.webp",
+      "sha256": "27ed5e75d552e40eceb67e6e8fa89d5d4df6b67b30c586285f8655a6da738c64",
+      "bytes": 87290,
+      "relative_url": "/uploads/jxzrcasting/8dd5e92a4bfd51b6f69b.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/26d3133d4a38fd90-960.webp": {
+      "file": "d5534cb819eb742f88c7.webp",
+      "sha256": "56494dd83a52b918ee0f5527efe6917bcfd216fa01a060178ac86d8168c2a31e",
+      "bytes": 130048,
+      "relative_url": "/uploads/jxzrcasting/d5534cb819eb742f88c7.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/283970628b8e7804-960.webp": {
+      "file": "705a1ae2c880a3cfb2bf.webp",
+      "sha256": "72bf84c17eda260f246be0fa6a20a3c6580156caff62c4483ae6eaaf673a1195",
+      "bytes": 93276,
+      "relative_url": "/uploads/jxzrcasting/705a1ae2c880a3cfb2bf.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/2dd4d9e8f45fcaf2-960.webp": {
+      "file": "60cc947fd905e7674568.webp",
+      "sha256": "3cba3bf97e1401086937d31926c73c8e5968a6bf73fb537bca6a6a19bfd288d2",
+      "bytes": 96108,
+      "relative_url": "/uploads/jxzrcasting/60cc947fd905e7674568.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/32e81b679197639c-960.webp": {
+      "file": "02fca60a1d729efa1a36.webp",
+      "sha256": "412c9d1df8ca8510253feb64b4505584fe29af0dde2af6b6f4384fb0f45ad40d",
+      "bytes": 107934,
+      "relative_url": "/uploads/jxzrcasting/02fca60a1d729efa1a36.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/446375a238f0f1ce-960.webp": {
+      "file": "75c26e6ff7d342aa7f87.webp",
+      "sha256": "4cdbdd83fdf52842576079070270689a4139b8d0f34026f74f524a4296d48c16",
+      "bytes": 109946,
+      "relative_url": "/uploads/jxzrcasting/75c26e6ff7d342aa7f87.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/49db1e060fd2dc22-960.webp": {
+      "file": "7407ad179a7f191b9d00.webp",
+      "sha256": "bec3ecd03f2fd73aad562848c67ee045c8ee14bf0667402a7d543e72a0383443",
+      "bytes": 113488,
+      "relative_url": "/uploads/jxzrcasting/7407ad179a7f191b9d00.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/4ff3bb8c973b024a-960.webp": {
+      "file": "32522c3552d726722c77.webp",
+      "sha256": "c91037d5bf456d318841417735426c81ec59fa3a96d08d2f1840ada860bb23f3",
+      "bytes": 38950,
+      "relative_url": "/uploads/jxzrcasting/32522c3552d726722c77.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/588c77d1c953e077-960.webp": {
+      "file": "0e9f59314e17a8b9e017.webp",
+      "sha256": "3b260a536d438c1bf9c70c95c813b7acd5a7bdb4e01bdfd626ed7b65c987c5ae",
+      "bytes": 136688,
+      "relative_url": "/uploads/jxzrcasting/0e9f59314e17a8b9e017.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/5cda5d9b36349609-960.webp": {
+      "file": "7aa76ded3ba6eeeda039.webp",
+      "sha256": "877f25a1440370ee1c8f8c32c9c9340e2a116d600868491d082e844efe600550",
+      "bytes": 110190,
+      "relative_url": "/uploads/jxzrcasting/7aa76ded3ba6eeeda039.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/5d9ae2c0ca028343-960.webp": {
+      "file": "6784c91545b94a3096c3.webp",
+      "sha256": "c4347b5daf4283a06fa1709039b7e3ad705b0fba4c10fccfad9fb46ec1de92a0",
+      "bytes": 186530,
+      "relative_url": "/uploads/jxzrcasting/6784c91545b94a3096c3.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/621dadd431a99363-960.webp": {
+      "file": "4f278ae047db3937827e.webp",
+      "sha256": "2896dfca5777e729a494f16572132345e0f0a657cc6be29f4115c5a415ec07fd",
+      "bytes": 31444,
+      "relative_url": "/uploads/jxzrcasting/4f278ae047db3937827e.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/6376b8000c703a85-960.webp": {
+      "file": "7a8b9cd9108390607972.webp",
+      "sha256": "be62ad5bd2ac853df0ff9fea742f440ec5aeb540ac50f88e8a3e7228a815b141",
+      "bytes": 84538,
+      "relative_url": "/uploads/jxzrcasting/7a8b9cd9108390607972.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/68f7428e28cee7cc-960.webp": {
+      "file": "5508470bbe543d321771.webp",
+      "sha256": "23f9c2f94ef3ef6035582631e787427d43edb5f900c5b9377f5df1341f899364",
+      "bytes": 74434,
+      "relative_url": "/uploads/jxzrcasting/5508470bbe543d321771.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/6995e8496e3b7b8e-960.webp": {
+      "file": "3f4eefc482d8fdbfad02.webp",
+      "sha256": "199a1d648191d8a9d8ace0a3f630330ba4419c9fcdca6c6fe49e6f244d770a6e",
+      "bytes": 103452,
+      "relative_url": "/uploads/jxzrcasting/3f4eefc482d8fdbfad02.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/69acb60f77d1051c-960.webp": {
+      "file": "89db637658164fcd7bb4.webp",
+      "sha256": "ffd09258a6078b8bda82e7c5ba56ea5b67fb256b74b034b4097c1aaf4d09100c",
+      "bytes": 208524,
+      "relative_url": "/uploads/jxzrcasting/89db637658164fcd7bb4.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/6ab5f4c4b58c05f8-960.webp": {
+      "file": "eba29f4fc881ce6b2620.webp",
+      "sha256": "014b954f3d6f421dd2e35d6c31f0df9a2e07535664ed781f71d0f0ca79eaf55e",
+      "bytes": 179042,
+      "relative_url": "/uploads/jxzrcasting/eba29f4fc881ce6b2620.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/6d0967b54e6ebcb1-960.webp": {
+      "file": "aa873291242856bee286.webp",
+      "sha256": "efaf1b9415d3a7d02e56699cb766a32dc7d0f75583cbb592f33317f377566971",
+      "bytes": 97766,
+      "relative_url": "/uploads/jxzrcasting/aa873291242856bee286.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/6d6a7513cfa07926-960.webp": {
+      "file": "8bf8cbaa60daa77d495a.webp",
+      "sha256": "26e09adc70acc944aec740deb92e8406b84b44a4e04c49d679e554d5553ea8b8",
+      "bytes": 150054,
+      "relative_url": "/uploads/jxzrcasting/8bf8cbaa60daa77d495a.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/78f004df0319c327-960.webp": {
+      "file": "4ec4ece0ae28aaafcf16.webp",
+      "sha256": "77a77ea60441f96cc472fc585c4e14a7b6181652d9d36ecd51dd110887e384bf",
+      "bytes": 74840,
+      "relative_url": "/uploads/jxzrcasting/4ec4ece0ae28aaafcf16.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/7c0c0adc20973aac-960.webp": {
+      "file": "cf2506c245e2a98cbd3c.webp",
+      "sha256": "0335c5ba22ec532a83c056a7ca633bbab553071d42d4b42ef1b0e07604ba2dbc",
+      "bytes": 108464,
+      "relative_url": "/uploads/jxzrcasting/cf2506c245e2a98cbd3c.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/7c81d402cf94fcbf-960.webp": {
+      "file": "c4a833b1c1484b1604ab.webp",
+      "sha256": "f56c55eff4065820d7db0fb0dd735bff40f4e91feee752535aed919dd036dd44",
+      "bytes": 146592,
+      "relative_url": "/uploads/jxzrcasting/c4a833b1c1484b1604ab.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/7d1d289d4947fa44-960.webp": {
+      "file": "23fb65eecc933f8bbc32.webp",
+      "sha256": "3a622c129c3f7b123b25d95a7223bccf48c393cdb71c7ce33e89e43471346d86",
+      "bytes": 102274,
+      "relative_url": "/uploads/jxzrcasting/23fb65eecc933f8bbc32.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/82a616ae68c28803-960.webp": {
+      "file": "b9d24e3f857fc41cd4d6.webp",
+      "sha256": "dbac44995421c7d1d10cef46f9897bb44a2bc3f68d60a939082cb96d8d018fe4",
+      "bytes": 188706,
+      "relative_url": "/uploads/jxzrcasting/b9d24e3f857fc41cd4d6.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/84e39656d81b496d-960.webp": {
+      "file": "5dec9481dca5f327974f.webp",
+      "sha256": "b5c5b6b37a887d3f14364d71371dced1eb088710fcc50d936cc9366efc7ebaea",
+      "bytes": 145394,
+      "relative_url": "/uploads/jxzrcasting/5dec9481dca5f327974f.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/869fe41e774222ed-601.webp": {
+      "file": "82e91209125e02777f05.webp",
+      "sha256": "43757853626c77310e60a20691b37c815950152ad7225513e6be4f5f6c814f22",
+      "bytes": 53574,
+      "relative_url": "/uploads/jxzrcasting/82e91209125e02777f05.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/8a54c2359c9a3d70-960.webp": {
+      "file": "5f8faa2de62073d44e12.webp",
+      "sha256": "c26b50d59e545c9abdf14d83cf16c3285ce5f65294d74f8248984886391cbf73",
+      "bytes": 116006,
+      "relative_url": "/uploads/jxzrcasting/5f8faa2de62073d44e12.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/8c01588c16d32fe1-960.webp": {
+      "file": "b17158e3a829c97102e4.webp",
+      "sha256": "465ee6a0484c6895518aa6527a30a0a6a60519985fae13d5b59fdd6906366ca0",
+      "bytes": 57202,
+      "relative_url": "/uploads/jxzrcasting/b17158e3a829c97102e4.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/8c5017dd4f33d7f9-960.webp": {
+      "file": "f1e553d66d9ef2e82481.webp",
+      "sha256": "aa30f699b02f8b5a1f18ee2c35c32b06731a30d69127749399f571a029c0fbb9",
+      "bytes": 56774,
+      "relative_url": "/uploads/jxzrcasting/f1e553d66d9ef2e82481.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/945add2f4f3aae0e-960.webp": {
+      "file": "b01d0302ab0b0df91f13.webp",
+      "sha256": "18ef5ee790f11af9d0b388c273b5dcac2b92d50f985c72e7688322506d9b37a2",
+      "bytes": 100148,
+      "relative_url": "/uploads/jxzrcasting/b01d0302ab0b0df91f13.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/94f5a011f7ce27d7-960.webp": {
+      "file": "e868041ea7a66d19867a.webp",
+      "sha256": "6fa946c8082d7d5de8e3ccd455476d079a4c9f3b667876fecf2ddd48022d6d4f",
+      "bytes": 129234,
+      "relative_url": "/uploads/jxzrcasting/e868041ea7a66d19867a.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/9777e23dec73af32-960.webp": {
+      "file": "f9cfe95419c9cf6966ef.webp",
+      "sha256": "ff8b29781d9044bcce41a92249ced2bbfbe1e7b07b680dcaabf2b8cbb167b01c",
+      "bytes": 88984,
+      "relative_url": "/uploads/jxzrcasting/f9cfe95419c9cf6966ef.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/9a6cfa4bbe218956-960.webp": {
+      "file": "125246db7a129fb2e259.webp",
+      "sha256": "da21fecea3e89b68657c62355ac32e216743de614033caad1f283d6ba633f7b0",
+      "bytes": 62892,
+      "relative_url": "/uploads/jxzrcasting/125246db7a129fb2e259.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/9f023b8cc21f8350-640.webp": {
+      "file": "8fb7476258e141135233.webp",
+      "sha256": "c4d64e1506410892bf2312667344963e04f2dd8d084c9c6937872e91bc482fde",
+      "bytes": 46708,
+      "relative_url": "/uploads/jxzrcasting/8fb7476258e141135233.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/a3460e8343b0e65e-960.webp": {
+      "file": "881932fa484a383b0c9b.webp",
+      "sha256": "63f991ae16abad1c85c7b92591522f8eeb92cc107e66a711904aabdcb01ae7b2",
+      "bytes": 88208,
+      "relative_url": "/uploads/jxzrcasting/881932fa484a383b0c9b.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/a87485d7fddcfd8b-960.webp": {
+      "file": "7cf087750411de207d72.webp",
+      "sha256": "71b3e3b6b8742ff97b1c873b8ca380963fe3ba9d7c332e07e1cf7ad566d6b527",
+      "bytes": 64238,
+      "relative_url": "/uploads/jxzrcasting/7cf087750411de207d72.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/a98f22f1168c3117-960.webp": {
+      "file": "4f29bd22e7fb01610655.webp",
+      "sha256": "33bdf306b96d5c8ef92f164b6af3a2ad2892f117ae9f368baef8cbe2ac934847",
+      "bytes": 84624,
+      "relative_url": "/uploads/jxzrcasting/4f29bd22e7fb01610655.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/b0ed55c345bc015e-960.webp": {
+      "file": "fac06dff77a9e634e151.webp",
+      "sha256": "e28efe48cd54b82abafb98c5bd6e119e599b7475402ec7d411c10fa6b31ef69b",
+      "bytes": 101296,
+      "relative_url": "/uploads/jxzrcasting/fac06dff77a9e634e151.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/b7c8a7f57a8fa586-960.webp": {
+      "file": "55d73d15851f7a026b86.webp",
+      "sha256": "57c388f04112c0a9348c1a7b48f9a50a7bee255b5960d1df7816d41a229a4600",
+      "bytes": 103224,
+      "relative_url": "/uploads/jxzrcasting/55d73d15851f7a026b86.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/b81e6b2d1a954a11-960.webp": {
+      "file": "1cb3fce78401319910b3.webp",
+      "sha256": "96d65f55eb48980ef2207802f116f265b81e46507f590b3ea08805b89876b0d4",
+      "bytes": 76542,
+      "relative_url": "/uploads/jxzrcasting/1cb3fce78401319910b3.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/b875ebb3edafc23e-960.webp": {
+      "file": "59d326a30ce44596b3a6.webp",
+      "sha256": "8270c9fa383754e76a2053a45bedbc6543cedcf28497738ac370c3c550e46f94",
+      "bytes": 158352,
+      "relative_url": "/uploads/jxzrcasting/59d326a30ce44596b3a6.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/b91c63adc1dc6d86-960.webp": {
+      "file": "0523a7ff5023c91387c7.webp",
+      "sha256": "ab0b4e429aa8d14778399acd46782a03aed59bf82e7e058d9004d6a05c7bc9ca",
+      "bytes": 66244,
+      "relative_url": "/uploads/jxzrcasting/0523a7ff5023c91387c7.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/bb2a9346b8e4dff8-960.webp": {
+      "file": "8da384c9c8d1ad5c852b.webp",
+      "sha256": "514de66ad49f058755a63fc3e422bf7cb01b78c6c6db66992aaa950d01fc02df",
+      "bytes": 116572,
+      "relative_url": "/uploads/jxzrcasting/8da384c9c8d1ad5c852b.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/be13ed232edfeb76-960.webp": {
+      "file": "fd6b02a231f2d207dead.webp",
+      "sha256": "4d8bc568bfc573fed1d55bf969aa539f6c80e02c6629183e59b03f7c5e82476a",
+      "bytes": 38156,
+      "relative_url": "/uploads/jxzrcasting/fd6b02a231f2d207dead.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/c10f517260c04643-960.webp": {
+      "file": "e96d1fcad787afaec8b7.webp",
+      "sha256": "e5a4fd19079921d57e455362d78dab63a1a167bcb7c1083bf306d75f9000b1bd",
+      "bytes": 78864,
+      "relative_url": "/uploads/jxzrcasting/e96d1fcad787afaec8b7.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/c113c10dab515825-960.webp": {
+      "file": "eb0fefc38f1662c26939.webp",
+      "sha256": "f23cc6561ce86b07f6bda7615b6c22c7fbcb58a656fe64749c53b67440255baf",
+      "bytes": 133510,
+      "relative_url": "/uploads/jxzrcasting/eb0fefc38f1662c26939.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/c25aa75859ea7835-960.webp": {
+      "file": "db874dae87123086de00.webp",
+      "sha256": "4a04b05211f196e7d6fc5af7478a9351d7973da7f44d95467ac1d2a917c27dec",
+      "bytes": 56752,
+      "relative_url": "/uploads/jxzrcasting/db874dae87123086de00.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/cd4f2b1fae60d6db-960.webp": {
+      "file": "d49b6f8a40e6a580ceef.webp",
+      "sha256": "9e89a01282daf5665034b2333abb44f74fe4cb28fda5da6af97a406282e5939a",
+      "bytes": 128544,
+      "relative_url": "/uploads/jxzrcasting/d49b6f8a40e6a580ceef.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/cdfc2b2b84d261d8-960.webp": {
+      "file": "d1838fa0551b6a86e600.webp",
+      "sha256": "5f21f3a83d578af033f43d4c0130456edde4329e014eea266f6fc66c65753de6",
+      "bytes": 106324,
+      "relative_url": "/uploads/jxzrcasting/d1838fa0551b6a86e600.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/ce27ca8dca78d9eb-960.webp": {
+      "file": "96e5f76455ea4dd8367e.webp",
+      "sha256": "c887251437bfe40cd1df5ae2f92203eb59e48c327f29eb136bf5645f64b7fd2f",
+      "bytes": 42616,
+      "relative_url": "/uploads/jxzrcasting/96e5f76455ea4dd8367e.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/cf177be8e6e96044-960.webp": {
+      "file": "5264cb06d2b69d53de64.webp",
+      "sha256": "258c9e9b8e29f82a5e03c8b2a2b90c7d3abf5206a8306f530349b9a613ec3922",
+      "bytes": 63694,
+      "relative_url": "/uploads/jxzrcasting/5264cb06d2b69d53de64.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/d10714655d60164b-960.webp": {
+      "file": "b2de84add0ce6a88862f.webp",
+      "sha256": "2c8071b1124023b97aedf9c10fc7d65b4eb0d02721e61b57de56b5072c7327e5",
+      "bytes": 141550,
+      "relative_url": "/uploads/jxzrcasting/b2de84add0ce6a88862f.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/d14e524bbec62de2-960.webp": {
+      "file": "2cef5869cd71c6b5320f.webp",
+      "sha256": "1da2aaa7a354a57012ce87f472316c5aea1d30447ea2880545344388cd359546",
+      "bytes": 141362,
+      "relative_url": "/uploads/jxzrcasting/2cef5869cd71c6b5320f.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/d4079ce1ca1322c3-960.webp": {
+      "file": "29a608eead18e1b91fa9.webp",
+      "sha256": "e4fccb0417d3358a9a6e99428397a34f86d2fee2de3b2ae832b288d2e4ac68fd",
+      "bytes": 49656,
+      "relative_url": "/uploads/jxzrcasting/29a608eead18e1b91fa9.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/d8d6adfb66b29fcd-960.webp": {
+      "file": "98c797c6d40d287fce7a.webp",
+      "sha256": "e1df3ee1db2326988690558d908ed4659d075ded7a74b7bdcdba1163691b56ad",
+      "bytes": 139748,
+      "relative_url": "/uploads/jxzrcasting/98c797c6d40d287fce7a.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/e14bcd853afd27a2-960.webp": {
+      "file": "4f1455a78c1f472adf0c.webp",
+      "sha256": "66cf1298e1b642b2b32cddba964049f4c118daa5b1352455400877a42efd295b",
+      "bytes": 72798,
+      "relative_url": "/uploads/jxzrcasting/4f1455a78c1f472adf0c.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/e4eee3fe94829314-960.webp": {
+      "file": "5bff07ee3cc64cc47053.webp",
+      "sha256": "e449b12eb22b8e73929638ffc67ed27b5796dfa6c4d68469d498994a54766314",
+      "bytes": 52386,
+      "relative_url": "/uploads/jxzrcasting/5bff07ee3cc64cc47053.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/ef9c65fe96be56df-960.webp": {
+      "file": "613b4745ca0acd9be309.webp",
+      "sha256": "6e96b9902a67afafa507877140bf73907aed18663053895968be9909e40e2b14",
+      "bytes": 46058,
+      "relative_url": "/uploads/jxzrcasting/613b4745ca0acd9be309.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/f6fe8d01b8c255a7-960.webp": {
+      "file": "600c5c90b409e924b586.webp",
+      "sha256": "064997b047d9e036223afa0867e69bbc50970701a201952f9c73b8884172fa61",
+      "bytes": 92612,
+      "relative_url": "/uploads/jxzrcasting/600c5c90b409e924b586.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/f7320f16d878613c-960.webp": {
+      "file": "28e7142264fa6180f250.webp",
+      "sha256": "892c121d30565e6903625e0a7be1d8c2b3a982e429fd24edd1e64f3cdacf35ba",
+      "bytes": 94062,
+      "relative_url": "/uploads/jxzrcasting/28e7142264fa6180f250.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/f8e391d954993dc3-960.webp": {
+      "file": "897a41e272d2f8a17f15.webp",
+      "sha256": "0cf6098e0bd91836efffe19deb14485323868f11f0795948d2666a00295c3230",
+      "bytes": 135796,
+      "relative_url": "/uploads/jxzrcasting/897a41e272d2f8a17f15.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/assets/responsive-20261023/fb4dffc9ad9b7061-960.webp": {
+      "file": "eb70eec48b2e8656d197.webp",
+      "sha256": "56383e97b60771f4fdb3295d71e831daf491e734b0b41b77c51902884a5a0075",
+      "bytes": 143762,
+      "relative_url": "/uploads/jxzrcasting/eb70eec48b2e8656d197.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/dark-red/assets/SHARED_1.webp": {
+      "file": "27a20b4bb1a2f5080ccf.webp",
+      "sha256": "53fe68c69cd051ec6d75b524e8beb2acdbbdbd8c25cf540764a2057d4b82d30c",
+      "bytes": 10402,
+      "relative_url": "/uploads/jxzrcasting/27a20b4bb1a2f5080ccf.webp"
+    },
+    "https://www.jxzrcasting.com/wp-content/themes/zhiren-code/dark-red/assets/web/owner-workshop-20261008-1600.webp": {
+      "file": "e25d2530d3a6637c1202.webp",
+      "sha256": "8d6b6fde515e7bd754cc573ae5340e63d30d184d9a5ebd0e7180ad5a30b3d9d1",
+      "bytes": 271298,
+      "relative_url": "/uploads/jxzrcasting/e25d2530d3a6637c1202.webp"
+    }
+  }
+}
